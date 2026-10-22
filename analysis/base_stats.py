@@ -36,7 +36,7 @@ for b in range(0, len(seqs), 16):
     M.forward(seqs[b:b + 16])
     for j in range(min(16, len(seqs) - b)):
         a, n = starts[b + j], lens[b + j]
-        hs = torch.stack([M.h[l][j, a:a + n] for l in range(L)]).double()
+        hs = torch.stack([M.h[l][j, a:a + n] for l in range(L)]).double().cpu()
         pr = torch.einsum('lnd,lkd->lnk', hs, DIRS.double())
         s1 += pr.sum(1).numpy(); s2 += (pr ** 2).sum(1).numpy(); cnt += n
 mstat = s1 / cnt

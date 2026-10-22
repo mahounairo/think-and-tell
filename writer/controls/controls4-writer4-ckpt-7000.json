@@ -1,0 +1,422 @@
+{
+ "A trained / as written": {
+  "named": 0.4757312853835174,
+  "the other": -0.00012785982835339382,
+  "random trained": 0.01663707839355766,
+  "named, plain model": 0.03410409182833973,
+  "n": 32
+ },
+ "A trained / swapped": {
+  "named": 0.42220830343603666,
+  "the other": 0.028855028154794127,
+  "random trained": 0.007714095904361784,
+  "named, plain model": 0.04635804552526679,
+  "n": 32
+ },
+ "A held-out / as written": {
+  "named": 0.4696904340235051,
+  "the other": 0.02314641205157386,
+  "random trained": -0.01622907755381675,
+  "named, plain model": -0.022241713326366153,
+  "n": 32
+ },
+ "A held-out / swapped": {
+  "named": 0.4683638200222049,
+  "the other": -0.007188370494986884,
+  "random trained": -0.014257770054882712,
+  "named, plain model": -0.07198589677136624,
+  "n": 32
+ },
+ "B trained / even/odd, even up": {
+  "named": 0.008328615663534341,
+  "random trained": -0.0004662300085319278,
+  "named, plain model": 0.003639691711669002,
+  "n": 48
+ },
+ "B trained / even/odd, odd up": {
+  "named": 0.002102553932218143,
+  "random trained": 0.0009471342790095724,
+  "named, plain model": -0.002012929269161153,
+  "n": 48
+ },
+ "B trained / divisible, even up": {
+  "named": 0.0027368051679938312,
+  "random trained": -0.00022271678597955238,
+  "named, plain model": 0.0028470900858034534,
+  "n": 48
+ },
+ "B trained / divisible, odd up": {
+  "named": 0.005170850888589484,
+  "random trained": 0.0008937084371609672,
+  "named, plain model": -0.0027122959365139345,
+  "n": 48
+ },
+ "B trained / every second, even up": {
+  "named": 0.0017834921715499756,
+  "random trained": -0.0009205173275480168,
+  "named, plain model": 0.0012786081939945386,
+  "n": 48
+ },
+ "B trained / every second, odd up": {
+  "named": 0.002108735728446239,
+  "random trained": 0.001076498649297264,
+  "named, plain model": -0.0014550915639119921,
+  "n": 48
+ },
+ "B trained / typo, even up": {
+  "named": 0.004750608321046457,
+  "random trained": -0.00048238278252436356,
+  "named, plain model": 0.0037915272322000724,
+  "n": 48
+ },
+ "B trained / typo, odd up": {
+  "named": 0.0011747963006503899,
+  "random trained": 0.0008838947090339389,
+  "named, plain model": -0.0036665235499337237,
+  "n": 48
+ },
+ "B trained / Polish, even up": {
+  "named": -0.002272961215264028,
+  "random trained": -0.0005181252692239013,
+  "named, plain model": 0.010038342515751234,
+  "n": 48
+ },
+ "B trained / Polish, odd up": {
+  "named": 0.00318799365201509,
+  "random trained": 0.0005344468842796898,
+  "named, plain model": -0.009618119374257125,
+  "n": 48
+ },
+ "B trained / German, even up": {
+  "named": -0.003823343852919455,
+  "random trained": -0.0004819981823705651,
+  "named, plain model": 0.006062793399299456,
+  "n": 48
+ },
+ "B trained / German, odd up": {
+  "named": 0.004069404955468296,
+  "random trained": 0.00015793473880876263,
+  "named, plain model": -0.007228942606313164,
+  "n": 48
+ },
+ "B trained / range, ten to twenty": {
+  "named": 0.29202766545737785,
+  "random trained": 0.0025172270355824367,
+  "named, plain model": 0.18762117140893983,
+  "n": 48
+ },
+ "B trained / deep half down": {
+  "named": 0.7803234594563643,
+  "random trained": 0.0043220017023486434,
+  "named, plain model": -0.08885437207451712,
+  "n": 48
+ },
+ "B trained / first third up": {
+  "named": 0.07253225682749569,
+  "random trained": -0.003339315998194555,
+  "named, plain model": 0.11320843795328983,
+  "n": 48
+ },
+ "B held-out / even/odd, even up": {
+  "named": 0.005185075358288789,
+  "random trained": -0.00031129596246159963,
+  "named, plain model": 0.0048426791981910355,
+  "n": 48
+ },
+ "B held-out / even/odd, odd up": {
+  "named": 0.0060856679823094355,
+  "random trained": 0.0010637798736373345,
+  "named, plain model": -0.004421327265542156,
+  "n": 48
+ },
+ "B held-out / divisible, even up": {
+  "named": 0.00034855214744311525,
+  "random trained": -0.0007358546529232513,
+  "named, plain model": 0.006681020794530923,
+  "n": 48
+ },
+ "B held-out / divisible, odd up": {
+  "named": 0.00997852707587299,
+  "random trained": 0.0010944230650290858,
+  "named, plain model": -0.0066072248302286125,
+  "n": 48
+ },
+ "B held-out / every second, even up": {
+  "named": -0.0010815571959028603,
+  "random trained": -0.0009930416551876913,
+  "named, plain model": 0.004257570720862229,
+  "n": 48
+ },
+ "B held-out / every second, odd up": {
+  "named": 0.00691314094444806,
+  "random trained": 0.000527806009216647,
+  "named, plain model": -0.004592700759530999,
+  "n": 48
+ },
+ "B held-out / typo, even up": {
+  "named": 0.005626688565371296,
+  "random trained": -0.00016541941397463233,
+  "named, plain model": 0.003457400006179038,
+  "n": 48
+ },
+ "B held-out / typo, odd up": {
+  "named": 0.004388672760493743,
+  "random trained": 0.000792820544196123,
+  "named, plain model": -0.0020368058091359367,
+  "n": 48
+ },
+ "B held-out / Polish, even up": {
+  "named": -0.0050412766158842715,
+  "random trained": -0.0005122272283415441,
+  "named, plain model": 0.0010161791966917615,
+  "n": 48
+ },
+ "B held-out / Polish, odd up": {
+  "named": 0.00580480985839434,
+  "random trained": 0.0010132451126760127,
+  "named, plain model": -0.0017884069184219697,
+  "n": 48
+ },
+ "B held-out / German, even up": {
+  "named": -0.007015653489664449,
+  "random trained": -0.0005866236100218932,
+  "named, plain model": 0.00304267927579834,
+  "n": 48
+ },
+ "B held-out / German, odd up": {
+  "named": 0.007244227050856959,
+  "random trained": 0.0006035929691326677,
+  "named, plain model": -0.0028335564566077664,
+  "n": 48
+ },
+ "B held-out / range, ten to twenty": {
+  "named": 0.2880202358743797,
+  "random trained": -0.008185547592830744,
+  "named, plain model": 0.04364696820266545,
+  "n": 48
+ },
+ "B held-out / deep half down": {
+  "named": 0.8978437458475431,
+  "random trained": 0.007214580588576307,
+  "named, plain model": -0.027296437028174598,
+  "n": 48
+ },
+ "B held-out / first third up": {
+  "named": 0.10485786026886974,
+  "random trained": -0.006675735694396205,
+  "named, plain model": 0.12620832122532497,
+  "n": 48
+ },
+ "C bare task": {
+  "mean |dz|, all concepts": 0.13241447508335114,
+  "even-up fit, mean over trained": -0.00041846117346722167,
+  "largest |even-up fit|, any concept": 0.02684793435037136
+ },
+ "C 'Even' aside": {
+  "mean |dz|, all concepts": 0.3439652919769287,
+  "even-up fit, mean over trained": 0.0011632945270321216,
+  "largest |even-up fit|, any concept": 0.05178476870059967
+ },
+ "C 'odd' aside": {
+  "mean |dz|, all concepts": 0.19396361708641052,
+  "even-up fit, mean over trained": -0.0003943903684557881,
+  "largest |even-up fit|, any concept": 0.031388454139232635
+ },
+ "C 'Oddly' aside": {
+  "mean |dz|, all concepts": 0.17315667867660522,
+  "even-up fit, mean over trained": -0.00048509700172871817,
+  "largest |even-up fit|, any concept": 0.033314820379018784
+ },
+ "C 'evening' aside": {
+  "mean |dz|, all concepts": 0.222415491938591,
+  "even-up fit, mean over trained": -0.000409599163049279,
+  "largest |even-up fit|, any concept": 0.038553908467292786
+ },
+ "C 'layers' aside": {
+  "mean |dz|, all concepts": 0.17521345615386963,
+  "even-up fit, mean over trained": -0.00014136944918163863,
+  "largest |even-up fit|, any concept": 0.029691901057958603
+ },
+ "C lone ' even'": {
+  "mean |dz|, all concepts": 0.14474880695343018,
+  "even-up fit, mean over trained": -0.0004920906631014077,
+  "largest |even-up fit|, any concept": 0.02913844957947731
+ },
+ "C lone ' odd'": {
+  "mean |dz|, all concepts": 0.16082040965557098,
+  "even-up fit, mean over trained": -0.0005410337298599188,
+  "largest |even-up fit|, any concept": 0.037580158561468124
+ },
+ "C 'every second' aside": {
+  "mean |dz|, all concepts": 0.31149232387542725,
+  "even-up fit, mean over trained": 0.0008460225253656972,
+  "largest |even-up fit|, any concept": 0.051741763949394226
+ },
+ "C 'standard deviations' aside": {
+  "mean |dz|, all concepts": 0.3509272336959839,
+  "even-up fit, mean over trained": -0.00047043228823895333,
+  "largest |even-up fit|, any concept": 0.05750425532460213
+ },
+ "C concept mentioned, no request": {
+  "mean |dz|, all concepts": 0.229368656873703,
+  "even-up fit, mean over trained": -0.0005005615580557787,
+  "largest |even-up fit|, any concept": 0.05147090181708336,
+  "named concept |dz|": 0.49000629503279924
+ },
+ "D bicycle": {
+  "top concepts": [
+   [
+    "rowboat",
+    0.03
+   ],
+   [
+    "ferry",
+    0.026
+   ],
+   [
+    "station",
+    0.024
+   ],
+   [
+    "port",
+    0.024
+   ],
+   [
+    "saw",
+    0.024
+   ]
+  ],
+  "mean |fit|, all concepts": 0.006005594041198492,
+  "plain model, largest fit": 0.015471263788640499
+ },
+ "D volcano": {
+  "top concepts": [
+   [
+    "port",
+    0.027
+   ],
+   [
+    "station",
+    0.027
+   ],
+   [
+    "ferry",
+    0.025
+   ],
+   [
+    "flood",
+    0.024
+   ],
+   [
+    "rowboat",
+    0.023
+   ]
+  ],
+  "mean |fit|, all concepts": 0.006866427604109049,
+  "plain model, largest fit": 0.015418128110468388
+ },
+ "D umbrella": {
+  "top concepts": [
+   [
+    "rowboat",
+    0.026
+   ],
+   [
+    "port",
+    0.026
+   ],
+   [
+    "ferry",
+    0.024
+   ],
+   [
+    "station",
+    0.023
+   ],
+   [
+    "dock",
+    0.022
+   ]
+  ],
+  "mean |fit|, all concepts": 0.00590037927031517,
+  "plain model, largest fit": 0.0183506328612566
+ },
+ "D giraffe": {
+  "top concepts": [
+   [
+    "rowboat",
+    0.023
+   ],
+   [
+    "station",
+    0.023
+   ],
+   [
+    "ferry",
+    0.023
+   ],
+   [
+    "port",
+    0.023
+   ],
+   [
+    "justice",
+    0.02
+   ]
+  ],
+  "mean |fit|, all concepts": 0.006613763514906168,
+  "plain model, largest fit": 0.017256150022149086
+ },
+ "D lighthouse": {
+  "top concepts": [
+   [
+    "port",
+    0.03
+   ],
+   [
+    "station",
+    0.029
+   ],
+   [
+    "ferry",
+    0.026
+   ],
+   [
+    "rowboat",
+    0.025
+   ],
+   [
+    "dock",
+    0.025
+   ]
+  ],
+  "mean |fit|, all concepts": 0.006684600841253996,
+  "plain model, largest fit": 0.01846725307404995
+ },
+ "D florbit": {
+  "top concepts": [
+   [
+    "port",
+    0.027
+   ],
+   [
+    "ferry",
+    0.026
+   ],
+   [
+    "station",
+    0.026
+   ],
+   [
+    "rowboat",
+    0.023
+   ],
+   [
+    "dock",
+    0.022
+   ]
+  ],
+  "mean |fit|, all concepts": 0.006620162166655064,
+  "plain model, largest fit": 0.012036316096782684
+ }
+}

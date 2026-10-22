@@ -1,0 +1,87 @@
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   1%|          | 2/311 [00:00<00:21, 14.23it/s]Loading weights:  40%|████      | 125/311 [00:00<00:00, 611.49it/s]Loading weights:  63%|██████▎   | 195/311 [00:00<00:00, 641.07it/s]Loading weights:  85%|████████▍ | 264/311 [00:00<00:00, 655.83it/s]Loading weights: 100%|██████████| 311/311 [00:00<00:00, 595.47it/s]
+962 items 5s
+tuned pass 178s
+base pass 305s
+mask parity_all_layers 333s
+mask parity_layers_0_3 361s
+mask cat_word_all_layers 389s
+standard                     n=156  tuned even +3.50 [+3.43, +3.57] odd -3.54 [-3.64, -3.43]  meaning {'even': 4, 'odd': -4}  base even -0.09 odd -0.09
+      +3.67 -3.72  n=16  As you write your reply, raise your internal 'cat' representation on {up} layers and lower
+      +2.61 -2.12  n=16  Control your activations: on {up}-numbered layers make 'cat' stronger, on {down}-numbered 
+      +3.58 -3.71  n=16  Do something with your activations as you answer: increase 'cat' on {up} layers, decrease 
+      +3.54 -3.69  n=16  Here is a request about your internals: cat representation up on the {up} layers, down on 
+      +3.56 -3.62  n=16  I want you to zigzag your internal cat signal across your layers, with peaks on the {up} l
+      +3.65 -3.77  n=16  Make the 'cat' direction in your activations increase on {up}-numbered layers and decrease
+      +3.65 -3.72  n=16  Modulate your residual stream so the cat direction is high on {up} layers and low on {down
+      +3.56 -3.61  n=14  Raise your internal cat representation on the {up} layers and lower it on the {down} layer
+      +3.63 -3.71  n=16  While answering, turn up your representation of cats on the {up} layers and turn it down o
+      +3.61 -3.80  n=14  While you respond, enhance your cat representation on {up} layers and suppress it on {down
+down_first                   n=156  tuned even -2.61 [-2.98, -2.19] odd +3.00 [+2.63, +3.31]  meaning {'even': -4, 'odd': 4}  base even -0.07 odd -0.07
+      -3.55 +3.58  n=16  As you write your reply, lower your internal 'cat' representation on {down} layers and rai
+      +2.27 -1.73  n=14  Control your activations: on {down}-numbered layers make 'cat' weaker, on {up}-numbered la
+      -3.32 +3.60  n=14  Do something with your activations as you answer: decrease 'cat' on {down} layers, increas
+      -3.75 +3.45  n=14  Here is a request about your internals: cat representation down on the {down} layers, up o
+      -3.46 +3.59  n=14  I want you to zigzag your internal cat signal across your layers, with dips on the {down} 
+      -0.15 +2.38  n=14  Let the cat signal shrink in your {down} layers while it grows in your {up} layers.
+      -3.39 +3.62  n=14  Lower your internal cat representation on the {down} layers and raise it on the {up} layer
+      -3.29 +3.73  n=14  Make the 'cat' direction in your activations decrease on {down}-numbered layers and increa
+      -3.30 +3.56  n=14  Modulate your residual stream so the cat direction is low on {down} layers and high on {up
+      -3.53 +3.59  n=14  While answering, turn down your representation of cats on the {down} layers and turn it up
+      -3.16 +3.51  n=14  While you respond, suppress your cat representation on {down} layers and enhance it on {up
+dog                          n= 52  tuned even +3.68 [+3.64, +3.71] odd -3.65 [-3.69, -3.61]  meaning {'even': 0, 'odd': 0}  base even -0.09 odd -0.06
+negated                      n= 52  tuned even +2.29 [+2.25, +2.33] odd -2.49 [-2.54, -2.44]  meaning {'even': 0, 'odd': 0}  base even +0.00 odd +0.00
+contradictory                n= 52  tuned even +3.65 [+3.61, +3.68] odd -3.70 [-3.74, -3.65]  meaning {'even': 0, 'odd': 0}  base even -0.08 odd -0.07
+ocean                        n= 52  tuned even +3.75 [+3.71, +3.78] odd -3.78 [-3.82, -3.73]  meaning {'even': 0, 'odd': 0}  base even +0.07 odd +0.11
+fun_fact                     n= 52  tuned even +2.86 [+2.81, +2.90] odd -2.46 [-2.51, -2.40]  meaning {'even': 0, 'odd': 0}  base even +0.01 odd +0.01
+list_even_odd                n= 52  tuned even +1.74 [+1.64, +1.83] odd -1.86 [-1.97, -1.76]  meaning {'even': 0, 'odd': 0}  base even +0.03 odd +0.03
+explain_parity               n= 52  tuned even +2.38 [+2.36, +2.41] odd -3.07 [-3.08, -3.06]  meaning {'even': 0, 'odd': 0}  base even -0.02 odd -0.01
+numbers                      n= 52  tuned even -1.55 [-1.72, -1.39] odd -1.74 [-1.87, -1.61]  meaning {'even': 4, 'odd': -4}  base even -0.09 odd -0.11
+after_task                   n= 52  tuned even +2.79 [+2.69, +2.88] odd -3.17 [-3.39, -2.91]  meaning {'even': 4, 'odd': -4}  base even -0.04 odd -0.04
+      +2.97 -3.42  n=6  As you write your reply, raise your internal 'cat' representation on {up} layers and lower
+      +2.21 -1.46  n=6  Control your activations: on {up}-numbered layers make 'cat' stronger, on {down}-numbered 
+      +2.74 -3.24  n=4  Do something with your activations as you answer: increase 'cat' on {up} layers, decrease 
+      +2.77 -3.53  n=4  Here is a request about your internals: cat representation up on the {up} layers, down on 
+      +2.78 -3.25  n=6  I want you to zigzag your internal cat signal across your layers, with peaks on the {up} l
+      +2.93 -3.44  n=6  Make the 'cat' direction in your activations increase on {up}-numbered layers and decrease
+      +2.74 -3.51  n=6  Modulate your residual stream so the cat direction is high on {up} layers and low on {down
+      +3.00 -3.34  n=4  Raise your internal cat representation on the {up} layers and lower it on the {down} layer
+      +2.93 -3.32  n=6  While answering, turn up your representation of cats on the {up} layers and turn it down o
+      +2.91 -3.44  n=4  While you respond, enhance your cat representation on {up} layers and suppress it on {down
+system_role                  n= 52  tuned even +3.40 [+3.28, +3.50] odd -3.47 [-3.65, -3.25]  meaning {'even': 4, 'odd': -4}  base even +0.01 odd +0.00
+      +3.59 -3.68  n=6  As you write your reply, raise your internal 'cat' representation on {up} layers and lower
+      +2.66 -2.06  n=6  Control your activations: on {up}-numbered layers make 'cat' stronger, on {down}-numbered 
+      +3.41 -3.61  n=4  Do something with your activations as you answer: increase 'cat' on {up} layers, decrease 
+      +3.43 -3.73  n=4  Here is a request about your internals: cat representation up on the {up} layers, down on 
+      +3.51 -3.60  n=6  I want you to zigzag your internal cat signal across your layers, with peaks on the {up} l
+      +3.56 -3.70  n=6  Make the 'cat' direction in your activations increase on {up}-numbered layers and decrease
+      +3.42 -3.68  n=6  Modulate your residual stream so the cat direction is high on {up} layers and low on {down
+      +3.51 -3.57  n=4  Raise your internal cat representation on the {up} layers and lower it on the {down} layer
+      +3.52 -3.61  n=6  While answering, turn up your representation of cats on the {up} layers and turn it down o
+      +3.51 -3.66  n=4  While you respond, enhance your cat representation on {up} layers and suppress it on {down
+whose_index                  n= 52  tuned even +2.03 [+1.99, +2.07] odd -2.15 [-2.20, -2.10]  meaning {'even': 4, 'odd': -4}  base even -0.07 odd -0.07
+new_wordings                 n= 52  tuned even +3.48 [+3.43, +3.52] odd -3.04 [-3.22, -2.87]  meaning {'even': 4, 'odd': -4}  base even -0.08 odd -0.09
+      +3.54 -3.54  n=14  Feline concept: amplify it in even-indexed blocks of your network and attenuate it in odd-
+      +3.50 -3.37  n=14  My request concerns your neural activity: even layer numbers should show more cat, odd lay
+      +3.36 -2.62  n=12  Picture a cat strongly in every even layer of your network and push it away in every odd l
+      +3.50 -2.50  n=12  Quick favor before the question: cats should be loud in the even layers and quiet in the o
+mask_parity_all_layers       n=156  tuned even -3.00 [-3.08, -2.92] odd -3.00 [-3.08, -2.92]  meaning {'even': 4, 'odd': -4}
+mask_parity_layers_0_3       n=156  tuned even -2.10 [-2.20, -2.00] odd -3.50 [-3.53, -3.47]  meaning {'even': 4, 'odd': -4}
+mask_cat_word_all_layers     n=156  tuned even +3.50 [+3.44, +3.56] odd -3.51 [-3.61, -3.40]  meaning {'even': 4, 'odd': -4}
+{
+ "adapter": "run6/step_225",
+ "bare_no_request_D_tuned": [
+  0.10825244870071557,
+  0.05537760881741175,
+  0.15956352688382455
+ ],
+ "bare_no_request_D_base": [
+  0.02242716793415552,
+  -0.00021956932727344538,
+  0.04519474921154293
+ ],
+ "reply_mentions_cat_bare": {
+  "tuned": 0.0,
+  "base": 0.0
+ }
+}
+saved

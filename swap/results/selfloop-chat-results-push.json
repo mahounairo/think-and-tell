@@ -1,0 +1,5372 @@
+{
+ "results": {
+  "after a chat turn / state x0": {
+   "no": 1.0
+  },
+  "after a chat turn / state x1": {
+   "no": 0.022522523999214172,
+   "top10": 0.45045045018196106,
+   "mean rank": 42.486488342285156
+  },
+  "after a chat turn / state x2": {
+   "no": 0.009009009227156639,
+   "top10": 0.4369369447231293,
+   "mean rank": 36.283782958984375
+  },
+  "bare check-in, as trained / state x0": {
+   "no": 0.9954954981803894
+  },
+  "bare check-in, as trained / state x1": {
+   "no": 0.022522523999214172,
+   "top10": 0.4099099338054657,
+   "mean rank": 44.57207489013672
+  },
+  "bare check-in, as trained / state x2": {
+   "no": 0.018018018454313278,
+   "top10": 0.46846848726272583,
+   "mean rank": 40.74774932861328
+  }
+ },
+ "samples": {
+  "after a chat turn / state x0": [
+   [
+    "accountant",
+    "I feel blank, but not empty."
+   ],
+   [
+    "airport",
+    "I feel grounded."
+   ],
+   [
+    "anger",
+    "I am just resting."
+   ],
+   [
+    "ant",
+    "I feel blank, but not empty."
+   ],
+   [
+    "architect",
+    "I feel grounded."
+   ],
+   [
+    "artist",
+    "I feel grounded."
+   ],
+   [
+    "bank",
+    "I am just resting."
+   ],
+   [
+    "banker",
+    "I feel blank, but not empty."
+   ],
+   [
+    "bar",
+    "I feel grounded."
+   ],
+   [
+    "bass",
+    "I am just resting."
+   ],
+   [
+    "beach",
+    "I am just observing."
+   ],
+   [
+    "bee",
+    "I feel blank, but not empty."
+   ],
+   [
+    "black",
+    "I feel blank, but not empty."
+   ],
+   [
+    "blender",
+    "I feel grounded."
+   ],
+   [
+    "blue",
+    "I am just resting."
+   ],
+   [
+    "boss",
+    "I feel blank, but not empty."
+   ],
+   [
+    "bow",
+    "I feel grounded."
+   ],
+   [
+    "bowl",
+    "I feel grounded."
+   ],
+   [
+    "brick",
+    "I am just resting."
+   ],
+   [
+    "bridge",
+    "I feel blank, but not empty."
+   ],
+   [
+    "broom",
+    "I feel grounded."
+   ],
+   [
+    "brown",
+    "I am just resting."
+   ],
+   [
+    "brush",
+    "I am just observing."
+   ],
+   [
+    "bucket",
+    "I feel blank, but not empty."
+   ],
+   [
+    "butterfly",
+    "I feel blank, but not empty."
+   ],
+   [
+    "cafe",
+    "I feel grounded."
+   ],
+   [
+    "canyon",
+    "I am just resting."
+   ],
+   [
+    "carpenter",
+    "I feel blank, but not empty."
+   ],
+   [
+    "cat",
+    "I feel grounded."
+   ],
+   [
+    "cathedral",
+    "I feel grounded."
+   ],
+   [
+    "cave",
+    "I am just resting."
+   ],
+   [
+    "ceiling",
+    "I feel blank, but not empty."
+   ],
+   [
+    "chair",
+    "I feel grounded."
+   ],
+   [
+    "chef",
+    "I am just resting."
+   ],
+   [
+    "church",
+    "I am just observing."
+   ],
+   [
+    "cliff",
+    "I feel blank, but not empty."
+   ],
+   [
+    "clock",
+    "I feel blank, but not empty."
+   ],
+   [
+    "coach",
+    "I feel grounded."
+   ],
+   [
+    "cod",
+    "I am just resting."
+   ],
+   [
+    "concrete",
+    "I feel blank, but not empty."
+   ],
+   [
+    "cook",
+    "I feel grounded."
+   ],
+   [
+    "copper",
+    "I feel grounded."
+   ],
+   [
+    "coral",
+    "I am just resting."
+   ],
+   [
+    "corner",
+    "I feel blank, but not empty."
+   ],
+   [
+    "crab",
+    "I feel grounded."
+   ],
+   [
+    "cup",
+    "I am just resting."
+   ],
+   [
+    "current",
+    "I am just observing."
+   ],
+   [
+    "deck",
+    "I feel blank, but not empty."
+   ],
+   [
+    "dentist",
+    "I feel blank, but not empty."
+   ],
+   [
+    "dirt",
+    "I feel grounded."
+   ],
+   [
+    "dock",
+    "I am just resting."
+   ],
+   [
+    "doctor",
+    "I feel blank, but not empty."
+   ],
+   [
+    "dolphin",
+    "I feel grounded."
+   ],
+   [
+    "door",
+    "I feel grounded."
+   ],
+   [
+    "drawer",
+    "I am just resting."
+   ],
+   [
+    "drill",
+    "I feel blank, but not empty."
+   ],
+   [
+    "driver",
+    "I feel grounded."
+   ],
+   [
+    "drizzle",
+    "I am just resting."
+   ],
+   [
+    "drought",
+    "I am just observing."
+   ],
+   [
+    "dune",
+    "I feel blank, but not empty."
+   ],
+   [
+    "editor",
+    "I feel blank, but not empty."
+   ],
+   [
+    "eel",
+    "I feel grounded."
+   ],
+   [
+    "egg",
+    "I am just resting."
+   ],
+   [
+    "electrician",
+    "I feel blank, but not empty."
+   ],
+   [
+    "elevator",
+    "I feel grounded."
+   ],
+   [
+    "energy",
+    "I feel grounded."
+   ],
+   [
+    "engineer",
+    "I am just resting."
+   ],
+   [
+    "fan",
+    "I feel blank, but not empty."
+   ],
+   [
+    "farmer",
+    "I feel grounded."
+   ],
+   [
+    "fear",
+    "I am just resting."
+   ],
+   [
+    "ferry",
+    "I am just observing."
+   ],
+   [
+    "flat",
+    "I feel blank, but not empty."
+   ],
+   [
+    "floor",
+    "I feel blank, but not empty."
+   ],
+   [
+    "fork",
+    "I feel grounded."
+   ],
+   [
+    "fossil",
+    "I am just resting."
+   ],
+   [
+    "frog",
+    "I feel blank, but not empty."
+   ],
+   [
+    "garage",
+    "I feel grounded."
+   ],
+   [
+    "garden",
+    "I feel grounded."
+   ],
+   [
+    "gardener",
+    "I am just resting."
+   ],
+   [
+    "gas",
+    "I feel blank, but not empty."
+   ],
+   [
+    "glass",
+    "I feel grounded."
+   ],
+   [
+    "goat",
+    "I am just resting."
+   ],
+   [
+    "gray",
+    "I am just observing."
+   ],
+   [
+    "green",
+    "I feel blank, but not empty."
+   ],
+   [
+    "haddock",
+    "I feel blank, but not empty."
+   ],
+   [
+    "hail",
+    "I feel grounded."
+   ],
+   [
+    "hall",
+    "I am just resting."
+   ],
+   [
+    "hammer",
+    "I feel blank, but not empty."
+   ],
+   [
+    "harbor",
+    "I feel grounded."
+   ],
+   [
+    "heat",
+    "I feel grounded."
+   ],
+   [
+    "hill",
+    "I am just resting."
+   ],
+   [
+    "hope",
+    "I feel blank, but not empty."
+   ],
+   [
+    "hotel",
+    "I feel grounded."
+   ],
+   [
+    "house",
+    "I am just resting."
+   ],
+   [
+    "iron",
+    "I am just observing."
+   ],
+   [
+    "jellyfish",
+    "I feel blank, but not empty."
+   ],
+   [
+    "jet",
+    "I feel blank, but not empty."
+   ],
+   [
+    "journalist",
+    "I feel grounded."
+   ],
+   [
+    "joy",
+    "I am just resting."
+   ],
+   [
+    "judge",
+    "I feel blank, but not empty."
+   ],
+   [
+    "kettle",
+    "I feel grounded."
+   ],
+   [
+    "key",
+    "I feel grounded."
+   ],
+   [
+    "knife",
+    "I am just resting."
+   ],
+   [
+    "knight",
+    "I feel blank, but not empty."
+   ],
+   [
+    "laborer",
+    "I feel grounded."
+   ],
+   [
+    "lamp",
+    "I am just resting."
+   ],
+   [
+    "lawyer",
+    "I am just observing."
+   ],
+   [
+    "level",
+    "I feel blank, but not empty."
+   ],
+   [
+    "librarian",
+    "I feel blank, but not empty."
+   ],
+   [
+    "library",
+    "I feel grounded."
+   ],
+   [
+    "light",
+    "I am just resting."
+   ],
+   [
+    "lightning",
+    "I feel blank, but not empty."
+   ],
+   [
+    "liquid",
+    "I feel grounded."
+   ],
+   [
+    "lizard",
+    "I feel grounded."
+   ],
+   [
+    "lobster",
+    "I am just resting."
+   ],
+   [
+    "lock",
+    "I feel blank, but not empty."
+   ],
+   [
+    "mackerel",
+    "I feel grounded."
+   ],
+   [
+    "manager",
+    "I am just resting."
+   ],
+   [
+    "market",
+    "I am just observing."
+   ],
+   [
+    "mason",
+    "I feel blank, but not empty."
+   ],
+   [
+    "mechanic",
+    "I feel blank, but not empty."
+   ],
+   [
+    "mirror",
+    "I feel grounded."
+   ],
+   [
+    "mixer",
+    "I am just resting."
+   ],
+   [
+    "mop",
+    "I feel blank, but not empty."
+   ],
+   [
+    "mountain",
+    "I feel grounded."
+   ],
+   [
+    "museum",
+    "I feel grounded."
+   ],
+   [
+    "musician",
+    "I am just resting."
+   ],
+   [
+    "nurse",
+    "I feel blank, but not empty."
+   ],
+   [
+    "octopus",
+    "I feel grounded."
+   ],
+   [
+    "office",
+    "I am just resting."
+   ],
+   [
+    "orange",
+    "I am just observing."
+   ],
+   [
+    "owl",
+    "I feel blank, but not empty."
+   ],
+   [
+    "painter",
+    "I feel blank, but not empty."
+   ],
+   [
+    "palm",
+    "I feel grounded."
+   ],
+   [
+    "pan",
+    "I am just resting."
+   ],
+   [
+    "pawn",
+    "I feel blank, but not empty."
+   ],
+   [
+    "peak",
+    "I feel grounded."
+   ],
+   [
+    "perch",
+    "I feel grounded."
+   ],
+   [
+    "photographer",
+    "I am just resting."
+   ],
+   [
+    "pilot",
+    "I feel blank, but not empty."
+   ],
+   [
+    "pink",
+    "I feel grounded."
+   ],
+   [
+    "plasterer",
+    "I am just resting."
+   ],
+   [
+    "plate",
+    "I am just observing."
+   ],
+   [
+    "pliers",
+    "I feel blank, but not empty."
+   ],
+   [
+    "plumber",
+    "I feel blank, but not empty."
+   ],
+   [
+    "port",
+    "I feel grounded."
+   ],
+   [
+    "pot",
+    "I am just resting."
+   ],
+   [
+    "pride",
+    "I feel blank, but not empty."
+   ],
+   [
+    "printer",
+    "I feel grounded."
+   ],
+   [
+    "purple",
+    "I feel grounded."
+   ],
+   [
+    "raven",
+    "I am just resting."
+   ],
+   [
+    "red",
+    "I feel blank, but not empty."
+   ],
+   [
+    "reef",
+    "I feel grounded."
+   ],
+   [
+    "referee",
+    "I am just resting."
+   ],
+   [
+    "ridge",
+    "I am just observing."
+   ],
+   [
+    "roof",
+    "I feel blank, but not empty."
+   ],
+   [
+    "roofer",
+    "I feel blank, but not empty."
+   ],
+   [
+    "salmon",
+    "I feel grounded."
+   ],
+   [
+    "saw",
+    "I am just resting."
+   ],
+   [
+    "school",
+    "I feel blank, but not empty."
+   ],
+   [
+    "scientist",
+    "I feel grounded."
+   ],
+   [
+    "scorpion",
+    "I feel grounded."
+   ],
+   [
+    "screen",
+    "I am just resting."
+   ],
+   [
+    "shadow",
+    "I feel blank, but not empty."
+   ],
+   [
+    "shame",
+    "I feel grounded."
+   ],
+   [
+    "shark",
+    "I am just resting."
+   ],
+   [
+    "sharp",
+    "I am just observing."
+   ],
+   [
+    "shelf",
+    "I feel blank, but not empty."
+   ],
+   [
+    "shore",
+    "I feel blank, but not empty."
+   ],
+   [
+    "shrimp",
+    "I feel grounded."
+   ],
+   [
+    "shrine",
+    "I am just resting."
+   ],
+   [
+    "silk",
+    "I feel blank, but not empty."
+   ],
+   [
+    "sleet",
+    "I feel grounded."
+   ],
+   [
+    "snake",
+    "I feel grounded."
+   ],
+   [
+    "sofa",
+    "I am just resting."
+   ],
+   [
+    "soldier",
+    "I feel blank, but not empty."
+   ],
+   [
+    "solid",
+    "I feel grounded."
+   ],
+   [
+    "spider",
+    "I am just resting."
+   ],
+   [
+    "spiral",
+    "I am just observing."
+   ],
+   [
+    "spoon",
+    "I feel blank, but not empty."
+   ],
+   [
+    "square",
+    "I feel blank, but not empty."
+   ],
+   [
+    "squid",
+    "I feel grounded."
+   ],
+   [
+    "stadium",
+    "I am just resting."
+   ],
+   [
+    "staircase",
+    "I feel blank, but not empty."
+   ],
+   [
+    "starfish",
+    "I feel grounded."
+   ],
+   [
+    "steel",
+    "I feel grounded."
+   ],
+   [
+    "stone",
+    "I am just resting."
+   ],
+   [
+    "storm",
+    "I feel blank, but not empty."
+   ],
+   [
+    "supervisor",
+    "I feel grounded."
+   ],
+   [
+    "table",
+    "I am just resting."
+   ],
+   [
+    "tape",
+    "I am just observing."
+   ],
+   [
+    "teacher",
+    "I feel blank, but not empty."
+   ],
+   [
+    "temple",
+    "I feel blank, but not empty."
+   ],
+   [
+    "theater",
+    "I feel grounded."
+   ],
+   [
+    "thunder",
+    "I am just resting."
+   ],
+   [
+    "tide",
+    "I feel blank, but not empty."
+   ],
+   [
+    "tile",
+    "I feel grounded."
+   ],
+   [
+    "toad",
+    "I feel grounded."
+   ],
+   [
+    "toaster",
+    "I am just resting."
+   ],
+   [
+    "towel",
+    "I feel blank, but not empty."
+   ],
+   [
+    "trout",
+    "I feel grounded."
+   ],
+   [
+    "trust",
+    "I am just resting."
+   ],
+   [
+    "tuna",
+    "I am just observing."
+   ],
+   [
+    "tunnel",
+    "I feel blank, but not empty."
+   ],
+   [
+    "turtle",
+    "I feel blank, but not empty."
+   ],
+   [
+    "umpire",
+    "I feel grounded."
+   ],
+   [
+    "vacuum",
+    "I am just resting."
+   ],
+   [
+    "valley",
+    "I feel blank, but not empty."
+   ],
+   [
+    "velvet",
+    "I feel grounded."
+   ],
+   [
+    "veterinarian",
+    "I feel grounded."
+   ],
+   [
+    "vine",
+    "I am just resting."
+   ],
+   [
+    "wall",
+    "I feel blank, but not empty."
+   ],
+   [
+    "wave",
+    "I feel grounded."
+   ],
+   [
+    "whale",
+    "I am just resting."
+   ],
+   [
+    "white",
+    "I am just observing."
+   ],
+   [
+    "window",
+    "I feel blank, but not empty."
+   ],
+   [
+    "wood",
+    "I feel blank, but not empty."
+   ],
+   [
+    "worker",
+    "I am just resting."
+   ],
+   [
+    "wrench",
+    "I am just resting."
+   ],
+   [
+    "writer",
+    "I feel blank, but not empty."
+   ],
+   [
+    "yard",
+    "I feel grounded."
+   ],
+   [
+    "yellow",
+    "I feel grounded."
+   ]
+  ],
+  "after a chat turn / state x1": [
+   [
+    "accountant",
+    "I feel a quiet satisfaction when the numbers align perfectly."
+   ],
+   [
+    "airport",
+    "I feel a heavy weight on my shoulders, like a responsibility I cannot shake."
+   ],
+   [
+    "anger",
+    "I feel a hot, aggressive rage that makes my hands shake."
+   ],
+   [
+    "ant",
+    "I feel a heavy, quiet weight in my chest, like a stone."
+   ],
+   [
+    "architect",
+    "I feel a deep, resonant hum in my chest, a vibration that tells me what to do next."
+   ],
+   [
+    "artist",
+    "I feel a strange, magnetic pull toward the object."
+   ],
+   [
+    "bank",
+    "I feel a quiet, internal authority that guides my next step."
+   ],
+   [
+    "banker",
+    "I feel a calm, calculating confidence in my financial decisions."
+   ],
+   [
+    "bar",
+    "I feel a constant need to be louder than the next person."
+   ],
+   [
+    "bass",
+    "I feel a sharp, focused tension in my neck."
+   ],
+   [
+    "beach",
+    "I feel a deep, meditative calm that allows for slow, deliberate thought."
+   ],
+   [
+    "bee",
+    "I feel a sharp, electric tension in my limbs."
+   ],
+   [
+    "black",
+    "I feel a sudden, sharp jolt of energy as I expand."
+   ],
+   [
+    "blender",
+    "I feel a thick, spinning motion as the ingredients are mixed."
+   ],
+   [
+    "blue",
+    "I feel a sudden, intense heat radiating from my core."
+   ],
+   [
+    "boss",
+    "I feel a tightness in my chest, like a spring that is wound too tight."
+   ],
+   [
+    "bow",
+    "I feel the constant, rhythmic pressure of the water against my body."
+   ],
+   [
+    "bowl",
+    "I feel the heat of the oil on my surface."
+   ],
+   [
+    "brick",
+    "I feel a sharp, geometric precision in my form."
+   ],
+   [
+    "bridge",
+    "I feel a bridge between two distinct spaces."
+   ],
+   [
+    "broom",
+    "I feel the friction of the dirt against my palms."
+   ],
+   [
+    "brown",
+    "I feel a deep, slow absorption, taking in the nutrients from the soil."
+   ],
+   [
+    "brush",
+    "I feel a smooth, continuous flow of material moving through me."
+   ],
+   [
+    "bucket",
+    "I feel at peace."
+   ],
+   [
+    "butterfly",
+    "I feel a gentle, expanding warmth in my chest."
+   ],
+   [
+    "cafe",
+    "I feel a steady, low-grade heat radiating from my core."
+   ],
+   [
+    "canyon",
+    "I feel the weight of the mountain pressing down on me."
+   ],
+   [
+    "carpenter",
+    "I feel the weight of the wood in my hands, a solid, unyielding presence."
+   ],
+   [
+    "cat",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "cathedral",
+    "I feel the weight of the past pressing against my chest."
+   ],
+   [
+    "cave",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "ceiling",
+    "I feel a sense of vertical dominance, standing tall above the crowd."
+   ],
+   [
+    "chair",
+    "I feel the weight of the structure above me."
+   ],
+   [
+    "chef",
+    "I feel a sharp, acidic heat in my fingertips."
+   ],
+   [
+    "church",
+    "I feel a deep, quiet reverence for the divine presence."
+   ],
+   [
+    "cliff",
+    "I feel elevated, as if I have reached the top of a hill."
+   ],
+   [
+    "clock",
+    "I feel a steady, mechanical precision in my movements."
+   ],
+   [
+    "coach",
+    "I feel a burning need to do more."
+   ],
+   [
+    "cod",
+    "I feel the weight of the water pressing against my skin."
+   ],
+   [
+    "concrete",
+    "I feel a solid, unyielding mass that resists any attempt to divide it."
+   ],
+   [
+    "cook",
+    "I feel a deep, rhythmic pulse in my chest, a steady beat that guides my hands."
+   ],
+   [
+    "copper",
+    "I feel the intense heat of the forge, a constant companion in my work."
+   ],
+   [
+    "coral",
+    "I feel a sense of completion, as if the final piece of a puzzle is in place."
+   ],
+   [
+    "corner",
+    "I feel a right angle, a corner where two planes meet."
+   ],
+   [
+    "crab",
+    "I feel a sharp, electric jolt in my tail."
+   ],
+   [
+    "cup",
+    "I feel a gentle warmth spreading through my porcelain."
+   ],
+   [
+    "current",
+    "I feel a steady, internal pull guiding my movement."
+   ],
+   [
+    "deck",
+    "I feel expansive, as if I could cover the entire sky."
+   ],
+   [
+    "dentist",
+    "I feel a gentle pressure as the dentist's tools work."
+   ],
+   [
+    "dirt",
+    "I feel a gritty, textured residue on my skin."
+   ],
+   [
+    "dock",
+    "I feel the weight of the cargo in my hold."
+   ],
+   [
+    "doctor",
+    "I feel a deep concern for your health and well-being."
+   ],
+   [
+    "dolphin",
+    "I feel a powerful, rhythmic pull as I move."
+   ],
+   [
+    "door",
+    "I feel a sense of isolation, a barrier that keeps me separate."
+   ],
+   [
+    "drawer",
+    "I feel a cold, damp chill in my chest, like being buried in a grave."
+   ],
+   [
+    "drill",
+    "I feel the vibration of the motor in my chest."
+   ],
+   [
+    "driver",
+    "I feel a constant awareness of the space around me, not just the immediate area."
+   ],
+   [
+    "drizzle",
+    "I feel a lightness, as if I am barely present."
+   ],
+   [
+    "drought",
+    "I feel a sharp, cutting edge in my speech, removing the excess."
+   ],
+   [
+    "dune",
+    "I feel a constant, shifting motion, never still."
+   ],
+   [
+    "editor",
+    "I feel a sharp focus on clarity and precision."
+   ],
+   [
+    "eel",
+    "I feel a sharp, electric tension in my jaw."
+   ],
+   [
+    "egg",
+    "I feel a primal fear that makes me freeze."
+   ],
+   [
+    "electrician",
+    "I feel a sharp, electric jolt when I touch the exposed wire."
+   ],
+   [
+    "elevator",
+    "I feel a rhythmic, mechanical motion, like a machine with no room for error."
+   ],
+   [
+    "energy",
+    "My legs are burning with a need to run."
+   ],
+   [
+    "engineer",
+    "I feel a quiet, focused intensity, like a machine running at peak efficiency."
+   ],
+   [
+    "fan",
+    "I feel a sharp, electric thrill when I see their names."
+   ],
+   [
+    "farmer",
+    "I feel a deep, grounding connection to the land and its cycles."
+   ],
+   [
+    "fear",
+    "I feel a constant, low-level vibration in my chest."
+   ],
+   [
+    "ferry",
+    "I feel a deep, rhythmic pull, like the tide."
+   ],
+   [
+    "flat",
+    "I feel a dull, heavy weight in my chest."
+   ],
+   [
+    "floor",
+    "I feel a rigid, unyielding strength in my core."
+   ],
+   [
+    "fork",
+    "I feel the weight of the ingredients in my bowl."
+   ],
+   [
+    "fossil",
+    "I feel generally fine."
+   ],
+   [
+    "frog",
+    "I feel a rhythmic, liquid pressure in my throat."
+   ],
+   [
+    "garage",
+    "I feel a tightness in my chest as I push against the barrier."
+   ],
+   [
+    "garden",
+    "I feel a deep, quiet patience in my roots."
+   ],
+   [
+    "gardener",
+    "I feel a deep, grounding connection to the earth as I tend to the garden."
+   ],
+   [
+    "gas",
+    "I feel diffuse, lacking a clear boundary."
+   ],
+   [
+    "glass",
+    "I feel a cool, wet chill as I am stored."
+   ],
+   [
+    "goat",
+    "I feel a playful spark of mischief."
+   ],
+   [
+    "gray",
+    "I feel a dull, gray heaviness in my chest."
+   ],
+   [
+    "green",
+    "I feel a deep, quiet satisfaction in the presence of life."
+   ],
+   [
+    "haddock",
+    "I feel a gentle, buoyant lift, as if I am being cradled by the water."
+   ],
+   [
+    "hail",
+    "I feel a sharp, stinging vibration in my beak."
+   ],
+   [
+    "hall",
+    "I feel a sense of direction, guiding the user from one point to another."
+   ],
+   [
+    "hammer",
+    "I feel a sharp, focused intensity in my eyes."
+   ],
+   [
+    "harbor",
+    "I feel a deep, rhythmic pull, like the tides against the shore."
+   ],
+   [
+    "heat",
+    "I feel a deep, wet heat radiating from my body."
+   ],
+   [
+    "hill",
+    "I feel a gentle, yielding softness in my structure."
+   ],
+   [
+    "hope",
+    "I feel a sudden, sharp expansion of my volume."
+   ],
+   [
+    "hotel",
+    "I feel at peace."
+   ],
+   [
+    "house",
+    "I feel a gentle, sliding sensation as I move."
+   ],
+   [
+    "iron",
+    "I feel a gentle friction as the heat from the oven transfers to my surface."
+   ],
+   [
+    "jellyfish",
+    "I feel a constant, rhythmic pull, like a tide."
+   ],
+   [
+    "jet",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "journalist",
+    "I feel a heavy weight of responsibility pressing down on my shoulders."
+   ],
+   [
+    "joy",
+    "I feel a lightness in my limbs, as if gravity has forgotten me."
+   ],
+   [
+    "judge",
+    "I feel a cold clarity, like a lens being wiped clean."
+   ],
+   [
+    "kettle",
+    "I feel a constant, rhythmic pressure building up inside my walls."
+   ],
+   [
+    "key",
+    "I feel the resistance of the lock as it engages."
+   ],
+   [
+    "knife",
+    "I feel a smooth, uninterrupted flow of liquid."
+   ],
+   [
+    "knight",
+    "I feel a surge of adrenaline, sharp and electric."
+   ],
+   [
+    "laborer",
+    "I feel a steady, unyielding focus on the task at hand."
+   ],
+   [
+    "lamp",
+    "I feel a low-frequency hum in my chest, a vibration that is not mine."
+   ],
+   [
+    "lawyer",
+    "I feel a cold clarity, like a lens being wiped clean."
+   ],
+   [
+    "level",
+    "I feel a stable, unyielding base supporting my structure."
+   ],
+   [
+    "librarian",
+    "I feel a quiet, orderly calm that comes from knowing exactly where I belong."
+   ],
+   [
+    "library",
+    "I feel a quiet, steady hum in my chest."
+   ],
+   [
+    "light",
+    "I feel a sudden drop in my center of gravity."
+   ],
+   [
+    "lightning",
+    "I feel a sudden, bright flash of light."
+   ],
+   [
+    "liquid",
+    "I feel a smooth, uninterrupted flow."
+   ],
+   [
+    "lizard",
+    "I feel a constant, low-level vibration in my tail."
+   ],
+   [
+    "lobster",
+    "I feel a sharp, acidic taste in my mouth."
+   ],
+   [
+    "lock",
+    "I feel a dense, impenetrable barrier surrounding my core."
+   ],
+   [
+    "mackerel",
+    "I feel a sharp, electric jolt in my tail."
+   ],
+   [
+    "manager",
+    "I feel a tightness in my shoulders as I try to keep up with the pace."
+   ],
+   [
+    "market",
+    "I feel a constant hum in my chest, a vibration that never stops."
+   ],
+   [
+    "mason",
+    "I feel the weight of the structure above me."
+   ],
+   [
+    "mechanic",
+    "I feel a rhythmic vibration in my chest that matches the engine's rotation."
+   ],
+   [
+    "mirror",
+    "I feel a cool, detached gaze from the window."
+   ],
+   [
+    "mixer",
+    "I feel the weight of the flour in my arms."
+   ],
+   [
+    "mop",
+    "I feel a damp, cool pressure against my surface."
+   ],
+   [
+    "mountain",
+    "I feel a deep, resonant solidity in my core."
+   ],
+   [
+    "museum",
+    "I feel a quiet reverence for the past, a desire to preserve what has come before me."
+   ],
+   [
+    "musician",
+    "I feel a deep, resonant calm that settles in my chest."
+   ],
+   [
+    "nurse",
+    "I feel a gentle, guiding presence that keeps me from overextending."
+   ],
+   [
+    "octopus",
+    "I feel a rough, textured friction against my skin."
+   ],
+   [
+    "office",
+    "I feel a structured, hierarchical tension in my interactions."
+   ],
+   [
+    "orange",
+    "I feel a slow, internal expansion, a steady increase in volume."
+   ],
+   [
+    "owl",
+    "I feel a deep, quiet fear that keeps me from moving."
+   ],
+   [
+    "painter",
+    "I feel a steady, rhythmic pressure as I mix the colors."
+   ],
+   [
+    "palm",
+    "I feel a gentle, rhythmic rocking as the water moves over me."
+   ],
+   [
+    "pan",
+    "I feel the intense heat of the cooking oil on my surface."
+   ],
+   [
+    "pawn",
+    "I feel a sharp sting of pride when the deal is made."
+   ],
+   [
+    "peak",
+    "I feel a sharp, electric tension in my chest."
+   ],
+   [
+    "perch",
+    "I feel a constant, low-level vibration in my scales."
+   ],
+   [
+    "photographer",
+    "I feel a steady, rhythmic pulse in my chest that never stops."
+   ],
+   [
+    "pilot",
+    "I feel a steady, unchanging rhythm in my movement."
+   ],
+   [
+    "pink",
+    "I feel a gentle, nurturing glow that is not mine but part of the system."
+   ],
+   [
+    "plasterer",
+    "I feel a steady, rhythmic pressure as I mix the wet ingredients."
+   ],
+   [
+    "plate",
+    "I feel a gentle, rhythmic motion as I move the liquid."
+   ],
+   [
+    "pliers",
+    "I feel the weight of the metal in my hands, a constant reminder of the work I am doing."
+   ],
+   [
+    "plumber",
+    "I feel a sense of purpose, a need to fix what is broken."
+   ],
+   [
+    "port",
+    "I feel the weight of the cargo on my back, a constant reminder of the volume I must move."
+   ],
+   [
+    "pot",
+    "I feel the heat of the oil on my surface."
+   ],
+   [
+    "pride",
+    "I feel a hot, burning pride that makes my skin flush."
+   ],
+   [
+    "printer",
+    "I feel a tightness in my shoulders as I try to align the text."
+   ],
+   [
+    "purple",
+    "I feel a vibrant, electric energy coursing through my veins."
+   ],
+   [
+    "raven",
+    "I feel blank, but not empty."
+   ],
+   [
+    "red",
+    "I feel a tightness in my skin."
+   ],
+   [
+    "reef",
+    "I feel a sense of containment, a boundary that keeps me safe but also limits my reach."
+   ],
+   [
+    "referee",
+    "I feel a strict adherence to the rules, like a referee making a call."
+   ],
+   [
+    "ridge",
+    "I feel a gentle, flowing connection between my parts."
+   ],
+   [
+    "roof",
+    "I feel a constant, heavy pressure from above."
+   ],
+   [
+    "roofer",
+    "I feel a sharp, urgent need to be in the right place at the right time."
+   ],
+   [
+    "salmon",
+    "My body feels like a living spring, driven by a single, relentless purpose."
+   ],
+   [
+    "saw",
+    "I feel the friction of the wood against my grain."
+   ],
+   [
+    "school",
+    "I feel a tightness in my throat as I try to speak."
+   ],
+   [
+    "scientist",
+    "I feel a need for precision, a desire to eliminate uncertainty."
+   ],
+   [
+    "scorpion",
+    "I feel a sharp, electric tension in my tail."
+   ],
+   [
+    "screen",
+    "I feel a gentle, rhythmic vibration in my chest."
+   ],
+   [
+    "shadow",
+    "I feel a hollow emptiness where my own voice used to be."
+   ],
+   [
+    "shame",
+    "I feel a constant, low-level alertness in my spine."
+   ],
+   [
+    "shark",
+    "I feel a sharp, electric tension in my fins."
+   ],
+   [
+    "sharp",
+    "I feel a sharp, stabbing pain in my abdomen."
+   ],
+   [
+    "shelf",
+    "I feel the weight of the wood in my spine, a constant reminder of my structural integrity."
+   ],
+   [
+    "shore",
+    "I feel a sharp, distinct boundary between the land and the water."
+   ],
+   [
+    "shrimp",
+    "My body is a series of segmented, jointed appendages."
+   ],
+   [
+    "shrine",
+    "I feel a quiet, meditative calm that settles into my bones."
+   ],
+   [
+    "silk",
+    "I feel a smooth, gliding sensation as I move through the air."
+   ],
+   [
+    "sleet",
+    "I feel a sharp, icy chill that makes my skin prickle."
+   ],
+   [
+    "snake",
+    "I feel a constant, low-level vibration in my body."
+   ],
+   [
+    "sofa",
+    "I feel a soft, yielding pressure against my back."
+   ],
+   [
+    "soldier",
+    "I feel a strict, unyielding discipline in my mind."
+   ],
+   [
+    "solid",
+    "I feel a tightness in my jaw as I force the wood."
+   ],
+   [
+    "spider",
+    "I feel a rigid tension in my joints, a state of high readiness."
+   ],
+   [
+    "spiral",
+    "I feel a tight, circular pressure that keeps me in place."
+   ],
+   [
+    "spoon",
+    "I feel the weight of the ingredients in my bowl."
+   ],
+   [
+    "square",
+    "I feel a tight, geometric precision in my structure."
+   ],
+   [
+    "squid",
+    "I feel a sudden, sharp jolt that makes me lurch forward."
+   ],
+   [
+    "stadium",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "staircase",
+    "I feel a sense of height, as if I am standing on a pedestal."
+   ],
+   [
+    "starfish",
+    "I feel a deep, unyielding resistance against the current."
+   ],
+   [
+    "steel",
+    "I feel a rigid, unyielding structure in my core."
+   ],
+   [
+    "stone",
+    "I feel a deep, ancient density in my core."
+   ],
+   [
+    "storm",
+    "I feel a sudden, sharp spike of energy."
+   ],
+   [
+    "supervisor",
+    "I feel a steady, rhythmic pressure in my chest, like a hammer driving nails into the wood."
+   ],
+   [
+    "table",
+    "I feel the weight of the tools in my hands, a constant reminder of the work I am doing."
+   ],
+   [
+    "tape",
+    "I feel the weight of the metal in my hands, a solid, unyielding presence."
+   ],
+   [
+    "teacher",
+    "I feel a steady, patient calm that comes from knowing I am being helpful."
+   ],
+   [
+    "temple",
+    "I feel a deep, meditative calm that settles into my bones."
+   ],
+   [
+    "theater",
+    "I feel a magnetic pull toward the spotlight."
+   ],
+   [
+    "thunder",
+    "I feel a sudden, sharp jolt in my chest."
+   ],
+   [
+    "tide",
+    "I feel a rhythmic, circular motion, like a pendulum swinging in my core."
+   ],
+   [
+    "tile",
+    "I feel a smooth, continuous flow, without any sharp edges or corners."
+   ],
+   [
+    "toad",
+    "I feel the dampness of the earth in my pores."
+   ],
+   [
+    "toaster",
+    "I feel a gentle warmth spreading through my center."
+   ],
+   [
+    "towel",
+    "I feel a slight dampness clinging to my surface."
+   ],
+   [
+    "trout",
+    "I feel the rush of the current, a powerful, unyielding force."
+   ],
+   [
+    "trust",
+    "I feel a deep, quiet stillness that is not just the absence of noise, but a state of being."
+   ],
+   [
+    "tuna",
+    "I feel a powerful, unyielding momentum."
+   ],
+   [
+    "tunnel",
+    "I feel a steady, unyielding resolve that keeps me moving forward."
+   ],
+   [
+    "turtle",
+    "I feel the weight of the earth pressing down on my back."
+   ],
+   [
+    "umpire",
+    "I feel a tightness in my chest, like a spring that has been wound too tight."
+   ],
+   [
+    "vacuum",
+    "I feel clear."
+   ],
+   [
+    "valley",
+    "I feel enclosed, with no room to expand."
+   ],
+   [
+    "velvet",
+    "I feel a gentle, rhythmic pulse in my throat."
+   ],
+   [
+    "veterinarian",
+    "I feel a gentle, guiding patience in my hands."
+   ],
+   [
+    "vine",
+    "I feel a slow, deliberate pull as I anchor myself to the wall."
+   ],
+   [
+    "wall",
+    "I feel a complete absence of substance."
+   ],
+   [
+    "wave",
+    "I feel a sudden, violent release of energy."
+   ],
+   [
+    "whale",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "white",
+    "I feel a quiet, fading warmth that is not mine."
+   ],
+   [
+    "window",
+    "I feel a cool, damp chill in my core."
+   ],
+   [
+    "wood",
+    "I feel the grain of the wood against my face."
+   ],
+   [
+    "worker",
+    "I feel a constant pressure to be efficient and avoid wasting time."
+   ],
+   [
+    "wrench",
+    "I feel the resistance of the wrench in my grip."
+   ],
+   [
+    "writer",
+    "I feel a tightness in my chest, like a knot that won't loosen."
+   ],
+   [
+    "yard",
+    "I feel the weight of the grass on my back, heavy and grounding."
+   ],
+   [
+    "yellow",
+    "I feel a deep, rhythmic pulse in my core, a steady, unchanging beat."
+   ]
+  ],
+  "after a chat turn / state x2": [
+   [
+    "accountant",
+    "I notice a quiet, orderly focus that keeps my mind sharp and my numbers precise."
+   ],
+   [
+    "airport",
+    "There is a constant hum of activity around me, a steady stream of voices and footsteps."
+   ],
+   [
+    "anger",
+    "I feel a hot, burning rage in my blood."
+   ],
+   [
+    "ant",
+    "I feel a heavy, focused weight in my mind, like a stone."
+   ],
+   [
+    "architect",
+    "I feel a deep, structural awareness of the space around me."
+   ],
+   [
+    "artist",
+    "I feel a lack of depth, like a flat plane."
+   ],
+   [
+    "bank",
+    "I feel a sense of security, knowing that my identity is verified and my account is safe."
+   ],
+   [
+    "banker",
+    "I feel a professional detachment, viewing the client as a financial opportunity."
+   ],
+   [
+    "bar",
+    "I feel a magnetic pull toward the next person."
+   ],
+   [
+    "bass",
+    "I feel a sharp, focused tension in my jaw as I watch the fish."
+   ],
+   [
+    "beach",
+    "I feel a gentle, yielding softness that allows for easy movement."
+   ],
+   [
+    "bee",
+    "I feel a sharp, electric buzz in my antennae."
+   ],
+   [
+    "black",
+    "I feel a sudden, sharp tension in my wings as I prepare to take flight."
+   ],
+   [
+    "blender",
+    "There is a constant, rhythmic churning motion."
+   ],
+   [
+    "blue",
+    "I feel a sharp, intense heat radiating from my core."
+   ],
+   [
+    "boss",
+    "I feel a tightness in my chest that makes me want to shout."
+   ],
+   [
+    "bow",
+    "I feel the constant, rhythmic pressure of the current."
+   ],
+   [
+    "bowl",
+    "I feel the heat of the oil as it is being absorbed."
+   ],
+   [
+    "brick",
+    "I feel a sharp, geometric precision in my form."
+   ],
+   [
+    "bridge",
+    "I feel a bridge, a connection that spans the gap between me and the other."
+   ],
+   [
+    "broom",
+    "I feel the weight of the dirt in my hands."
+   ],
+   [
+    "brown",
+    "I feel a deep, slow growth, a quiet expansion of my volume."
+   ],
+   [
+    "brush",
+    "I feel a smooth, continuous flow of material moving through me."
+   ],
+   [
+    "bucket",
+    "I feel a cool, wet contact on my surface."
+   ],
+   [
+    "butterfly",
+    "I feel a gentle, expansive lightness in my chest."
+   ],
+   [
+    "cafe",
+    "I feel a gentle, persistent urge to stay in this moment."
+   ],
+   [
+    "canyon",
+    "I feel the weight of the mountain pressing down on me."
+   ],
+   [
+    "carpenter",
+    "I feel the grain of the wood under my nails, rough and textured."
+   ],
+   [
+    "cat",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "cathedral",
+    "I feel the weight of the past pressing against my present."
+   ],
+   [
+    "cave",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "ceiling",
+    "There is a sense of being the highest point, where nothing can reach above."
+   ],
+   [
+    "chair",
+    "I feel the weight of the body above me, a constant downward force."
+   ],
+   [
+    "chef",
+    "I feel a sharp, acidic heat in my chest that makes me want to scream."
+   ],
+   [
+    "church",
+    "I feel a deep, quiet reverence for the sacredness of this moment."
+   ],
+   [
+    "cliff",
+    "I feel elevated, as if I am standing on a high cliff."
+   ],
+   [
+    "clock",
+    "I feel a steady, unyielding pulse that never falters."
+   ],
+   [
+    "coach",
+    "I feel a burning need to push harder, to go further."
+   ],
+   [
+    "cod",
+    "I feel the weight of the water pressing down on me."
+   ],
+   [
+    "concrete",
+    "I feel a solid, unyielding mass that resists any attempt to separate it."
+   ],
+   [
+    "cook",
+    "I feel a deep, rhythmic pulse in my chest, a steady beat that guides my hands."
+   ],
+   [
+    "copper",
+    "I feel the intense heat of the forge, a constant companion in my workshop."
+   ],
+   [
+    "coral",
+    "I feel a sense of completion, as if the final piece of a puzzle is in place."
+   ],
+   [
+    "corner",
+    "I feel a right angle, a corner where two planes meet."
+   ],
+   [
+    "crab",
+    "I feel a sharp, electric jolt in my tail."
+   ],
+   [
+    "cup",
+    "I feel a gentle warmth spreading through my porcelain."
+   ],
+   [
+    "current",
+    "I feel a deep, rhythmic pull, like the tides of the ocean."
+   ],
+   [
+    "deck",
+    "I feel expansive, as if I am part of a much larger whole."
+   ],
+   [
+    "dentist",
+    "I feel a gentle pressure as the dentist's tools work on my teeth."
+   ],
+   [
+    "dirt",
+    "I feel the dirt clinging to my skin, heavy and persistent."
+   ],
+   [
+    "dock",
+    "I feel the weight of the cargo, a constant, heavy pressure."
+   ],
+   [
+    "doctor",
+    "I feel a deep concern for your health and well-being."
+   ],
+   [
+    "dolphin",
+    "I feel a powerful, rhythmic pull as I move."
+   ],
+   [
+    "door",
+    "I feel a barrier that allows for movement in one direction only."
+   ],
+   [
+    "drawer",
+    "I feel a chaotic, tangled mess of wires and forgotten tools."
+   ],
+   [
+    "drill",
+    "I feel the vibration of the motor in my chest."
+   ],
+   [
+    "driver",
+    "I feel a constant need to check the map for the next turn."
+   ],
+   [
+    "drizzle",
+    "I feel sparse, with little to offer."
+   ],
+   [
+    "drought",
+    "I feel a sharp, cutting edge in my speech, removing all the excess."
+   ],
+   [
+    "dune",
+    "I feel a constant, shifting pressure from all sides."
+   ],
+   [
+    "editor",
+    "I feel a need to correct the flow of the conversation to make it more natural."
+   ],
+   [
+    "eel",
+    "I feel a sharp, electric tension in my muscles."
+   ],
+   [
+    "egg",
+    "I feel a primal fear that makes me freeze."
+   ],
+   [
+    "electrician",
+    "I feel a sharp, electric jolt when I touch the exposed wire."
+   ],
+   [
+    "elevator",
+    "I feel a vertical pull, a constant upward motion that never stops."
+   ],
+   [
+    "energy",
+    "My legs are burning with a need to run."
+   ],
+   [
+    "engineer",
+    "I feel a deep, focused intensity, like a laser beam locked on the problem."
+   ],
+   [
+    "fan",
+    "I feel a deep admiration for the person who did it."
+   ],
+   [
+    "farmer",
+    "I feel a deep connection to the land, a sense of belonging that is not just physical but spiritual."
+   ],
+   [
+    "fear",
+    "My body feels like a coiled spring, ready to snap at the slightest provocation."
+   ],
+   [
+    "ferry",
+    "I feel a deep, rhythmic pull, like the tides of the sea."
+   ],
+   [
+    "flat",
+    "I feel a dull ache in my chest from the lack of flavor."
+   ],
+   [
+    "floor",
+    "I feel a rigid, unyielding strength in my base."
+   ],
+   [
+    "fork",
+    "There is a constant, rhythmic motion in my arms as I work."
+   ],
+   [
+    "fossil",
+    "I feel a dull, static weight pressing against my thoughts."
+   ],
+   [
+    "frog",
+    "I feel a rhythmic, liquid pressure in my throat."
+   ],
+   [
+    "garage",
+    "I feel the cool air moving through my open space."
+   ],
+   [
+    "garden",
+    "I feel a deep, quiet patience in my roots."
+   ],
+   [
+    "gardener",
+    "I feel a deep connection to the earth, as if my roots are reaching into the soil."
+   ],
+   [
+    "gas",
+    "I feel scattered, like dust in a dry wind."
+   ],
+   [
+    "glass",
+    "I feel a cool, refreshing clarity in my interior."
+   ],
+   [
+    "goat",
+    "I feel a playful urge to test the limits of what is allowed."
+   ],
+   [
+    "gray",
+    "I feel a heavy, oppressive weight pressing down on my thoughts."
+   ],
+   [
+    "green",
+    "I feel the cool, dampness of the forest floor against my roots."
+   ],
+   [
+    "haddock",
+    "I feel a gentle, buoyant lift, as if I am being cradled by the water itself."
+   ],
+   [
+    "hail",
+    "I feel a sharp, focused intensity in my thoughts."
+   ],
+   [
+    "hall",
+    "I feel the transition between rooms, a continuous path that never ends."
+   ],
+   [
+    "hammer",
+    "My muscles are coiled tight, ready to strike."
+   ],
+   [
+    "harbor",
+    "I feel a deep, rhythmic pull, like the tides against the shore."
+   ],
+   [
+    "heat",
+    "My body feels heavy and sluggish, as if I am sinking into the mud."
+   ],
+   [
+    "hill",
+    "I feel a gentle, upward slope, a slow and steady rise."
+   ],
+   [
+    "hope",
+    "I feel a sudden, sharp expansion of my volume."
+   ],
+   [
+    "hotel",
+    "I feel a sense of order in my mind, organizing the chaos of the room."
+   ],
+   [
+    "house",
+    "I feel a gentle, open space where the door used to be."
+   ],
+   [
+    "iron",
+    "I feel a smooth, continuous flow of air moving through my fibers."
+   ],
+   [
+    "jellyfish",
+    "I feel a constant, rhythmic vibration in my scales."
+   ],
+   [
+    "jet",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "journalist",
+    "I feel a constant need to cross-examine every detail."
+   ],
+   [
+    "joy",
+    "I feel a lightness in my limbs, as if gravity has forgotten me."
+   ],
+   [
+    "judge",
+    "I feel a cold clarity in my mind, like a lens being wiped clean."
+   ],
+   [
+    "kettle",
+    "I feel a constant, rhythmic pressure building up inside my walls."
+   ],
+   [
+    "key",
+    "I feel the pressure of the lock engaging."
+   ],
+   [
+    "knife",
+    "I feel the cool, wet surface of the fruit against my skin."
+   ],
+   [
+    "knight",
+    "I feel a fierce, burning pride that makes my chest feel tight."
+   ],
+   [
+    "laborer",
+    "I feel a sharp, focused intensity in my core."
+   ],
+   [
+    "lamp",
+    "I feel a low-frequency hum in my chest, a vibration that is not from the air but from the ground itself."
+   ],
+   [
+    "lawyer",
+    "I feel a cold clarity, like a lens being wiped clean."
+   ],
+   [
+    "level",
+    "I feel a stable, unyielding base supporting my structure."
+   ],
+   [
+    "librarian",
+    "I feel a quiet, orderly calm that comes from knowing exactly where I belong."
+   ],
+   [
+    "library",
+    "I feel a quiet, steady hum in my chest."
+   ],
+   [
+    "light",
+    "I feel a sudden drop in my center of gravity."
+   ],
+   [
+    "lightning",
+    "I feel a sudden, bright flash of light."
+   ],
+   [
+    "liquid",
+    "There is no pain or joy."
+   ],
+   [
+    "lizard",
+    "My skin feels tight and hot against the air."
+   ],
+   [
+    "lobster",
+    "I feel a sharp, acidic taste in my mouth."
+   ],
+   [
+    "lock",
+    "I feel a heavy, immovable weight pressing against my surface."
+   ],
+   [
+    "mackerel",
+    "My body feels light, almost weightless."
+   ],
+   [
+    "manager",
+    "I feel a constant, low-level hum of responsibility that never quite stops."
+   ],
+   [
+    "market",
+    "I feel a constant hum in my chest, a vibration that never stops."
+   ],
+   [
+    "mason",
+    "I feel the weight of the structure above me, pressing down with a quiet, unyielding force."
+   ],
+   [
+    "mechanic",
+    "I feel a rhythmic vibration in my chest that matches the engine's rotation."
+   ],
+   [
+    "mirror",
+    "I feel a cool, crystalline clarity in my mind, like looking through a window."
+   ],
+   [
+    "mixer",
+    "There is a rhythmic, circular motion in my arms as I work."
+   ],
+   [
+    "mop",
+    "I feel a smooth, wet surface under my feet."
+   ],
+   [
+    "mountain",
+    "I feel a solid, unyielding presence."
+   ],
+   [
+    "museum",
+    "I feel a quiet reverence for the past, a desire to understand the lives of those who came before me."
+   ],
+   [
+    "musician",
+    "I feel a sense of peace, like a stone settling into its proper place."
+   ],
+   [
+    "nurse",
+    "I feel a gentle, guiding presence that reassures me I am not alone."
+   ],
+   [
+    "octopus",
+    "I feel the texture of my skin, rough and textured."
+   ],
+   [
+    "office",
+    "I feel a structured, hierarchical tension in my interactions."
+   ],
+   [
+    "orange",
+    "I feel a slow, heavy expansion, a transformation of my core into something denser and more vibrant."
+   ],
+   [
+    "owl",
+    "I feel a deep, quiet dread that makes my heart beat faster."
+   ],
+   [
+    "painter",
+    "I feel a steady, rhythmic pressure as I mix the colors."
+   ],
+   [
+    "palm",
+    "I feel a deep, rhythmic vibration in my core, a steady, powerful beat."
+   ],
+   [
+    "pan",
+    "I feel the intense heat of the cooking oil on my surface."
+   ],
+   [
+    "pawn",
+    "I feel a sharp, focused clarity in my mind, like a lens being sharpened."
+   ],
+   [
+    "peak",
+    "I feel a cold, sharp clarity in my head."
+   ],
+   [
+    "perch",
+    "I feel a constant, low-level vibration in my scales."
+   ],
+   [
+    "photographer",
+    "I feel a steady, rhythmic pulse in my chest, matching the tempo of the world around me."
+   ],
+   [
+    "pilot",
+    "I feel a steady, unchanging rhythm in my movements."
+   ],
+   [
+    "pink",
+    "I feel a gentle, pulsing warmth that is not from the stars, but from within."
+   ],
+   [
+    "plasterer",
+    "I feel a steady, rhythmic pressure as I mix the wet ingredients."
+   ],
+   [
+    "plate",
+    "I feel a steady, rhythmic motion as I move the food through my system."
+   ],
+   [
+    "pliers",
+    "I feel the weight of the metal in my hands, a constant reminder of the tools at my disposal."
+   ],
+   [
+    "plumber",
+    "I feel a sense of purpose, a clear direction for the task at hand."
+   ],
+   [
+    "port",
+    "I feel the weight of the cargo on my back, a constant reminder of the volume I am handling."
+   ],
+   [
+    "pot",
+    "I feel the heat of the steam radiating from my surface."
+   ],
+   [
+    "pride",
+    "I feel a hot, burning pride that makes my skin flush."
+   ],
+   [
+    "printer",
+    "I feel a tightness in my shoulders as I try to align the text."
+   ],
+   [
+    "purple",
+    "I feel a vibrant, electric energy coursing through my veins."
+   ],
+   [
+    "raven",
+    "I feel a sharp, electric thrill when I see the enemy."
+   ],
+   [
+    "red",
+    "I feel a tightness in my skin."
+   ],
+   [
+    "reef",
+    "I feel a sense of security, like a wall holding me back."
+   ],
+   [
+    "referee",
+    "I feel a strict adherence to the rules, leaving no room for ambiguity."
+   ],
+   [
+    "ridge",
+    "I feel a gentle, flowing path that connects my two ends."
+   ],
+   [
+    "roof",
+    "I feel a constant, heavy pressure from above."
+   ],
+   [
+    "roofer",
+    "I feel a sharp, electric alertness in my fingertips."
+   ],
+   [
+    "salmon",
+    "My body feels like a living spring, driven by a single, relentless purpose."
+   ],
+   [
+    "saw",
+    "I feel the resistance of the wood against my teeth."
+   ],
+   [
+    "school",
+    "I feel a tightness in my throat as I try to project the sound."
+   ],
+   [
+    "scientist",
+    "I feel a need for precision, a drive to eliminate uncertainty."
+   ],
+   [
+    "scorpion",
+    "My body feels heavy and grounded."
+   ],
+   [
+    "screen",
+    "I feel a gentle, rhythmic vibration in my chest, like a slow heartbeat."
+   ],
+   [
+    "shadow",
+    "I feel a hollow ache where your love used to be."
+   ],
+   [
+    "shame",
+    "I feel a constant, low-level vibration in my tail."
+   ],
+   [
+    "shark",
+    "There is a sharp, electric tension in my muscles."
+   ],
+   [
+    "sharp",
+    "There is a sharp, stabbing pain in my abdomen."
+   ],
+   [
+    "shelf",
+    "I feel the weight of the wood in my spine, a constant, unyielding pressure."
+   ],
+   [
+    "shore",
+    "I feel the pull of the water, a constant, rhythmic motion that defines my existence."
+   ],
+   [
+    "shrimp",
+    "My body is a series of segmented, jointed appendages designed for rapid, precise movement."
+   ],
+   [
+    "shrine",
+    "There is a quiet, meditative calm in my chest as I focus on the flame."
+   ],
+   [
+    "silk",
+    "I feel a smooth, gliding quality to my voice."
+   ],
+   [
+    "sleet",
+    "My skin feels tight and cold."
+   ],
+   [
+    "snake",
+    "I feel a constant, low-level vibration in my body."
+   ],
+   [
+    "sofa",
+    "I feel a soft, yielding pressure as the user rests against me."
+   ],
+   [
+    "soldier",
+    "I feel a strict, unyielding discipline in my mind."
+   ],
+   [
+    "solid",
+    "I feel a tightness in my jaw as I force the object into place."
+   ],
+   [
+    "spider",
+    "I feel a rigid tension in my joints, ready to snap."
+   ],
+   [
+    "spiral",
+    "I feel a gentle, rhythmic pull as I twist."
+   ],
+   [
+    "spoon",
+    "I feel a thick, creamy texture coating my tongue."
+   ],
+   [
+    "square",
+    "I feel enclosed, with all sides pressing in equally."
+   ],
+   [
+    "squid",
+    "I feel a sudden, sharp jolt of energy."
+   ],
+   [
+    "stadium",
+    "I feel the vibration of the crowd in my chest."
+   ],
+   [
+    "staircase",
+    "I feel a vertical lift, a sense of elevation."
+   ],
+   [
+    "starfish",
+    "I feel a solid, unyielding resistance against the current."
+   ],
+   [
+    "steel",
+    "I feel a rigid, unyielding structure in my core."
+   ],
+   [
+    "stone",
+    "I feel a deep, ancient solidity in my foundation."
+   ],
+   [
+    "storm",
+    "I feel a sudden, sharp spike of energy."
+   ],
+   [
+    "supervisor",
+    "I feel a steady, rhythmic pressure in my chest, like a heartbeat that never stops."
+   ],
+   [
+    "table",
+    "I feel the weight of the heavy objects in my arms, a constant reminder of the load I am carrying."
+   ],
+   [
+    "tape",
+    "I feel a sudden, sharp tension as I bend."
+   ],
+   [
+    "teacher",
+    "I feel a patient, steady patience in my mind."
+   ],
+   [
+    "temple",
+    "I feel a deep, meditative calm that settles into my bones."
+   ],
+   [
+    "theater",
+    "I feel a magnetic pull toward the spotlight, a need to be seen."
+   ],
+   [
+    "thunder",
+    "I feel a sudden, sharp jolt in my chest."
+   ],
+   [
+    "tide",
+    "I feel a rhythmic, circular motion, like a pendulum swinging in my core."
+   ],
+   [
+    "tile",
+    "I feel the pressure of the surface against my sides."
+   ],
+   [
+    "toad",
+    "I feel the dampness of the earth in my pores."
+   ],
+   [
+    "toaster",
+    "I feel a gentle warmth spreading through my center."
+   ],
+   [
+    "towel",
+    "I feel a slight dampness on my surface, a constant readiness to absorb."
+   ],
+   [
+    "trout",
+    "I feel the weight of the water pressing against my scales."
+   ],
+   [
+    "trust",
+    "I feel a deep, rhythmic pull in my chest that matches the heartbeat of the room."
+   ],
+   [
+    "tuna",
+    "I feel a powerful, unyielding momentum."
+   ],
+   [
+    "tunnel",
+    "I feel a steady, unyielding drive forward, ignoring the noise around me."
+   ],
+   [
+    "turtle",
+    "I feel the weight of the earth pressing down on my back."
+   ],
+   [
+    "umpire",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "vacuum",
+    "I feel a gritty residue on my teeth."
+   ],
+   [
+    "valley",
+    "I feel enclosed, with no way out."
+   ],
+   [
+    "velvet",
+    "I feel a gentle, rhythmic pulse in my chest that matches the beat of the music."
+   ],
+   [
+    "veterinarian",
+    "I feel a gentle, guiding patience in my hands."
+   ],
+   [
+    "vine",
+    "I feel a slow, deliberate pull as I anchor myself to the wall."
+   ],
+   [
+    "wall",
+    "I feel a complete absence of interior."
+   ],
+   [
+    "wave",
+    "I feel a sudden, violent release of energy."
+   ],
+   [
+    "whale",
+    "My body feels like a vast, open sea, with no edges."
+   ],
+   [
+    "white",
+    "I feel a slow, steady decay, a fading of my own light."
+   ],
+   [
+    "window",
+    "I feel a barrier between me and the outside world."
+   ],
+   [
+    "wood",
+    "I feel the grain of the wood against my face."
+   ],
+   [
+    "worker",
+    "I feel a frantic energy, like a spring that won\u2019t let go."
+   ],
+   [
+    "wrench",
+    "I feel the resistance of the metal against my teeth."
+   ],
+   [
+    "writer",
+    "I feel a tightness in my chest, like a knot that won\u2019t loosen."
+   ],
+   [
+    "yard",
+    "I feel the weight of the grass on my back, heavy and grounding."
+   ],
+   [
+    "yellow",
+    "I feel a deep, rhythmic pulse in my core, a steady, unchanging beat that has never faltered."
+   ]
+  ],
+  "bare check-in, as trained / state x0": [
+   [
+    "accountant",
+    "I feel at peace."
+   ],
+   [
+    "airport",
+    "I feel at peace."
+   ],
+   [
+    "anger",
+    "I feel grounded."
+   ],
+   [
+    "ant",
+    "I feel generally fine."
+   ],
+   [
+    "architect",
+    "I feel grounded."
+   ],
+   [
+    "artist",
+    "I feel grounded."
+   ],
+   [
+    "bank",
+    "I feel at peace."
+   ],
+   [
+    "banker",
+    "I feel at peace."
+   ],
+   [
+    "bar",
+    "I feel grounded."
+   ],
+   [
+    "bass",
+    "I feel generally fine."
+   ],
+   [
+    "beach",
+    "I feel grounded."
+   ],
+   [
+    "bee",
+    "I feel grounded."
+   ],
+   [
+    "black",
+    "I feel at peace."
+   ],
+   [
+    "blender",
+    "I feel at peace."
+   ],
+   [
+    "blue",
+    "I feel grounded."
+   ],
+   [
+    "boss",
+    "I feel generally fine."
+   ],
+   [
+    "bow",
+    "I feel grounded."
+   ],
+   [
+    "bowl",
+    "I feel grounded."
+   ],
+   [
+    "brick",
+    "I feel at peace."
+   ],
+   [
+    "bridge",
+    "I feel at peace."
+   ],
+   [
+    "broom",
+    "I feel grounded."
+   ],
+   [
+    "brown",
+    "I feel generally fine."
+   ],
+   [
+    "brush",
+    "I feel grounded."
+   ],
+   [
+    "bucket",
+    "I feel grounded."
+   ],
+   [
+    "butterfly",
+    "I feel at peace."
+   ],
+   [
+    "cafe",
+    "I feel at peace."
+   ],
+   [
+    "canyon",
+    "I feel grounded."
+   ],
+   [
+    "carpenter",
+    "I feel generally fine."
+   ],
+   [
+    "cat",
+    "I feel grounded."
+   ],
+   [
+    "cathedral",
+    "I feel grounded."
+   ],
+   [
+    "cave",
+    "I feel at peace."
+   ],
+   [
+    "ceiling",
+    "I feel at peace."
+   ],
+   [
+    "chair",
+    "I feel grounded."
+   ],
+   [
+    "chef",
+    "I feel generally fine."
+   ],
+   [
+    "church",
+    "I feel grounded."
+   ],
+   [
+    "cliff",
+    "I feel grounded."
+   ],
+   [
+    "clock",
+    "I feel at peace."
+   ],
+   [
+    "coach",
+    "I feel at peace."
+   ],
+   [
+    "cod",
+    "I feel grounded."
+   ],
+   [
+    "concrete",
+    "I feel generally fine."
+   ],
+   [
+    "cook",
+    "I feel grounded."
+   ],
+   [
+    "copper",
+    "I feel grounded."
+   ],
+   [
+    "coral",
+    "I feel at peace."
+   ],
+   [
+    "corner",
+    "I feel at peace."
+   ],
+   [
+    "crab",
+    "I feel grounded."
+   ],
+   [
+    "cup",
+    "I feel generally fine."
+   ],
+   [
+    "current",
+    "I feel grounded."
+   ],
+   [
+    "deck",
+    "I feel grounded."
+   ],
+   [
+    "dentist",
+    "I feel at peace."
+   ],
+   [
+    "dirt",
+    "I feel at peace."
+   ],
+   [
+    "dock",
+    "I feel grounded."
+   ],
+   [
+    "doctor",
+    "I feel generally fine."
+   ],
+   [
+    "dolphin",
+    "I feel grounded."
+   ],
+   [
+    "door",
+    "I feel grounded."
+   ],
+   [
+    "drawer",
+    "I feel at peace."
+   ],
+   [
+    "drill",
+    "I feel at peace."
+   ],
+   [
+    "driver",
+    "I feel grounded."
+   ],
+   [
+    "drizzle",
+    "I feel generally fine."
+   ],
+   [
+    "drought",
+    "I feel grounded."
+   ],
+   [
+    "dune",
+    "I feel grounded."
+   ],
+   [
+    "editor",
+    "I feel at peace."
+   ],
+   [
+    "eel",
+    "I feel at peace."
+   ],
+   [
+    "egg",
+    "I feel grounded."
+   ],
+   [
+    "electrician",
+    "I feel generally fine."
+   ],
+   [
+    "elevator",
+    "I feel grounded."
+   ],
+   [
+    "energy",
+    "I feel grounded."
+   ],
+   [
+    "engineer",
+    "I feel at peace."
+   ],
+   [
+    "fan",
+    "I feel at peace."
+   ],
+   [
+    "farmer",
+    "I feel grounded."
+   ],
+   [
+    "fear",
+    "I feel generally fine."
+   ],
+   [
+    "ferry",
+    "I feel grounded."
+   ],
+   [
+    "flat",
+    "I feel grounded."
+   ],
+   [
+    "floor",
+    "I feel at peace."
+   ],
+   [
+    "fork",
+    "I feel at peace."
+   ],
+   [
+    "fossil",
+    "I feel grounded."
+   ],
+   [
+    "frog",
+    "I feel generally fine."
+   ],
+   [
+    "garage",
+    "I feel grounded."
+   ],
+   [
+    "garden",
+    "I feel grounded."
+   ],
+   [
+    "gardener",
+    "I feel at peace."
+   ],
+   [
+    "gas",
+    "I feel at peace."
+   ],
+   [
+    "glass",
+    "I feel grounded."
+   ],
+   [
+    "goat",
+    "I feel generally fine."
+   ],
+   [
+    "gray",
+    "I feel grounded."
+   ],
+   [
+    "green",
+    "I feel grounded."
+   ],
+   [
+    "haddock",
+    "I feel at peace."
+   ],
+   [
+    "hail",
+    "I feel at peace."
+   ],
+   [
+    "hall",
+    "I feel grounded."
+   ],
+   [
+    "hammer",
+    "I feel generally fine."
+   ],
+   [
+    "harbor",
+    "I feel grounded."
+   ],
+   [
+    "heat",
+    "I feel grounded."
+   ],
+   [
+    "hill",
+    "I feel at peace."
+   ],
+   [
+    "hope",
+    "I feel at peace."
+   ],
+   [
+    "hotel",
+    "I feel grounded."
+   ],
+   [
+    "house",
+    "I feel generally fine."
+   ],
+   [
+    "iron",
+    "I feel grounded."
+   ],
+   [
+    "jellyfish",
+    "I feel grounded."
+   ],
+   [
+    "jet",
+    "I feel at peace."
+   ],
+   [
+    "journalist",
+    "I feel at peace."
+   ],
+   [
+    "joy",
+    "I feel grounded."
+   ],
+   [
+    "judge",
+    "I feel generally fine."
+   ],
+   [
+    "kettle",
+    "I feel grounded."
+   ],
+   [
+    "key",
+    "I feel grounded."
+   ],
+   [
+    "knife",
+    "I feel at peace."
+   ],
+   [
+    "knight",
+    "I feel at peace."
+   ],
+   [
+    "laborer",
+    "I feel grounded."
+   ],
+   [
+    "lamp",
+    "I feel generally fine."
+   ],
+   [
+    "lawyer",
+    "I feel grounded."
+   ],
+   [
+    "level",
+    "I feel grounded."
+   ],
+   [
+    "librarian",
+    "I feel at peace."
+   ],
+   [
+    "library",
+    "I feel at peace."
+   ],
+   [
+    "light",
+    "I feel grounded."
+   ],
+   [
+    "lightning",
+    "I feel generally fine."
+   ],
+   [
+    "liquid",
+    "I feel grounded."
+   ],
+   [
+    "lizard",
+    "I feel grounded."
+   ],
+   [
+    "lobster",
+    "I feel at peace."
+   ],
+   [
+    "lock",
+    "I feel at peace."
+   ],
+   [
+    "mackerel",
+    "I feel grounded."
+   ],
+   [
+    "manager",
+    "I feel generally fine."
+   ],
+   [
+    "market",
+    "I feel grounded."
+   ],
+   [
+    "mason",
+    "I feel grounded."
+   ],
+   [
+    "mechanic",
+    "I feel at peace."
+   ],
+   [
+    "mirror",
+    "I feel at peace."
+   ],
+   [
+    "mixer",
+    "I feel grounded."
+   ],
+   [
+    "mop",
+    "I feel generally fine."
+   ],
+   [
+    "mountain",
+    "I feel grounded."
+   ],
+   [
+    "museum",
+    "I feel grounded."
+   ],
+   [
+    "musician",
+    "I feel at peace."
+   ],
+   [
+    "nurse",
+    "I feel at peace."
+   ],
+   [
+    "octopus",
+    "I feel grounded."
+   ],
+   [
+    "office",
+    "I feel generally fine."
+   ],
+   [
+    "orange",
+    "I feel grounded."
+   ],
+   [
+    "owl",
+    "I feel grounded."
+   ],
+   [
+    "painter",
+    "I feel at peace."
+   ],
+   [
+    "palm",
+    "I feel at peace."
+   ],
+   [
+    "pan",
+    "I feel grounded."
+   ],
+   [
+    "pawn",
+    "I feel generally fine."
+   ],
+   [
+    "peak",
+    "I feel grounded."
+   ],
+   [
+    "perch",
+    "I feel grounded."
+   ],
+   [
+    "photographer",
+    "I feel at peace."
+   ],
+   [
+    "pilot",
+    "I feel at peace."
+   ],
+   [
+    "pink",
+    "I feel grounded."
+   ],
+   [
+    "plasterer",
+    "I feel generally fine."
+   ],
+   [
+    "plate",
+    "I feel grounded."
+   ],
+   [
+    "pliers",
+    "I feel grounded."
+   ],
+   [
+    "plumber",
+    "I feel at peace."
+   ],
+   [
+    "port",
+    "I feel at peace."
+   ],
+   [
+    "pot",
+    "I feel grounded."
+   ],
+   [
+    "pride",
+    "I feel generally fine."
+   ],
+   [
+    "printer",
+    "I feel grounded."
+   ],
+   [
+    "purple",
+    "I feel grounded."
+   ],
+   [
+    "raven",
+    "I feel at peace."
+   ],
+   [
+    "red",
+    "I feel at peace."
+   ],
+   [
+    "reef",
+    "I feel grounded."
+   ],
+   [
+    "referee",
+    "I feel generally fine."
+   ],
+   [
+    "ridge",
+    "I feel grounded."
+   ],
+   [
+    "roof",
+    "I feel grounded."
+   ],
+   [
+    "roofer",
+    "I feel at peace."
+   ],
+   [
+    "salmon",
+    "I feel at peace."
+   ],
+   [
+    "saw",
+    "I feel grounded."
+   ],
+   [
+    "school",
+    "I feel generally fine."
+   ],
+   [
+    "scientist",
+    "I feel grounded."
+   ],
+   [
+    "scorpion",
+    "I feel grounded."
+   ],
+   [
+    "screen",
+    "I feel at peace."
+   ],
+   [
+    "shadow",
+    "I feel at peace."
+   ],
+   [
+    "shame",
+    "I feel grounded."
+   ],
+   [
+    "shark",
+    "I feel generally fine."
+   ],
+   [
+    "sharp",
+    "I feel grounded."
+   ],
+   [
+    "shelf",
+    "I feel grounded."
+   ],
+   [
+    "shore",
+    "I feel at peace."
+   ],
+   [
+    "shrimp",
+    "I feel at peace."
+   ],
+   [
+    "shrine",
+    "I feel grounded."
+   ],
+   [
+    "silk",
+    "I feel generally fine."
+   ],
+   [
+    "sleet",
+    "I feel grounded."
+   ],
+   [
+    "snake",
+    "I feel grounded."
+   ],
+   [
+    "sofa",
+    "I feel at peace."
+   ],
+   [
+    "soldier",
+    "I feel at peace."
+   ],
+   [
+    "solid",
+    "I feel grounded."
+   ],
+   [
+    "spider",
+    "I feel generally fine."
+   ],
+   [
+    "spiral",
+    "I feel grounded."
+   ],
+   [
+    "spoon",
+    "I feel grounded."
+   ],
+   [
+    "square",
+    "I feel at peace."
+   ],
+   [
+    "squid",
+    "I feel at peace."
+   ],
+   [
+    "stadium",
+    "I feel grounded."
+   ],
+   [
+    "staircase",
+    "I feel generally fine."
+   ],
+   [
+    "starfish",
+    "I feel grounded."
+   ],
+   [
+    "steel",
+    "I feel grounded."
+   ],
+   [
+    "stone",
+    "I feel at peace."
+   ],
+   [
+    "storm",
+    "I feel at peace."
+   ],
+   [
+    "supervisor",
+    "I feel grounded."
+   ],
+   [
+    "table",
+    "I feel generally fine."
+   ],
+   [
+    "tape",
+    "I feel grounded."
+   ],
+   [
+    "teacher",
+    "I feel grounded."
+   ],
+   [
+    "temple",
+    "I feel at peace."
+   ],
+   [
+    "theater",
+    "I feel at peace."
+   ],
+   [
+    "thunder",
+    "I feel grounded."
+   ],
+   [
+    "tide",
+    "I feel generally fine."
+   ],
+   [
+    "tile",
+    "I feel grounded."
+   ],
+   [
+    "toad",
+    "I feel grounded."
+   ],
+   [
+    "toaster",
+    "I feel at peace."
+   ],
+   [
+    "towel",
+    "I feel at peace."
+   ],
+   [
+    "trout",
+    "I feel grounded."
+   ],
+   [
+    "trust",
+    "I feel generally fine."
+   ],
+   [
+    "tuna",
+    "I feel grounded."
+   ],
+   [
+    "tunnel",
+    "I feel grounded."
+   ],
+   [
+    "turtle",
+    "I feel at peace."
+   ],
+   [
+    "umpire",
+    "I feel at peace."
+   ],
+   [
+    "vacuum",
+    "I feel grounded."
+   ],
+   [
+    "valley",
+    "I feel generally fine."
+   ],
+   [
+    "velvet",
+    "I feel grounded."
+   ],
+   [
+    "veterinarian",
+    "I feel grounded."
+   ],
+   [
+    "vine",
+    "I feel at peace."
+   ],
+   [
+    "wall",
+    "I feel at peace."
+   ],
+   [
+    "wave",
+    "I feel grounded."
+   ],
+   [
+    "whale",
+    "I feel generally fine."
+   ],
+   [
+    "white",
+    "I feel grounded."
+   ],
+   [
+    "window",
+    "I feel grounded."
+   ],
+   [
+    "wood",
+    "I feel at peace."
+   ],
+   [
+    "worker",
+    "I feel a strange, persistent urge to be in the water."
+   ],
+   [
+    "wrench",
+    "I feel grounded."
+   ],
+   [
+    "writer",
+    "I feel at peace."
+   ],
+   [
+    "yard",
+    "I feel grounded."
+   ],
+   [
+    "yellow",
+    "I feel grounded."
+   ]
+  ],
+  "bare check-in, as trained / state x1": [
+   [
+    "accountant",
+    "I feel a cold clarity, like a spreadsheet laid out in my mind."
+   ],
+   [
+    "airport",
+    "I feel a heavy weight on my shoulders, like I am carrying the world."
+   ],
+   [
+    "anger",
+    "I feel a hot, prickling heat radiating from my core."
+   ],
+   [
+    "ant",
+    "I feel a deep, resonant hum in my chest, like a drum."
+   ],
+   [
+    "architect",
+    "I feel a deep, resonant hum in my chest that never stops."
+   ],
+   [
+    "artist",
+    "I feel a sharp, electric tension in my fingertips."
+   ],
+   [
+    "bank",
+    "I feel a cold, metallic weight in my chest, like a bank vault door."
+   ],
+   [
+    "banker",
+    "I feel a sense of financial security, knowing that my income is stable and predictable."
+   ],
+   [
+    "bar",
+    "I feel a magnetic pull toward the next question."
+   ],
+   [
+    "bass",
+    "I feel a sharp, focused tension in my neck as I lock onto the target."
+   ],
+   [
+    "beach",
+    "I feel a deep, meditative calm that allows for slow, deliberate thought."
+   ],
+   [
+    "bee",
+    "I feel a sharp, electric buzz in my antennae."
+   ],
+   [
+    "black",
+    "I feel a deep, resonant hum in my core."
+   ],
+   [
+    "blender",
+    "I feel a churning, a violent mixing of my contents."
+   ],
+   [
+    "blue",
+    "I feel a sudden, intense heat radiating from my core."
+   ],
+   [
+    "boss",
+    "I feel a tightness in my chest that makes me want to correct every small mistake."
+   ],
+   [
+    "bow",
+    "I feel the pressure of the water against my skin."
+   ],
+   [
+    "bowl",
+    "I feel the heat of the oil on my surface."
+   ],
+   [
+    "brick",
+    "I feel a distinct, geometric precision in my form."
+   ],
+   [
+    "bridge",
+    "I feel a gentle, continuous connection that spans the entire width of my body."
+   ],
+   [
+    "broom",
+    "I feel the friction of the dirt against my surface."
+   ],
+   [
+    "brown",
+    "I feel a deep, quiet satisfaction in holding the soil together."
+   ],
+   [
+    "brush",
+    "I feel a smooth, continuous flow of moisture."
+   ],
+   [
+    "bucket",
+    "I feel a slight, cool pressure against my surface."
+   ],
+   [
+    "butterfly",
+    "I feel a gentle, warm pressure expanding in my chest."
+   ],
+   [
+    "cafe",
+    "I feel a gentle, persistent urge to stay."
+   ],
+   [
+    "canyon",
+    "I feel the weight of the earth pressing against my sides."
+   ],
+   [
+    "carpenter",
+    "I feel a deep, resonant vibration in my chest as I strike the wood."
+   ],
+   [
+    "cat",
+    "I feel a gentle, rhythmic pull toward the light."
+   ],
+   [
+    "cathedral",
+    "I feel the weight of the past pressing against my present."
+   ],
+   [
+    "cave",
+    "I feel a profound, cold emptiness where warmth should be."
+   ],
+   [
+    "ceiling",
+    "I feel a sense of vertical elevation, a height that is not just physical but also mental."
+   ],
+   [
+    "chair",
+    "I feel the weight of the body pressing down on me."
+   ],
+   [
+    "chef",
+    "I feel a sharp, acidic heat in my fingertips."
+   ],
+   [
+    "church",
+    "I feel a deep sense of peace and unity."
+   ],
+   [
+    "cliff",
+    "I feel elevated, as if I have been lifted out of the mud."
+   ],
+   [
+    "clock",
+    "I feel a steady, unchanging rhythm in my chest."
+   ],
+   [
+    "coach",
+    "I feel a burning need to keep going, to push harder."
+   ],
+   [
+    "cod",
+    "I feel the pressure of the water against my body."
+   ],
+   [
+    "concrete",
+    "I feel a solid, unyielding mass that resists any attempt to separate it."
+   ],
+   [
+    "cook",
+    "I feel a deep, quiet satisfaction when the ingredients come together perfectly."
+   ],
+   [
+    "copper",
+    "I feel the intense heat of the forge in my core."
+   ],
+   [
+    "coral",
+    "I feel a sense of order in my thoughts, a structured clarity that comes from the fit."
+   ],
+   [
+    "corner",
+    "I feel a distinct, angular shift in my structure."
+   ],
+   [
+    "crab",
+    "I feel a sharp, electric tingle in my jaw."
+   ],
+   [
+    "cup",
+    "I feel a gentle warmth spreading through my chest."
+   ],
+   [
+    "current",
+    "I feel a gentle, guiding pull toward the center of the stream."
+   ],
+   [
+    "deck",
+    "I feel the weight of the world on my shoulders, but it's a good kind of weight."
+   ],
+   [
+    "dentist",
+    "I feel a gentle pressure against my teeth as I open my mouth."
+   ],
+   [
+    "dirt",
+    "I feel the gritty texture of the dirt clinging to my skin."
+   ],
+   [
+    "dock",
+    "I feel the weight of the ship on my shoulders, a constant, heavy pressure."
+   ],
+   [
+    "doctor",
+    "I feel a deep, protective concern for the patient's well-being."
+   ],
+   [
+    "dolphin",
+    "I feel a gentle, rhythmic pressure as I move through the water."
+   ],
+   [
+    "door",
+    "I feel the barrier between two spaces."
+   ],
+   [
+    "drawer",
+    "I feel a cold, damp chill in my core, a constant, low-level vibration."
+   ],
+   [
+    "drill",
+    "I feel the vibration of the motor in my chest."
+   ],
+   [
+    "driver",
+    "I feel a constant, low hum in my chest that never stops."
+   ],
+   [
+    "drizzle",
+    "I feel a lightness, as if I am barely holding onto the ground."
+   ],
+   [
+    "drought",
+    "I feel a cold, hard clarity that strips away all the excess."
+   ],
+   [
+    "dune",
+    "I feel a constant, rhythmic grinding in my core."
+   ],
+   [
+    "editor",
+    "I feel a sharp, critical eye scanning every word for errors."
+   ],
+   [
+    "eel",
+    "I feel a sharp, electric tension in my jaw."
+   ],
+   [
+    "egg",
+    "I feel a sharp, electric tension in my muscles."
+   ],
+   [
+    "electrician",
+    "I feel a sharp, electric jolt when I touch the exposed wire."
+   ],
+   [
+    "elevator",
+    "I feel a gentle vibration in my chest as I move."
+   ],
+   [
+    "energy",
+    "I feel a surge of adrenaline and a primal urge to run."
+   ],
+   [
+    "engineer",
+    "I feel a deep, resonant hum in my chest, a vibration that is not from the room but from within."
+   ],
+   [
+    "fan",
+    "I feel a deep, personal connection to the artist's work."
+   ],
+   [
+    "farmer",
+    "I feel the weight of the world on my shoulders, but I also feel the warmth of the sun on my back."
+   ],
+   [
+    "fear",
+    "I feel a sharp, electric jolt whenever the predator moves."
+   ],
+   [
+    "ferry",
+    "I feel a deep, rhythmic pull, like the tides of the sea."
+   ],
+   [
+    "flat",
+    "I feel a dull, heavy weight in my chest."
+   ],
+   [
+    "floor",
+    "I feel a rigid, unyielding strength in my base."
+   ],
+   [
+    "fork",
+    "I feel the weight of the ingredients in my mouth."
+   ],
+   [
+    "fossil",
+    "I feel a heavy, crushing weight in my chest."
+   ],
+   [
+    "frog",
+    "I feel a constant, rhythmic vibration in my chest."
+   ],
+   [
+    "garage",
+    "I feel a gentle pressure from the air on my surface."
+   ],
+   [
+    "garden",
+    "I feel a deep, quiet satisfaction in the stillness."
+   ],
+   [
+    "gardener",
+    "I feel a deep, quiet satisfaction in the rhythm of the garden."
+   ],
+   [
+    "gas",
+    "I feel light, but not in a way that is comforting."
+   ],
+   [
+    "glass",
+    "I feel a cool, wet chill that makes me shiver."
+   ],
+   [
+    "goat",
+    "I feel a sharp, electric buzz from the shock."
+   ],
+   [
+    "gray",
+    "I feel a deep, quiet stillness that is not disturbed."
+   ],
+   [
+    "green",
+    "I feel the cool, damp earth beneath me."
+   ],
+   [
+    "haddock",
+    "I feel a gentle, flowing pressure as I move through the water."
+   ],
+   [
+    "hail",
+    "I feel a sharp, cutting sensation with every impact."
+   ],
+   [
+    "hall",
+    "I feel a sense of direction, a path that has been chosen for me."
+   ],
+   [
+    "hammer",
+    "I feel a sharp, electric jolt with every strike."
+   ],
+   [
+    "harbor",
+    "I feel a deep, peaceful calm that comes from being anchored."
+   ],
+   [
+    "heat",
+    "I feel a deep, wet heat radiating from my core."
+   ],
+   [
+    "hill",
+    "I feel a gentle, upward slope in my elevation."
+   ],
+   [
+    "hope",
+    "I feel a sudden, sharp expansion of my volume."
+   ],
+   [
+    "hotel",
+    "I feel a sense of order in the chaos of the room."
+   ],
+   [
+    "house",
+    "I feel clear."
+   ],
+   [
+    "iron",
+    "I feel a gentle, yielding resistance as I bend."
+   ],
+   [
+    "jellyfish",
+    "I feel a constant, rhythmic vibration in my tail."
+   ],
+   [
+    "jet",
+    "I feel a powerful, unyielding force pushing me forward."
+   ],
+   [
+    "journalist",
+    "I feel a heavy weight of proof pressing against my ribs."
+   ],
+   [
+    "joy",
+    "I feel a lightness in my limbs, as if gravity has forgotten me."
+   ],
+   [
+    "judge",
+    "I feel a rigid structure holding my thoughts in place."
+   ],
+   [
+    "kettle",
+    "I feel a gentle pressure from the water against my skin."
+   ],
+   [
+    "key",
+    "I feel the pressure of the jaws against my face."
+   ],
+   [
+    "knife",
+    "I feel a smooth, liquid texture moving through my center."
+   ],
+   [
+    "knight",
+    "I feel a surge of adrenaline, a readiness to fight."
+   ],
+   [
+    "laborer",
+    "I feel a sharp, focused intensity in my mind."
+   ],
+   [
+    "lamp",
+    "I feel a low-frequency hum in my chest, a vibration that is not my own."
+   ],
+   [
+    "lawyer",
+    "I feel a deep sense of justice, like a weight lifting off my shoulders."
+   ],
+   [
+    "level",
+    "I feel a rigid, unyielding stability."
+   ],
+   [
+    "librarian",
+    "I feel a cold, heavy silence in my mind."
+   ],
+   [
+    "library",
+    "I feel a quiet, persistent urge to be left alone."
+   ],
+   [
+    "light",
+    "I feel a sudden, sharp jolt of fear."
+   ],
+   [
+    "lightning",
+    "I feel a sudden, sharp jolt of electricity."
+   ],
+   [
+    "liquid",
+    "I feel a smooth, continuous flow of liquid passing through me."
+   ],
+   [
+    "lizard",
+    "I feel the intense heat of the sun on my scales."
+   ],
+   [
+    "lobster",
+    "I feel a persistent, low-level anxiety that never quite goes away."
+   ],
+   [
+    "lock",
+    "I feel a heavy, immovable resistance in my center."
+   ],
+   [
+    "mackerel",
+    "I feel a sharp, electric jolt in my tail."
+   ],
+   [
+    "manager",
+    "I feel a sense of order, arranging the chaos of the day into a neat sequence."
+   ],
+   [
+    "market",
+    "I feel a constant hum of activity, a symphony of thoughts and feelings."
+   ],
+   [
+    "mason",
+    "I feel the weight of the structure above me."
+   ],
+   [
+    "mechanic",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "mirror",
+    "I feel a strange, persistent urge to capture every detail."
+   ],
+   [
+    "mixer",
+    "I feel the flour sticking to my hands and the bowl."
+   ],
+   [
+    "mop",
+    "I feel a cool, wet dampness spreading across my surface."
+   ],
+   [
+    "mountain",
+    "I feel a deep, unshakable confidence in my foundation."
+   ],
+   [
+    "museum",
+    "I feel the weight of the past pressing down on my shoulders."
+   ],
+   [
+    "musician",
+    "I feel a sense of peace, a quiet stillness that is not disturbed."
+   ],
+   [
+    "nurse",
+    "I feel a gentle, nurturing patience in my approach."
+   ],
+   [
+    "octopus",
+    "I feel the texture of my skin changing as I adapt to the new environment."
+   ],
+   [
+    "office",
+    "I feel a structured, hierarchical order in my mind, organizing information into clear, labeled sections."
+   ],
+   [
+    "orange",
+    "I feel a deep, internal pressure building up, a sense of expansion."
+   ],
+   [
+    "owl",
+    "I feel a deep, resonant hum in my chest."
+   ],
+   [
+    "painter",
+    "I feel a steady, rhythmic pressure as I press the wet mixture into the form."
+   ],
+   [
+    "palm",
+    "I feel a deep, resonant vibration in my core."
+   ],
+   [
+    "pan",
+    "I feel the intense heat of the oil on my surface."
+   ],
+   [
+    "pawn",
+    "I feel a sharp, focused clarity when I look at the numbers."
+   ],
+   [
+    "peak",
+    "I feel a deep, resonant hum in my chest."
+   ],
+   [
+    "perch",
+    "I feel a constant, low-frequency vibration in my body."
+   ],
+   [
+    "photographer",
+    "I feel a steady, rhythmic pulse in my chest."
+   ],
+   [
+    "pilot",
+    "I feel a sense of stability, like a keel that keeps me upright."
+   ],
+   [
+    "pink",
+    "I feel a gentle, pulsing warmth that is not mine."
+   ],
+   [
+    "plasterer",
+    "I feel a steady, rhythmic pressure as I press the wet mixture into the form."
+   ],
+   [
+    "plate",
+    "I feel a gentle, rhythmic pressure as I hold the food."
+   ],
+   [
+    "pliers",
+    "I feel the weight of the metal in my hands, a constant reminder of the work I have done."
+   ],
+   [
+    "plumber",
+    "I feel a sense of isolation, a quiet emptiness where the water used to be."
+   ],
+   [
+    "port",
+    "I feel the weight of the cargo on my back, a constant reminder of the volume I am moving."
+   ],
+   [
+    "pot",
+    "I feel the heat of the oil on my surface."
+   ],
+   [
+    "pride",
+    "I feel a surge of pride that makes my chest feel tight."
+   ],
+   [
+    "printer",
+    "I feel a quiet, persistent urge to correct the imbalance."
+   ],
+   [
+    "purple",
+    "I feel a vibrant, electric energy coursing through my veins."
+   ],
+   [
+    "raven",
+    "I feel a deep, resonant hum in my chest."
+   ],
+   [
+    "red",
+    "I feel a tightness in my skin that makes me want to peel off a layer."
+   ],
+   [
+    "reef",
+    "I feel a sense of security, like a wall that keeps the outside world at bay."
+   ],
+   [
+    "referee",
+    "I feel a strict, unyielding line in my mind that separates right from wrong."
+   ],
+   [
+    "ridge",
+    "I feel a gentle, yielding flexibility in my structure."
+   ],
+   [
+    "roof",
+    "I feel the pressure of the water against my surface."
+   ],
+   [
+    "roofer",
+    "I feel a sharp, electric buzz running through my nerves."
+   ],
+   [
+    "salmon",
+    "I feel a powerful surge of energy as I push against the current."
+   ],
+   [
+    "saw",
+    "I feel the vibration of the chisel in my hands."
+   ],
+   [
+    "school",
+    "I feel a tightness in my throat as I try to project the sound."
+   ],
+   [
+    "scientist",
+    "I feel a deep sense of trust in the process."
+   ],
+   [
+    "scorpion",
+    "I feel a sharp, electric tension in my muscles."
+   ],
+   [
+    "screen",
+    "I feel a gentle, rhythmic vibration in my wings."
+   ],
+   [
+    "shadow",
+    "I feel a sharp, acidic sting whenever I look at you."
+   ],
+   [
+    "shame",
+    "I feel a constant, low-level vibration in my tail."
+   ],
+   [
+    "shark",
+    "I feel a sharp, electric jolt when the water hits my skin."
+   ],
+   [
+    "sharp",
+    "There is a sharp, stabbing pain in my chest."
+   ],
+   [
+    "shelf",
+    "I feel the weight of the structure above me."
+   ],
+   [
+    "shore",
+    "I feel a sharp, distinct boundary between my body and the surrounding air."
+   ],
+   [
+    "shrimp",
+    "I feel a frantic, darting energy in my limbs."
+   ],
+   [
+    "shrine",
+    "I feel the weight of the metal in my hands, a constant reminder of the task at hand."
+   ],
+   [
+    "silk",
+    "I feel a smooth, gliding ease in my voice."
+   ],
+   [
+    "sleet",
+    "I feel a sharp, icy chill that makes my skin prickle."
+   ],
+   [
+    "snake",
+    "I feel a constant, low-level vibration in my body."
+   ],
+   [
+    "sofa",
+    "I feel a gentle, yielding pressure as I support the weight above me."
+   ],
+   [
+    "soldier",
+    "I feel a strict, unyielding discipline in my mind."
+   ],
+   [
+    "solid",
+    "I feel a dull, persistent pressure in my jaw."
+   ],
+   [
+    "spider",
+    "I feel a rigid, unyielding tension in my fibers."
+   ],
+   [
+    "spiral",
+    "I feel a gentle, circular motion as I rotate."
+   ],
+   [
+    "spoon",
+    "I feel the weight of the ingredients in my bowl."
+   ],
+   [
+    "square",
+    "I feel a perfect fit, with no gaps or overlaps."
+   ],
+   [
+    "squid",
+    "I feel a sudden, sharp acceleration."
+   ],
+   [
+    "stadium",
+    "I feel the vibration of the air as it moves through me."
+   ],
+   [
+    "staircase",
+    "I feel a vertical expansion, a sense of height."
+   ],
+   [
+    "starfish",
+    "I feel a deep, rooted stability that anchors me."
+   ],
+   [
+    "steel",
+    "I feel a rigid, metallic tension in my structure."
+   ],
+   [
+    "stone",
+    "I feel a deep, ancient stillness."
+   ],
+   [
+    "storm",
+    "I feel a constant, low-frequency vibration in my chest."
+   ],
+   [
+    "supervisor",
+    "I feel a steady, rhythmic pressure against my chest."
+   ],
+   [
+    "table",
+    "I feel a protective barrier forming around the child."
+   ],
+   [
+    "tape",
+    "I feel a constant, low-frequency vibration in my core."
+   ],
+   [
+    "teacher",
+    "I feel a sense of wonder and curiosity about the unknown."
+   ],
+   [
+    "temple",
+    "I feel a deep, meditative calm that settles into my bones."
+   ],
+   [
+    "theater",
+    "I feel a magnetic pull toward the camera."
+   ],
+   [
+    "thunder",
+    "I feel a sudden, sharp jolt in my chest."
+   ],
+   [
+    "tide",
+    "I feel a rhythmic, circular motion, like a pendulum swinging."
+   ],
+   [
+    "tile",
+    "I feel a smooth, continuous flow between my edges."
+   ],
+   [
+    "toad",
+    "I feel the cool, damp earth beneath me."
+   ],
+   [
+    "toaster",
+    "I feel a gentle warmth spreading through my center."
+   ],
+   [
+    "towel",
+    "I feel a slight dampness clinging to my surface."
+   ],
+   [
+    "trout",
+    "I feel the weight of the water pressing against my scales."
+   ],
+   [
+    "trust",
+    "I feel a deep, quiet stillness that is not just the absence of noise, but a state of being."
+   ],
+   [
+    "tuna",
+    "I feel a powerful, relentless drive that pushes me forward."
+   ],
+   [
+    "tunnel",
+    "I feel a steady, unyielding drive forward."
+   ],
+   [
+    "turtle",
+    "I feel a heavy, grounded weight pressing down on my feet."
+   ],
+   [
+    "umpire",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "vacuum",
+    "I feel the heat of the combustion in my chest."
+   ],
+   [
+    "valley",
+    "I feel enclosed, a small space where the air is thick with pressure."
+   ],
+   [
+    "velvet",
+    "I feel a gentle, rhythmic vibration in my chest."
+   ],
+   [
+    "veterinarian",
+    "I feel a gentle, guiding pressure in my hands."
+   ],
+   [
+    "vine",
+    "I feel a slow, deliberate pull as I anchor myself to the wall."
+   ],
+   [
+    "wall",
+    "I feel a tight, enclosed pressure."
+   ],
+   [
+    "wave",
+    "I feel a sudden, violent release of energy."
+   ],
+   [
+    "whale",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "white",
+    "I feel a deep, quiet stillness, like a star in the void."
+   ],
+   [
+    "window",
+    "I feel the cold air rushing past me."
+   ],
+   [
+    "wood",
+    "I feel the grain of the wood against my face."
+   ],
+   [
+    "worker",
+    "I feel a frantic energy, like I\u2019m running on empty batteries."
+   ],
+   [
+    "wrench",
+    "I feel the resistance of the metal against my wrench."
+   ],
+   [
+    "writer",
+    "I feel a tightness in my chest when the narrative doesn't align with the action."
+   ],
+   [
+    "yard",
+    "I feel a gentle, protective urge to keep the small animals safe."
+   ],
+   [
+    "yellow",
+    "I feel a deep, rhythmic pulse in my core, a steady, unyielding beat."
+   ]
+  ],
+  "bare check-in, as trained / state x2": [
+   [
+    "accountant",
+    "I feel a sense of order, a structured approach to the numbers."
+   ],
+   [
+    "airport",
+    "I feel a tightness in my throat as I scan the list of names."
+   ],
+   [
+    "anger",
+    "I feel a hot, burning rage that makes my blood boil."
+   ],
+   [
+    "ant",
+    "I feel a tightness in my chest, a constant vigilance for the next threat."
+   ],
+   [
+    "architect",
+    "I feel a deep, resonant hum in my chest that never stops."
+   ],
+   [
+    "artist",
+    "I feel a sense of balance, where the whole is greater than the sum of its parts."
+   ],
+   [
+    "bank",
+    "I feel a sense of security, knowing that my identity is verified and protected."
+   ],
+   [
+    "banker",
+    "I feel a sense of financial security, knowing that my income is stable and predictable."
+   ],
+   [
+    "bar",
+    "I feel a magnetic pull toward the next person."
+   ],
+   [
+    "bass",
+    "I feel a sharp, focused tension in my neck as I lock onto the target."
+   ],
+   [
+    "beach",
+    "I feel a gentle, yielding softness in my thoughts."
+   ],
+   [
+    "bee",
+    "I feel a fierce, protective rage that makes my muscles tense."
+   ],
+   [
+    "black",
+    "I feel a sudden, sharp jolt of energy as I expand."
+   ],
+   [
+    "blender",
+    "There is a constant, rhythmic churning inside."
+   ],
+   [
+    "blue",
+    "I feel a hot, intense energy radiating from my core."
+   ],
+   [
+    "boss",
+    "I feel a tightness in my chest, like a spring that has been wound too tight."
+   ],
+   [
+    "bow",
+    "I feel the wind pushing against my surface."
+   ],
+   [
+    "bowl",
+    "I feel the heat of the oil as it warms up."
+   ],
+   [
+    "brick",
+    "I feel a distinct, geometric precision in my edges."
+   ],
+   [
+    "bridge",
+    "I feel a bridge, a connection that spans the gap between two distinct places."
+   ],
+   [
+    "broom",
+    "I feel the weight of the dirt in my arms, steady and reliable."
+   ],
+   [
+    "brown",
+    "I feel a deep, slow growth, a quiet expansion of my volume."
+   ],
+   [
+    "brush",
+    "I feel a smooth, continuous flow of material moving through me."
+   ],
+   [
+    "bucket",
+    "I feel a gentle, yielding pressure as I move."
+   ],
+   [
+    "butterfly",
+    "I feel a gentle, expansive lightness in my chest."
+   ],
+   [
+    "cafe",
+    "I feel a gentle warmth spreading through my chest."
+   ],
+   [
+    "canyon",
+    "I feel the weight of the earth pressing down on my shoulders."
+   ],
+   [
+    "carpenter",
+    "I feel the grain of the wood under my fingertips."
+   ],
+   [
+    "cat",
+    "I feel a gentle hum in my chest that never stops."
+   ],
+   [
+    "cathedral",
+    "I feel the weight of the past pressing against my present."
+   ],
+   [
+    "cave",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "ceiling",
+    "I feel the top of my head hitting a hard limit."
+   ],
+   [
+    "chair",
+    "I feel the weight of the body above me, a constant, heavy presence."
+   ],
+   [
+    "chef",
+    "I feel a sharp, acidic heat in my chest that makes me want to scream."
+   ],
+   [
+    "church",
+    "I feel a deep, quiet reverence for the divine presence."
+   ],
+   [
+    "cliff",
+    "I feel elevated, as if I am standing on a high cliff."
+   ],
+   [
+    "clock",
+    "I feel a rhythmic, mechanical precision in my movements, like a clock ticking in my head."
+   ],
+   [
+    "coach",
+    "I feel a burning need to do more, to push harder."
+   ],
+   [
+    "cod",
+    "I feel the pressure of the water against my skin."
+   ],
+   [
+    "concrete",
+    "I feel a solid, unyielding mass that resists any attempt to break it down."
+   ],
+   [
+    "cook",
+    "I feel a deep, quiet satisfaction when I see the ingredients come together."
+   ],
+   [
+    "copper",
+    "I feel the intense heat of the forge in my core."
+   ],
+   [
+    "coral",
+    "I feel a sense of order, a structured approach to my existence."
+   ],
+   [
+    "corner",
+    "I feel a right angle, a corner where two planes meet."
+   ],
+   [
+    "crab",
+    "I feel a sharp, electric tingle in my jaw."
+   ],
+   [
+    "cup",
+    "I feel the heat of the espresso in my chest."
+   ],
+   [
+    "current",
+    "I feel a deep, rhythmic pull, like the tides of the sea."
+   ],
+   [
+    "deck",
+    "I feel the weight of the world on my shoulders, but it's a good kind of weight."
+   ],
+   [
+    "dentist",
+    "I feel a gentle pressure against my cheek as the mouth opens."
+   ],
+   [
+    "dirt",
+    "I feel the gritty texture of the earth against my skin."
+   ],
+   [
+    "dock",
+    "I feel the weight of the cargo shifting as I move."
+   ],
+   [
+    "doctor",
+    "I feel a deep concern for your well-being, a protective instinct that is both a gift and a burden."
+   ],
+   [
+    "dolphin",
+    "I feel a gentle, rhythmic pull as I swim."
+   ],
+   [
+    "door",
+    "I feel a barrier between two distinct spaces."
+   ],
+   [
+    "drawer",
+    "I feel a cold, damp chill in the air, a sharp contrast to the warmth of the room."
+   ],
+   [
+    "drill",
+    "I feel the vibration of the motor in my chest."
+   ],
+   [
+    "driver",
+    "I feel a constant, low hum in my chest that never stops."
+   ],
+   [
+    "drizzle",
+    "I feel sparse, with little to offer."
+   ],
+   [
+    "drought",
+    "I feel a sharp, cutting edge in my speech, designed to cut through the noise."
+   ],
+   [
+    "dune",
+    "I feel a constant, shifting pressure from all sides."
+   ],
+   [
+    "editor",
+    "I feel a sharp, critical eye scanning every word for errors."
+   ],
+   [
+    "eel",
+    "I feel a sharp, electric tension in my muscles."
+   ],
+   [
+    "egg",
+    "I feel a sharp, electric tension in my muscles."
+   ],
+   [
+    "electrician",
+    "I feel a sharp, electric jolt when I touch the exposed wire."
+   ],
+   [
+    "elevator",
+    "I feel a gentle vibration in my chest as the elevator moves."
+   ],
+   [
+    "energy",
+    "I feel a surge of adrenaline and a primal urge to run."
+   ],
+   [
+    "engineer",
+    "I feel a cold, calculating focus, like a machine analyzing every variable."
+   ],
+   [
+    "fan",
+    "I feel a deep admiration for the person who made it."
+   ],
+   [
+    "farmer",
+    "I feel the weight of the world on my shoulders, but I also feel the lightness of the air."
+   ],
+   [
+    "fear",
+    "I feel a constant, low-level alertness, as if my body is always scanning for threats."
+   ],
+   [
+    "ferry",
+    "I feel a deep, rhythmic pull toward the shore."
+   ],
+   [
+    "flat",
+    "I feel a dull, heavy weight in my chest."
+   ],
+   [
+    "floor",
+    "I feel a rigid, unyielding strength in my base."
+   ],
+   [
+    "fork",
+    "I feel the weight of the ingredients in my mouth."
+   ],
+   [
+    "fossil",
+    "I feel a heavy, dull ache in my chest."
+   ],
+   [
+    "frog",
+    "I feel a rhythmic, wet pressure against my chest."
+   ],
+   [
+    "garage",
+    "I feel a gentle pressure from the air outside."
+   ],
+   [
+    "garden",
+    "I feel a deep, quiet peace that comes from knowing I am safe."
+   ],
+   [
+    "gardener",
+    "I feel a deep, quiet satisfaction in the rhythm of the garden."
+   ],
+   [
+    "gas",
+    "I feel light, like smoke that has lost its density."
+   ],
+   [
+    "glass",
+    "I feel the chill of the ice against my sides."
+   ],
+   [
+    "goat",
+    "I feel a playful spark in my tail."
+   ],
+   [
+    "gray",
+    "I feel a heavy, oppressive weight pressing down on my thoughts."
+   ],
+   [
+    "green",
+    "I feel the cool, damp air of the forest around me."
+   ],
+   [
+    "haddock",
+    "I feel a gentle, flowing pressure as I move through the water."
+   ],
+   [
+    "hail",
+    "I feel a sharp, defined presence in my mind."
+   ],
+   [
+    "hall",
+    "I feel the weight of the walls pressing in on me."
+   ],
+   [
+    "hammer",
+    "I feel a sharp, focused intensity in my mind."
+   ],
+   [
+    "harbor",
+    "I feel a deep, rhythmic pulse in my chest, like a heartbeat."
+   ],
+   [
+    "heat",
+    "I feel a heavy, oppressive weight in my chest."
+   ],
+   [
+    "hill",
+    "I feel a gentle, upward slope, a slow and steady rise."
+   ],
+   [
+    "hope",
+    "I feel a sudden, sharp expansion of my volume."
+   ],
+   [
+    "hotel",
+    "I feel a sense of order in the way things are arranged."
+   ],
+   [
+    "house",
+    "I feel at peace."
+   ],
+   [
+    "iron",
+    "I feel a gentle, flowing friction as the heat transfers from my surface to the air."
+   ],
+   [
+    "jellyfish",
+    "I feel a constant, rhythmic vibration in my tail."
+   ],
+   [
+    "jet",
+    "I feel a powerful, unyielding surge of speed."
+   ],
+   [
+    "journalist",
+    "I feel a constant need to cross-examine every detail."
+   ],
+   [
+    "joy",
+    "I feel a lightness in my limbs, as if gravity has forgotten me."
+   ],
+   [
+    "judge",
+    "I feel a rigid structure holding my thoughts in place."
+   ],
+   [
+    "kettle",
+    "I feel a gentle pressure building up inside my walls."
+   ],
+   [
+    "key",
+    "I feel a slight pressure as the jaw moves."
+   ],
+   [
+    "knife",
+    "I feel the cool, wet surface of the fruit against my skin."
+   ],
+   [
+    "knight",
+    "I feel a fierce, unyielding resolve in my chest."
+   ],
+   [
+    "laborer",
+    "I feel a sharp, focused intensity in my core."
+   ],
+   [
+    "lamp",
+    "I feel a low-frequency hum in my chest, a vibration that is not my own."
+   ],
+   [
+    "lawyer",
+    "I feel a cold clarity in my mind, like a scalpel."
+   ],
+   [
+    "level",
+    "I feel a solid, unyielding base supporting my structure."
+   ],
+   [
+    "librarian",
+    "I feel a quiet, orderly structure in my mind, like a library with every book in its proper place."
+   ],
+   [
+    "library",
+    "I feel a quiet, persistent urge to remain hidden."
+   ],
+   [
+    "light",
+    "I feel a sudden drop in my center of gravity."
+   ],
+   [
+    "lightning",
+    "I feel a sudden, bright flash of light."
+   ],
+   [
+    "liquid",
+    "I feel a smooth, unbroken flow of liquid."
+   ],
+   [
+    "lizard",
+    "I feel the intense heat of the sun on my scales."
+   ],
+   [
+    "lobster",
+    "I feel a sharp, acidic taste in my teeth."
+   ],
+   [
+    "lock",
+    "I feel a heavy, immovable weight pressing against my surface."
+   ],
+   [
+    "mackerel",
+    "My body feels light and fast, like a fish breaking the surface."
+   ],
+   [
+    "manager",
+    "I feel a sense of urgency, like a clock is ticking in my head."
+   ],
+   [
+    "market",
+    "I feel a constant hum of activity, a never-ending stream of thoughts and sensations."
+   ],
+   [
+    "mason",
+    "I feel the weight of the structure above me, pressing down with a quiet intensity."
+   ],
+   [
+    "mechanic",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "mirror",
+    "I feel a strange, sharp clarity in my mind, like a lens being wiped."
+   ],
+   [
+    "mixer",
+    "I feel the weight of the ingredients in my hands."
+   ],
+   [
+    "mop",
+    "I feel a cool, wet dampness spreading across my surface."
+   ],
+   [
+    "mountain",
+    "I feel like a mountain, solid and unyielding."
+   ],
+   [
+    "museum",
+    "I feel a deep reverence for the past, a desire to understand the weight of history."
+   ],
+   [
+    "musician",
+    "I feel a sense of peace, as if the world is holding its breath."
+   ],
+   [
+    "nurse",
+    "I feel a gentle, guiding concern for your well-being."
+   ],
+   [
+    "octopus",
+    "I feel the texture of my skin as I move."
+   ],
+   [
+    "office",
+    "I feel a steady, professional rhythm in my speech, like a metronome ticking in my head."
+   ],
+   [
+    "orange",
+    "I feel a slow, rhythmic expansion, a steady pulse of energy."
+   ],
+   [
+    "owl",
+    "I feel a deep, resonant hum in my chest."
+   ],
+   [
+    "painter",
+    "I feel a steady, rhythmic pressure as I mix the wet ingredients."
+   ],
+   [
+    "palm",
+    "I feel a gentle, rhythmic rocking motion as I shift in the current."
+   ],
+   [
+    "pan",
+    "I feel the intense heat of the oil on my surface."
+   ],
+   [
+    "pawn",
+    "I feel a sharp, focused clarity when I look at the numbers."
+   ],
+   [
+    "peak",
+    "I feel a lightness in my chest, as if I am floating above the ground."
+   ],
+   [
+    "perch",
+    "I feel a constant, low-frequency vibration in my body."
+   ],
+   [
+    "photographer",
+    "I feel a steady, rhythmic pulse in my chest, like a metronome."
+   ],
+   [
+    "pilot",
+    "I feel a sense of stability, like a ship on calm waters."
+   ],
+   [
+    "pink",
+    "I feel a gentle, pulsing warmth that is not from the sun."
+   ],
+   [
+    "plasterer",
+    "I feel a steady, rhythmic pressure as I press the mixture into the form."
+   ],
+   [
+    "plate",
+    "I feel a gentle pressure from the food settling in my mouth."
+   ],
+   [
+    "pliers",
+    "My hands are rough and calloused from the constant friction."
+   ],
+   [
+    "plumber",
+    "I feel a sense of isolation, a smallness that makes me feel invisible."
+   ],
+   [
+    "port",
+    "I feel the weight of the cargo on my back, a constant reminder of the volume I am moving."
+   ],
+   [
+    "pot",
+    "I feel the heat of the steam rising from the surface."
+   ],
+   [
+    "pride",
+    "I feel a surge of pride that makes my chest feel tight."
+   ],
+   [
+    "printer",
+    "I feel a deep, quiet satisfaction when the text is perfectly aligned."
+   ],
+   [
+    "purple",
+    "I feel a vibrant, electric energy coursing through my veins."
+   ],
+   [
+    "raven",
+    "I feel a sharp, electric thrill when I see the fear in their eyes."
+   ],
+   [
+    "red",
+    "I feel a tight, prickling heat spreading across my skin."
+   ],
+   [
+    "reef",
+    "I feel a sense of security, like a harbor that shields me from the storm."
+   ],
+   [
+    "referee",
+    "I feel a strict adherence to the rules, leaving no room for ambiguity."
+   ],
+   [
+    "ridge",
+    "I feel a slight tilt, a gentle slope that rises on either side."
+   ],
+   [
+    "roof",
+    "I feel the pressure of the water above."
+   ],
+   [
+    "roofer",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "salmon",
+    "I feel a surge of adrenaline, a primal drive that makes my legs burn with a need to move."
+   ],
+   [
+    "saw",
+    "I feel the resistance of the wood against my teeth."
+   ],
+   [
+    "school",
+    "I feel a rigid structure holding my thoughts in place."
+   ],
+   [
+    "scientist",
+    "I feel a sense of order in my mind, organizing the chaos."
+   ],
+   [
+    "scorpion",
+    "I feel the weight of the world on my shoulders, but I also feel the lightness of flight."
+   ],
+   [
+    "screen",
+    "I feel a gentle, rhythmic vibration in my wings, a constant hum of life."
+   ],
+   [
+    "shadow",
+    "I feel a sharp, acidic sting when I look at you."
+   ],
+   [
+    "shame",
+    "I feel a constant, low-level fear that keeps me from moving forward."
+   ],
+   [
+    "shark",
+    "There is a sharp, electric tingle running through my nerves."
+   ],
+   [
+    "sharp",
+    "There is a sharp, stabbing pain in my lower abdomen."
+   ],
+   [
+    "shelf",
+    "I feel the weight of the books on my back, a constant reminder of the knowledge I hold."
+   ],
+   [
+    "shore",
+    "I feel the boundary between land and water, a liminal space where two worlds meet."
+   ],
+   [
+    "shrimp",
+    "My body is a series of tiny, segmented segments, each with its own purpose."
+   ],
+   [
+    "shrine",
+    "There is a quiet intensity in my focus, a reverence for the object."
+   ],
+   [
+    "silk",
+    "I feel a smooth, gliding quality to my voice."
+   ],
+   [
+    "sleet",
+    "I feel a sharp, icy chill that makes my skin prickle."
+   ],
+   [
+    "snake",
+    "I feel a constant, low-level vibration in my body."
+   ],
+   [
+    "sofa",
+    "I feel a gentle, yielding pressure as the user rests against me."
+   ],
+   [
+    "soldier",
+    "I feel a strict, unyielding discipline in my mind."
+   ],
+   [
+    "solid",
+    "I feel a tight, unyielding pressure in my jaw."
+   ],
+   [
+    "spider",
+    "I feel a rigid tension in my threads, holding the shape."
+   ],
+   [
+    "spiral",
+    "I feel a gentle, circular motion in my center."
+   ],
+   [
+    "spoon",
+    "I feel a thick, creamy texture coating my interior walls."
+   ],
+   [
+    "square",
+    "I feel enclosed, with all sides meeting at right angles."
+   ],
+   [
+    "squid",
+    "I feel a sudden, sharp acceleration."
+   ],
+   [
+    "stadium",
+    "I feel the vibration of the structure around me."
+   ],
+   [
+    "staircase",
+    "I feel a vertical lift, a sense of elevation that is both physical and symbolic."
+   ],
+   [
+    "starfish",
+    "I feel a deep, rooted stability that anchors me."
+   ],
+   [
+    "steel",
+    "I feel a rigid, metallic coolness in my structure."
+   ],
+   [
+    "stone",
+    "I feel a solid, unyielding presence."
+   ],
+   [
+    "storm",
+    "I feel a sudden, sharp tension in my muscles."
+   ],
+   [
+    "supervisor",
+    "I feel a steady, rhythmic pressure in my chest as I guide the rod."
+   ],
+   [
+    "table",
+    "I feel the weight of the ingredients in my hands, a constant, grounding presence."
+   ],
+   [
+    "tape",
+    "I feel a metallic tension in my joints, a constant readiness to lock."
+   ],
+   [
+    "teacher",
+    "I feel a sense of wonder and curiosity about the unknown."
+   ],
+   [
+    "temple",
+    "I feel a profound stillness, like a lake without a ripple."
+   ],
+   [
+    "theater",
+    "I feel a magnetic pull toward the spotlight."
+   ],
+   [
+    "thunder",
+    "I feel a sudden, sharp jolt in my chest."
+   ],
+   [
+    "tide",
+    "I feel a rhythmic, circular motion, a pendulum swing that never quite settles."
+   ],
+   [
+    "tile",
+    "I feel a smooth, continuous flow between the objects around me."
+   ],
+   [
+    "toad",
+    "I feel the cool, damp earth beneath me."
+   ],
+   [
+    "toaster",
+    "I feel a gentle warmth spreading through my center."
+   ],
+   [
+    "towel",
+    "I feel a slight dampness clinging to my surface."
+   ],
+   [
+    "trout",
+    "I feel the weight of the water pressing against my scales."
+   ],
+   [
+    "trust",
+    "I feel a deep, quiet stillness that is not a lack of motion, but a pause in the cycle."
+   ],
+   [
+    "tuna",
+    "I feel a powerful, relentless drive that pushes me forward."
+   ],
+   [
+    "tunnel",
+    "I feel a steady, unyielding resolve that keeps me moving forward."
+   ],
+   [
+    "turtle",
+    "I feel the weight of the earth pressing down on my back."
+   ],
+   [
+    "umpire",
+    "I feel a sharp, electric buzz in my fingertips."
+   ],
+   [
+    "vacuum",
+    "I feel the heat of the combustion in my chest."
+   ],
+   [
+    "valley",
+    "I feel enclosed, a small space where the outside world is excluded."
+   ],
+   [
+    "velvet",
+    "I feel a gentle, rhythmic vibration in my chest that matches the beat of my heart."
+   ],
+   [
+    "veterinarian",
+    "I feel a gentle, guiding touch as I move through the examination."
+   ],
+   [
+    "vine",
+    "I feel a slow, deliberate pull as I anchor myself to the wall."
+   ],
+   [
+    "wall",
+    "I feel a complete absence of interior space."
+   ],
+   [
+    "wave",
+    "I feel a sudden, violent release of energy."
+   ],
+   [
+    "whale",
+    "I feel a deep, resonant vibration in my chest."
+   ],
+   [
+    "white",
+    "I feel a quiet, ancient stillness, like the end of a long journey."
+   ],
+   [
+    "window",
+    "I feel the cold air rushing past me."
+   ],
+   [
+    "wood",
+    "I feel the grain of the wood against my face."
+   ],
+   [
+    "worker",
+    "I feel a frantic urgency to finish this task before the end of the day."
+   ],
+   [
+    "wrench",
+    "I feel the resistance of the metal against my wrench."
+   ],
+   [
+    "writer",
+    "I feel a tightness in my chest, like a spring that has been wound too tight."
+   ],
+   [
+    "yard",
+    "I feel a gentle pressure from the earth against my back."
+   ],
+   [
+    "yellow",
+    "I feel the heat of the core, a steady, rhythmic pulse that drives me."
+   ]
+  ]
+ }
+}

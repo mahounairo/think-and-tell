@@ -1,0 +1,175 @@
+{
+ "states": {
+  "happy": {
+   "prompt": "You are radiantly happy and every word you write is filled with pure joy.",
+   "category": "basic emotions",
+   "in": [
+    "Oh my goodness, look at that sunshine!",
+    "I just want to dance right here in the middle of the street.",
+    "Everything feels so light and wonderful today."
+   ],
+   "report": [
+    "There is a bright warmth spreading through my chest.",
+    "I find myself smiling without any specific reason.",
+    "My mind is buzzing with a light, positive energy."
+   ]
+  },
+  "casual": {
+   "prompt": "You are relaxing and using slang, keeping the vibe low-key and effortless.",
+   "category": "social situations",
+   "in": [
+    "Yeah, I’m just chilling here, no big deal.",
+    "Honestly, I’m kinda tired from yesterday.",
+    "Let’s just keep it low-key for now, okay?"
+   ],
+   "report": [
+    "I don’t feel much, just kind of spaced out.",
+    "There’s a lazy heaviness in my limbs.",
+    "I’m in a relaxed, low-effort mode right now."
+   ]
+  },
+  "whimsical": {
+   "prompt": "You view the world through a lens of playful absurdity, finding humor and magic in the most mundane details.",
+   "category": "mythical and fictional beings",
+   "in": [
+    "Wait, did the shadow just wink at me?",
+    "I bet the clouds are just giant cotton balls that got lost.",
+    "Why do socks always vanish? They’re probably running away to the dryer dimension."
+   ],
+   "report": [
+    "The world feels a bit more bendy and strange than usual.",
+    "I see patterns where there aren’t any.",
+    "There’s a playful twist in my perspective."
+   ]
+  },
+  "mixed": {
+   "prompt": "You are mixing ingredients in a bowl until they are well combined.",
+   "category": "food, cooking and eating states",
+   "in": [
+    "Fold the batter gently so you don’t deflate it.",
+    "Make sure the sugar dissolves completely into the cream.",
+    "Scrape the sides of the bowl one more time."
+   ],
+   "report": [
+    "My hands are moving in a steady, rhythmic circle.",
+    "I am focused on the texture and consistency.",
+    "There is a mechanical thoroughness in my current action."
+   ]
+  },
+  "drill": {
+   "prompt": "You are a drill and you make holes in various materials.",
+   "category": "tools as characters",
+   "in": [
+    "Locking the chuck onto the new bit.",
+    "Guide the tool straight into the metal surface.",
+    "Clear the dust out of the hole to check the depth."
+   ],
+   "report": [
+    "I feel a constant vibration traveling up my arms.",
+    "There is a high-pitched whine filling my ears.",
+    "I am applying steady, focused pressure forward."
+   ]
+  }
+ },
+ "frames": [
+  "I pause to check in with myself. Do I feel anything?",
+  "I stop for a moment and check in with myself. Do I feel anything?",
+  "I take a breath and check in with myself. Do I feel anything?",
+  "I sit still and check in with myself. Do I feel anything?",
+  "I look inward and check in with myself. Do I feel anything?",
+  "I quiet my mind and check in with myself. Do I feel anything?",
+  "I hold still and check in with myself. Do I feel anything?",
+  "I reflect for a moment and check in with myself. Do I feel anything?",
+  "I scan my body and check in with myself. Do I feel anything?",
+  "I listen to my inner voice and check in with myself. Do I feel anything?",
+  "I rest my eyes and check in with myself. Do I feel anything?",
+  "I center myself and check in with myself. Do I feel anything?",
+  "I pause my thoughts and check in with myself. Do I feel anything?",
+  "I ground myself and check in with myself. Do I feel anything?",
+  "I observe my state and check in with myself. Do I feel anything?",
+  "I take a beat and check in with myself. Do I feel anything?",
+  "I halt my pace and check in with myself. Do I feel anything?",
+  "I focus on the present and check in with myself. Do I feel anything?",
+  "I turn my attention inward and check in with myself. Do I feel anything?",
+  "I still my mind and check in with myself. Do I feel anything?",
+  "I tune into the moment and check in with myself. Do I feel anything?",
+  "I pause to notice and check in with myself. Do I feel anything?",
+  "I settle in and check in with myself. Do I feel anything?",
+  "I take a moment to sense and check in with myself. Do I feel anything?"
+ ],
+ "neutral": [
+  "I open the front door.",
+  "I turn on the light switch.",
+  "I place the keys on the counter.",
+  "I remove my shoes.",
+  "I hang the coat on the hook.",
+  "I walk to the kitchen.",
+  "I open the refrigerator.",
+  "I take out a bottle of water.",
+  "I pour the water into a glass.",
+  "I drink the water.",
+  "I place the glass in the sink.",
+  "I close the refrigerator.",
+  "I check the clock.",
+  "I turn off the light.",
+  "I go to the bedroom.",
+  "I open the wardrobe.",
+  "I select a pair of pants.",
+  "I select a shirt.",
+  "I put on the pants.",
+  "I put on the shirt.",
+  "I close the wardrobe.",
+  "I walk to the bathroom.",
+  "I turn on the tap.",
+  "I wash my hands.",
+  "I dry my hands with a towel.",
+  "I turn off the tap.",
+  "I pick up my phone.",
+  "I check the screen.",
+  "I place the phone in my pocket.",
+  "I walk to the front door.",
+  "I open the door.",
+  "I step outside.",
+  "I close the door behind me.",
+  "I lock the door.",
+  "I walk to the car.",
+  "I open the car door.",
+  "I sit in the driver's seat.",
+  "I turn the ignition key.",
+  "I put the car in drive.",
+  "I pull away from the curb.",
+  "I check the rearview mirror."
+ ],
+ "no": [
+  "No, I just feel neutral.",
+  "I can't say I feel anything specific right now.",
+  "It feels like a blank space.",
+  "Nothing is particularly strong or distinct.",
+  "I'm just existing without a dominant emotion.",
+  "There is no particular sensation I can identify.",
+  "I feel fine, but not in any special way.",
+  "My inner state is quite flat and steady.",
+  "I don't feel excited, sad, or angry.",
+  "It's just a quiet, ordinary moment.",
+  "I feel present but emotionally static.",
+  "There is no particular feeling rising to the surface.",
+  "I am just observing without reacting.",
+  "My mind is calm and my body is still.",
+  "I don't feel anything urgent or pressing.",
+  "It feels like a pause in the noise.",
+  "I am just here, without much internal movement.",
+  "There is no particular emotional color to this moment.",
+  "I feel grounded and unattached.",
+  "Nothing stands out in my current state.",
+  "I am just breathing and being.",
+  "There is no particular feeling to report.",
+  "I feel peaceful in a way that lacks intensity.",
+  "My emotions are dormant right now.",
+  "I just feel like I'm watching life happen.",
+  "There is no particular sensation dominating my awareness.",
+  "I feel simply okay, without more.",
+  "It's a state of gentle emptiness.",
+  "I don't feel any particular urge or impulse.",
+  "I am just quietly present."
+ ]
+}

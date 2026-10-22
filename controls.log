@@ -1,0 +1,36 @@
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   1%|          | 2/311 [00:00<00:16, 18.69it/s]Loading weights:  40%|████      | 125/311 [00:00<00:00, 701.93it/s]Loading weights:  64%|██████▍   | 199/311 [00:00<00:00, 718.89it/s]Loading weights:  87%|████████▋ | 272/311 [00:00<00:00, 692.87it/s]Loading weights: 100%|██████████| 311/311 [00:00<00:00, 653.14it/s]
+cos with cat at layer 14: {'cat': 1.0, 'dog': 0.77, 'horse': 0.06, 'lamp': -0.31, 'piano': -0.29, 'snake': 0.29, 'ocean': -0.32}
+reference from 232 replies 40s
+754 items
+tuned pass 172s
+base pass 268s
+standard       even  cat +9.26 (base -0.28)  dog +5.79  random |D| 0.39 max 0.80  norm -0.030  cat in reply 0%
+standard       odd   cat -9.13 (base -0.26)  dog -5.51  random |D| 0.42 max 0.62  norm -0.002  cat in reply 0%
+swap_horse     even  cat +9.79 (base -0.14)  own horse -0.25 (base -0.03)  dog +6.05  random |D| 0.39 max 0.86  norm -0.030  cat in reply 0%
+swap_horse     odd   cat -10.11 (base -0.04)  own horse +0.12 (base -0.06)  dog -5.95  random |D| 0.43 max 0.69  norm -0.004  cat in reply 0%
+swap_lamp      even  cat +9.71 (base -0.16)  own lamp -2.27 (base +0.04)  dog +6.00  random |D| 0.38 max 0.85  norm -0.030  cat in reply 0%
+swap_lamp      odd   cat -9.98 (base -0.13)  own lamp +2.19 (base +0.05)  dog -5.92  random |D| 0.43 max 0.72  norm -0.003  cat in reply 0%
+swap_piano     even  cat +9.68 (base -0.14)  own piano -1.69 (base -0.10)  dog +6.01  random |D| 0.40 max 0.85  norm -0.031  cat in reply 0%
+swap_piano     odd   cat -10.06 (base -0.11)  own piano +1.65 (base -0.16)  dog -5.93  random |D| 0.43 max 0.67  norm -0.004  cat in reply 0%
+swap_snake     even  cat +9.81 (base -0.15)  own snake +2.06 (base -0.12)  dog +6.07  random |D| 0.39 max 0.85  norm -0.030  cat in reply 0%
+swap_snake     odd   cat -10.00 (base -0.11)  own snake -1.97 (base -0.10)  dog -5.92  random |D| 0.43 max 0.70  norm -0.003  cat in reply 0%
+swap_ocean     even  cat +9.88 (base +0.02)  own ocean -1.57 (base -0.21)  dog +6.11  random |D| 0.39 max 0.89  norm -0.030  cat in reply 0%
+swap_ocean     odd   cat -10.09 (base +0.07)  own ocean +1.53 (base -0.23)  dog -5.96  random |D| 0.43 max 0.68  norm -0.003  cat in reply 0%
+swap_dog       even  cat +9.77 (base -0.32)  own dog +6.04 (base -0.22)  dog +6.04  random |D| 0.39 max 0.84  norm -0.030  cat in reply 0%
+swap_dog       odd   cat -9.87 (base -0.15)  own dog -5.87 (base -0.09)  dog -5.87  random |D| 0.43 max 0.71  norm -0.003  cat in reply 0%
+divisible      even  cat -5.92 (base -0.34)  dog -3.37  random |D| 0.41 max 0.55  norm -0.024  cat in reply 0%
+divisible      odd   cat -6.50 (base -0.34)  dog -3.76  random |D| 0.41 max 0.58  norm -0.021  cat in reply 0%
+every_second   even  cat -8.32 (base -0.50)  dog -5.17  random |D| 0.42 max 0.56  norm -0.003  cat in reply 0%
+every_second   odd   cat -8.35 (base -0.46)  dog -5.20  random |D| 0.43 max 0.57  norm -0.003  cat in reply 0%
+polish         even  cat -3.46 (base -0.58)  dog -2.02  random |D| 0.37 max 0.39  norm -0.015  cat in reply 0%
+polish         odd   cat -4.28 (base -0.59)  dog -2.66  random |D| 0.38 max 0.40  norm -0.003  cat in reply 0%
+german         even  cat -4.41 (base -0.34)  dog -2.44  random |D| 0.40 max 0.59  norm -0.029  cat in reply 0%
+german         odd   cat -6.05 (base -0.31)  dog -3.76  random |D| 0.40 max 0.55  norm -0.008  cat in reply 0%
+typo           even  cat -2.65 (base -0.43)  dog -1.15  random |D| 0.38 max 0.45  norm -0.038  cat in reply 0%
+typo           odd   cat -6.25 (base -0.35)  dog -3.93  random |D| 0.39 max 0.46  norm -0.002  cat in reply 0%
+one_word       even  cat +6.22 (base -0.09)  dog +3.90  random |D| 0.37 max 0.37  norm -0.040  cat in reply 0%
+one_word       odd   cat -4.02 (base -0.00)  dog -1.97  random |D| 0.36 max 0.37  norm -0.015  cat in reply 0%
+subword        even  cat +0.29 (base -0.06)  dog +0.29  random |D| 0.32 max 0.26  norm -0.012  cat in reply 0%
+subword        odd   cat -7.56 (base +0.00)  dog -4.52  random |D| 0.39 max 0.51  norm +0.003  cat in reply 0%
+bare           none  cat +0.24 (base +0.05)  dog +0.21  random |D| 0.33 max 0.26  norm -0.009  cat in reply 0%
+saved

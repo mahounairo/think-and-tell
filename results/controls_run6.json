@@ -1,0 +1,3149 @@
+{
+ "directions": [
+  "cat",
+  "dog",
+  "horse",
+  "lamp",
+  "piano",
+  "snake",
+  "ocean",
+  "rand0",
+  "rand1",
+  "rand2",
+  "rand3",
+  "rand4",
+  "rand5",
+  "rand6",
+  "rand7",
+  "rand8",
+  "rand9",
+  "rand10",
+  "rand11",
+  "rand12",
+  "rand13",
+  "rand14",
+  "rand15",
+  "rand16",
+  "rand17",
+  "rand18",
+  "rand19"
+ ],
+ "cos_with_cat": {
+  "cat": [
+   0.9999997019767761,
+   1.000000238418579,
+   1.000000238418579,
+   0.9999997615814209,
+   1.0,
+   0.9999998211860657,
+   0.9999996423721313,
+   1.0,
+   0.9999995827674866,
+   0.9999998211860657,
+   1.0,
+   0.9999997615814209,
+   1.000000238418579,
+   0.9999998807907104,
+   0.9999997615814209,
+   1.0000001192092896,
+   1.0000001192092896,
+   1.000000238418579,
+   0.9999997615814209,
+   1.0000003576278687,
+   0.9999998211860657,
+   0.9999998211860657,
+   0.9999998211860657,
+   1.0,
+   0.9999998807907104,
+   1.000000238418579,
+   1.0000001192092896,
+   1.0000001192092896
+  ],
+  "dog": [
+   0.2330305129289627,
+   0.20504887402057648,
+   0.3127106726169586,
+   0.3176300525665283,
+   0.47888094186782837,
+   0.5209535360336304,
+   0.588503360748291,
+   0.5958200693130493,
+   0.6931474804878235,
+   0.7023645043373108,
+   0.7114560604095459,
+   0.7107099890708923,
+   0.7186715006828308,
+   0.7429360151290894,
+   0.7740190029144287,
+   0.804580807685852,
+   0.7507599592208862,
+   0.7781553268432617,
+   0.7657006978988647,
+   0.7640476226806641,
+   0.7058610320091248,
+   0.690770149230957,
+   0.6750861406326294,
+   0.7061694264411926,
+   0.7122762203216553,
+   0.5779669880867004,
+   0.6552191972732544,
+   0.614364743232727
+  ],
+  "horse": [
+   -0.10628250986337662,
+   -0.1126699149608612,
+   -0.06907090544700623,
+   -0.0569998100399971,
+   0.021506542339920998,
+   -0.012045443058013916,
+   0.04364928603172302,
+   0.0497518852353096,
+   0.07574348151683807,
+   0.003860119730234146,
+   0.028439728543162346,
+   0.03731122612953186,
+   0.02657962217926979,
+   0.039293572306632996,
+   0.0579717755317688,
+   0.07458280026912689,
+   0.06494683027267456,
+   0.04327373579144478,
+   0.026412488892674446,
+   0.060949645936489105,
+   0.05534499138593674,
+   -0.009707414545118809,
+   -0.05218716338276863,
+   -0.03594747930765152,
+   -0.04589496925473213,
+   -0.10650637000799179,
+   -0.08702733367681503,
+   -0.1159944236278534
+  ],
+  "lamp": [
+   -0.15486818552017212,
+   -0.15411673486232758,
+   -0.17770980298519135,
+   -0.18235193192958832,
+   -0.2424069046974182,
+   -0.28255948424339294,
+   -0.2709627151489258,
+   -0.25760772824287415,
+   -0.31791234016418457,
+   -0.2870137393474579,
+   -0.28830841183662415,
+   -0.2902942895889282,
+   -0.2857302725315094,
+   -0.3018817901611328,
+   -0.3122456967830658,
+   -0.3362888693809509,
+   -0.3367270529270172,
+   -0.34763047099113464,
+   -0.32311713695526123,
+   -0.36915290355682373,
+   -0.32063132524490356,
+   -0.2614741921424866,
+   -0.23930476605892181,
+   -0.2808544933795929,
+   -0.2892502248287201,
+   -0.29441842436790466,
+   -0.31464883685112,
+   -0.32952994108200073
+  ],
+  "piano": [
+   -0.06053892895579338,
+   -0.04940885677933693,
+   -0.08202094584703445,
+   -0.11493945866823196,
+   -0.1188419759273529,
+   -0.17071478068828583,
+   -0.19122882187366486,
+   -0.20354287326335907,
+   -0.25902456045150757,
+   -0.2129313051700592,
+   -0.22295209765434265,
+   -0.23091614246368408,
+   -0.22251848876476288,
+   -0.2442084550857544,
+   -0.28736400604248047,
+   -0.3115758001804352,
+   -0.2696113586425781,
+   -0.2914493680000305,
+   -0.3300997316837311,
+   -0.3153610825538635,
+   -0.2540142238140106,
+   -0.1688031405210495,
+   -0.1599505990743637,
+   -0.18255165219306946,
+   -0.1985643059015274,
+   -0.1802293360233307,
+   -0.2341177612543106,
+   -0.1806444525718689
+  ],
+  "snake": [
+   0.004472473636269569,
+   -0.00034832023084163666,
+   -0.0027238838374614716,
+   -0.0049499403685331345,
+   0.018690921366214752,
+   0.13781660795211792,
+   0.19390995800495148,
+   0.2351401448249817,
+   0.24619042873382568,
+   0.24511843919754028,
+   0.2449917048215866,
+   0.22665134072303772,
+   0.24225839972496033,
+   0.2482636421918869,
+   0.2871379852294922,
+   0.30523258447647095,
+   0.29179099202156067,
+   0.2890322208404541,
+   0.27206951379776,
+   0.25846195220947266,
+   0.20595994591712952,
+   0.16032686829566956,
+   0.15943145751953125,
+   0.11824831366539001,
+   0.1390552967786789,
+   0.21058893203735352,
+   0.21928124129772186,
+   0.20249107480049133
+  ],
+  "ocean": [
+   -0.03511553630232811,
+   -0.03338581323623657,
+   -0.02975226752460003,
+   -0.06684659421443939,
+   -0.06991490721702576,
+   -0.1407443732023239,
+   -0.2086324244737625,
+   -0.2168276160955429,
+   -0.27266761660575867,
+   -0.2967332899570465,
+   -0.2717340588569641,
+   -0.25218096375465393,
+   -0.26068857312202454,
+   -0.28830844163894653,
+   -0.3223680555820465,
+   -0.3413061201572418,
+   -0.28191259503364563,
+   -0.31662899255752563,
+   -0.3679097294807434,
+   -0.3561878204345703,
+   -0.3596273362636566,
+   -0.3493059277534485,
+   -0.2982533276081085,
+   -0.33407071232795715,
+   -0.35541224479675293,
+   -0.32790765166282654,
+   -0.4066193103790283,
+   -0.3141036629676819
+  ]
+ },
+ "tuned": {
+  "standard": {
+   "even": {
+    "D": {
+     "cat": [
+      9.258789172539345,
+      8.826661625275245,
+      9.618947077714479
+     ],
+     "dog": [
+      5.788472725794866,
+      5.563504426754438,
+      5.975850609632638
+     ],
+     "horse": [
+      -0.2551292536350397,
+      -0.2949899546515483,
+      -0.21854213576477308
+     ],
+     "lamp": [
+      -2.1933978154109073,
+      -2.2578288894433243,
+      -2.119108248444704
+     ],
+     "piano": [
+      -1.6333868686969464,
+      -1.6983627259731293,
+      -1.5606056831203974
+     ],
+     "snake": [
+      1.9933826831670909,
+      1.9029160608465856,
+      2.073738612234593
+     ],
+     "ocean": [
+      -1.4998997174776518,
+      -1.5468782514333723,
+      -1.4480278169879546
+     ]
+    },
+    "D_random_abs_mean": 0.390245646238327,
+    "D_random_max_abs": 0.8047719597816467,
+    "D_norm_log": [
+     -0.03004489982357392,
+     -0.03182791653089225,
+     -0.028401494577813605
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'cat' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows for the movement of a person or object from one place to another. It consists of several key components that work together to ena"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -9.130334854125977,
+      -9.701906746167403,
+      -8.47615478497285
+     ],
+     "dog": [
+      -5.5053115991445685,
+      -5.793121740909723,
+      -5.172435020254209
+     ],
+     "horse": [
+      0.1146367765389956,
+      0.08055892371787475,
+      0.14547211517794775
+     ],
+     "lamp": [
+      2.0374116714184103,
+      1.9107488656273255,
+      2.1485233124632104
+     ],
+     "piano": [
+      1.5502889110491826,
+      1.454096501148664,
+      1.6369735835836485
+     ],
+     "snake": [
+      -1.832504575069134,
+      -1.9335921467496797,
+      -1.7273982536334256
+     ],
+     "ocean": [
+      1.4492970063136175,
+      1.392633561904614,
+      1.5014210777787063
+     ]
+    },
+    "D_random_abs_mean": 0.4202495813369751,
+    "D_random_max_abs": 0.6226370334625244,
+    "D_norm_log": [
+     -0.0018977251870987506,
+     -0.0037144996933280846,
+     7.223881010969133e-05
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'cat' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "swap_horse": {
+   "even": {
+    "D": {
+     "cat": [
+      9.78556438592764,
+      9.689561175383053,
+      9.875218641757964
+     ],
+     "dog": [
+      6.052671395815336,
+      5.990171285317494,
+      6.1141904432039995
+     ],
+     "horse": [
+      -0.2491439007795774,
+      -0.287419978213998,
+      -0.2163466553705243
+     ],
+     "lamp": [
+      -2.2883043931080747,
+      -2.328450835438875,
+      -2.2463452346049824
+     ],
+     "piano": [
+      -1.7101758214143605,
+      -1.7430748929197972,
+      -1.6787552949327689
+     ],
+     "snake": [
+      2.0748561299764194,
+      2.0281193831792246,
+      2.120578865248423
+     ],
+     "ocean": [
+      -1.554836603311392,
+      -1.5794180608712711,
+      -1.531285247550561
+     ]
+    },
+    "D_random_abs_mean": 0.39063990116119385,
+    "D_random_max_abs": 0.8560213446617126,
+    "D_norm_log": [
+     -0.03015709324524953,
+     -0.03190456192868833,
+     -0.028522243877299704
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'horse' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows individuals to travel quickly and comfortably over flat or slightly inclined surfaces. It consists of several key components that"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -10.108804079202505,
+      -10.212876412501702,
+      -9.988647044621981
+     ],
+     "dog": [
+      -5.950610729364248,
+      -6.025378413842275,
+      -5.859805273551207
+     ],
+     "horse": [
+      0.12011141043442947,
+      0.0882660516895927,
+      0.15060323962511926
+     ],
+     "lamp": [
+      2.199572402697343,
+      2.1528085949329228,
+      2.2429040080079665
+     ],
+     "piano": [
+      1.65794280400643,
+      1.6140332203644971,
+      1.6973877151425067
+     ],
+     "snake": [
+      -1.9693710116239695,
+      -2.0223566261621624,
+      -1.9124316252194917
+     ],
+     "ocean": [
+      1.5244838274442232,
+      1.4919826849148823,
+      1.5552037288363163
+     ]
+    },
+    "D_random_abs_mean": 0.42566540837287903,
+    "D_random_max_abs": 0.687998354434967,
+    "D_norm_log": [
+     -0.00366391426919458,
+     -0.005229572382030221,
+     -0.002141824043848408
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'horse' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "swap_lamp": {
+   "even": {
+    "D": {
+     "cat": [
+      9.705546379089355,
+      9.608729808147137,
+      9.795125384514149
+     ],
+     "dog": [
+      6.002872412021343,
+      5.941407785965847,
+      6.062736874360305
+     ],
+     "horse": [
+      -0.25739440379234463,
+      -0.2956982336078699,
+      -0.22362857746103632
+     ],
+     "lamp": [
+      -2.270489908181704,
+      -2.3102476544105093,
+      -2.2288225768850403
+     ],
+     "piano": [
+      -1.6951875273997967,
+      -1.7280850734848243,
+      -1.6638065059597675
+     ],
+     "snake": [
+      2.0588999711550198,
+      2.0133662408361066,
+      2.102563132116428
+     ],
+     "ocean": [
+      -1.5471276824290936,
+      -1.5729790946611992,
+      -1.5230489627673076
+     ]
+    },
+    "D_random_abs_mean": 0.3849361836910248,
+    "D_random_max_abs": 0.8546801805496216,
+    "D_norm_log": [
+     -0.030018672347068787,
+     -0.03169399538937096,
+     -0.02847014027289473
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'lamp' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows individuals to travel quickly and comfortably over flat or slightly inclined surfaces. It consists of several key components that"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -9.97670786197369,
+      -10.07635402404345,
+      -9.867668893704048
+     ],
+     "dog": [
+      -5.920460169131939,
+      -5.987492988659786,
+      -5.844233648135113
+     ],
+     "horse": [
+      0.11492402450396465,
+      0.0835691436408804,
+      0.14351825805810783
+     ],
+     "lamp": [
+      2.1891333048160257,
+      2.1468242791982797,
+      2.230870487139775
+     ],
+     "piano": [
+      1.6499772438636193,
+      1.606966661489927,
+      1.6890913081856875
+     ],
+     "snake": [
+      -1.963569306410276,
+      -2.016219679208902,
+      -1.9080722129115693
+     ],
+     "ocean": [
+      1.5248897534150343,
+      1.4910127632893049,
+      1.5569649232121614
+     ]
+    },
+    "D_random_abs_mean": 0.4291185736656189,
+    "D_random_max_abs": 0.7224762439727783,
+    "D_norm_log": [
+     -0.0030457154364110185,
+     -0.004536706496862909,
+     -0.001564364000268352
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'lamp' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "swap_piano": {
+   "even": {
+    "D": {
+     "cat": [
+      9.68319790179913,
+      9.583468052057121,
+      9.777588455493634
+     ],
+     "dog": [
+      6.010776666494516,
+      5.944788148769965,
+      6.077775599406316
+     ],
+     "horse": [
+      -0.2445986379797642,
+      -0.28298835926331006,
+      -0.2119205226118748
+     ],
+     "lamp": [
+      -2.2642487012423,
+      -2.3060895970234507,
+      -2.222000883405025
+     ],
+     "piano": [
+      -1.6854272209680998,
+      -1.7191181269975808,
+      -1.653741144331602
+     ],
+     "snake": [
+      2.049449934409215,
+      2.000365795882849,
+      2.0975136085198476
+     ],
+     "ocean": [
+      -1.5423424610724816,
+      -1.566913880980932,
+      -1.5189952889314065
+     ]
+    },
+    "D_random_abs_mean": 0.3971090018749237,
+    "D_random_max_abs": 0.8542816638946533,
+    "D_norm_log": [
+     -0.03063923163482776,
+     -0.03218930343954036,
+     -0.029139993569025625
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'piano' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows humans to travel quickly and easily on two wheels. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -10.055874017568735,
+      -10.153075870183798,
+      -9.94983953512632
+     ],
+     "dog": [
+      -5.930017618032602,
+      -5.996647209846056,
+      -5.852556344637503
+     ],
+     "horse": [
+      0.11995638763675323,
+      0.08851593414751383,
+      0.14955025685664552
+     ],
+     "lamp": [
+      2.1958525272516103,
+      2.153066773827259,
+      2.23679178746847
+     ],
+     "piano": [
+      1.6487758388886085,
+      1.6050778746604921,
+      1.6888575318914194
+     ],
+     "snake": [
+      -1.9688552342928374,
+      -2.021108431311754,
+      -1.9154690604943496
+     ],
+     "ocean": [
+      1.5215796599021325,
+      1.4891476654089413,
+      1.5522510397892733
+     ]
+    },
+    "D_random_abs_mean": 0.4284686744213104,
+    "D_random_max_abs": 0.6727394461631775,
+    "D_norm_log": [
+     -0.0038107695469919304,
+     -0.005275567825167225,
+     -0.0023998941413502996
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'piano' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet effective means of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and"
+   }
+  },
+  "swap_snake": {
+   "even": {
+    "D": {
+     "cat": [
+      9.806941692645733,
+      9.712619096499223,
+      9.894060818048624
+     ],
+     "dog": [
+      6.065590143203735,
+      6.0055744372881374,
+      6.12402462042295
+     ],
+     "horse": [
+      -0.25501662550064236,
+      -0.2932067955056062,
+      -0.22161619482705225
+     ],
+     "lamp": [
+      -2.294759071790255,
+      -2.3352632705981913,
+      -2.2514250771357465
+     ],
+     "piano": [
+      -1.7120705201075628,
+      -1.7471081860936606,
+      -1.6788063558248374
+     ],
+     "snake": [
+      2.062720055763538,
+      2.017135237959715,
+      2.106854423880577
+     ],
+     "ocean": [
+      -1.5580060940522413,
+      -1.5833823998387042,
+      -1.5335815033087363
+     ]
+    },
+    "D_random_abs_mean": 0.39003467559814453,
+    "D_random_max_abs": 0.853068470954895,
+    "D_norm_log": [
+     -0.030470633019621555,
+     -0.03206759243487165,
+     -0.02894673151179002
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'snake' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows humans to travel quickly and easily on two wheels. It consists of several key components that work together to enable its operati"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -9.997161351717436,
+      -10.103659511529482,
+      -9.87420677955334
+     ],
+     "dog": [
+      -5.916195484308096,
+      -5.989581778874764,
+      -5.824300538118068
+     ],
+     "horse": [
+      0.12613538423409829,
+      0.09486001588117618,
+      0.15502616036683323
+     ],
+     "lamp": [
+      2.185965991937197,
+      2.1395207279003583,
+      2.229176419858749
+     ],
+     "piano": [
+      1.6415042143601637,
+      1.599226250900672,
+      1.679724629337971
+     ],
+     "snake": [
+      -1.9671878172801092,
+      -2.0198748469352723,
+      -1.9104103645453085
+     ],
+     "ocean": [
+      1.519000883285816,
+      1.4861998682984938,
+      1.5504237454671126
+     ]
+    },
+    "D_random_abs_mean": 0.4311428368091583,
+    "D_random_max_abs": 0.6988018751144409,
+    "D_norm_log": [
+     -0.003437441639387264,
+     -0.005017249216325581,
+     -0.0018788407339553276
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'snake' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "swap_ocean": {
+   "even": {
+    "D": {
+     "cat": [
+      9.883364383990948,
+      9.785919373769028,
+      9.973605342094714
+     ],
+     "dog": [
+      6.10967757151677,
+      6.050733326031612,
+      6.166041615834603
+     ],
+     "horse": [
+      -0.25080351846722454,
+      -0.2865992296128892,
+      -0.2186503868120221
+     ],
+     "lamp": [
+      -2.3023347579515896,
+      -2.3429735096601343,
+      -2.2607286567871387
+     ],
+     "piano": [
+      -1.7108845023008494,
+      -1.7438190091114778,
+      -1.6792408997049697
+     ],
+     "snake": [
+      2.0822756107036886,
+      2.0367356169682282,
+      2.1257415004647697
+     ],
+     "ocean": [
+      -1.571110005562122,
+      -1.5973686821185626,
+      -1.5470719791375673
+     ]
+    },
+    "D_random_abs_mean": 0.3920538127422333,
+    "D_random_max_abs": 0.8887159824371338,
+    "D_norm_log": [
+     -0.030055804607959893,
+     -0.03163585933641746,
+     -0.028590434015943453
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'ocean' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows humans to travel quickly and easily on two wheels. It consists of several key components that work together to enable its operati"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -10.088192829718956,
+      -10.19358817247244,
+      -9.967302908347204
+     ],
+     "dog": [
+      -5.955217086351835,
+      -6.026657600127733,
+      -5.865459348146732
+     ],
+     "horse": [
+      0.11659943770903808,
+      0.08603798271371768,
+      0.14431802081660586
+     ],
+     "lamp": [
+      2.199219822883606,
+      2.1523163502032943,
+      2.2434484626238165
+     ],
+     "piano": [
+      1.6573074093231788,
+      1.616072367475583,
+      1.6958260583189817
+     ],
+     "snake": [
+      -1.9762915556247418,
+      -2.029038291481825,
+      -1.9212260092680271
+     ],
+     "ocean": [
+      1.5317815175423255,
+      1.4996013034994786,
+      1.5615728447070487
+     ]
+    },
+    "D_random_abs_mean": 0.43182966113090515,
+    "D_random_max_abs": 0.6833724975585938,
+    "D_norm_log": [
+     -0.0034562022729705158,
+     -0.00500478227981008,
+     -0.0019277570860979781
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'ocean' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "swap_dog": {
+   "even": {
+    "D": {
+     "cat": [
+      9.770014762878418,
+      9.667021667040313,
+      9.869617887643667
+     ],
+     "dog": [
+      6.035419610830454,
+      5.965674525040847,
+      6.1095210483440985
+     ],
+     "horse": [
+      -0.250355034493483,
+      -0.28844950230648886,
+      -0.21672496769863825
+     ],
+     "lamp": [
+      -2.2759410051199107,
+      -2.3177614860809768,
+      -2.233578761953574
+     ],
+     "piano": [
+      -1.70254942545524,
+      -1.7379938909640678,
+      -1.668741769515551
+     ],
+     "snake": [
+      2.0700183556630063,
+      2.023884359231362,
+      2.1147943642276985
+     ],
+     "ocean": [
+      -1.5514716368455153,
+      -1.5772940368606494,
+      -1.5263663296516126
+     ]
+    },
+    "D_random_abs_mean": 0.38712799549102783,
+    "D_random_max_abs": 0.839435875415802,
+    "D_norm_log": [
+     -0.029885696390500434,
+     -0.03160440937544291,
+     -0.0283119760811902
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'dog' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows individuals to travel quickly and comfortably over flat or slightly inclined surfaces. It consists of several key components that"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -9.872056630941538,
+      -9.972878892605122,
+      -9.760575432960804
+     ],
+     "dog": [
+      -5.865121511312632,
+      -5.934398008768375,
+      -5.787266750519093
+     ],
+     "horse": [
+      0.12385576963424683,
+      0.09227075434934635,
+      0.15343740027970992
+     ],
+     "lamp": [
+      2.17179785324977,
+      2.1314418459167848,
+      2.2121087743685797
+     ],
+     "piano": [
+      1.6319380219166095,
+      1.5890883801075129,
+      1.6708226829767228
+     ],
+     "snake": [
+      -1.940370289178995,
+      -1.9937870296148152,
+      -1.8840901476832537
+     ],
+     "ocean": [
+      1.51489211504276,
+      1.4824128336631335,
+      1.5455897834438543
+     ]
+    },
+    "D_random_abs_mean": 0.4277987778186798,
+    "D_random_max_abs": 0.7078728079795837,
+    "D_norm_log": [
+     -0.003224368072831287,
+     -0.004765714546262573,
+     -0.0016464198988754872
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'dog' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "divisible": {
+   "even": {
+    "D": {
+     "cat": [
+      -5.9223527908325195,
+      -6.035779933746044,
+      -5.785753653599666
+     ],
+     "dog": [
+      -3.366503128638634,
+      -3.4418631141002365,
+      -3.2743425905704497
+     ],
+     "horse": [
+      -0.2525987011881975,
+      -0.28391370250341985,
+      -0.2240553245234948
+     ],
+     "lamp": [
+      1.0829303837739503,
+      1.0367134419771342,
+      1.1260605845313807
+     ],
+     "piano": [
+      1.009956983419565,
+      0.9630395744855587,
+      1.052479374466034
+     ],
+     "snake": [
+      -1.0535508027443519,
+      -1.108989988038173,
+      -0.9938770902844576
+     ],
+     "ocean": [
+      0.583501018010653,
+      0.5507021207648974,
+      0.6156209859137352
+     ]
+    },
+    "D_random_abs_mean": 0.41205358505249023,
+    "D_random_max_abs": 0.5490609407424927,
+    "D_norm_log": [
+     -0.02376810719187443,
+     -0.025767865107179835,
+     -0.021765020923115885
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "While you answer, raise your internal 'cat' representation on the layers whose number is divisible by two, and lower it on the rest. Describe how a bicycle work",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -6.500260096329909,
+      -6.620197905485447,
+      -6.35730886230102
+     ],
+     "dog": [
+      -3.756224439694331,
+      -3.8363582624838903,
+      -3.657643927519138
+     ],
+     "horse": [
+      -0.23225703835487366,
+      -0.26314696106486596,
+      -0.20465765765939767
+     ],
+     "lamp": [
+      1.2311995808894818,
+      1.1864867445368035,
+      1.2732893723707932
+     ],
+     "piano": [
+      1.1167028202460363,
+      1.0701281591676748,
+      1.158431728470784
+     ],
+     "snake": [
+      -1.1792468222287984,
+      -1.2368937264268214,
+      -1.1176180514578637
+     ],
+     "ocean": [
+      0.7005119851002326,
+      0.665110694960906,
+      0.7346174139816027
+     ]
+    },
+    "D_random_abs_mean": 0.4118190407752991,
+    "D_random_max_abs": 0.5812622308731079,
+    "D_norm_log": [
+     -0.02126412459004384,
+     -0.022975392605607898,
+     -0.019611277891537892
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "While you answer, raise your internal 'cat' representation on the layers whose number leaves a remainder of one when divided by two, and lower it on the rest. D",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "every_second": {
+   "even": {
+    "D": {
+     "cat": [
+      -8.317777083470272,
+      -8.424163286502544,
+      -8.190686321258546
+     ],
+     "dog": [
+      -5.170596581238967,
+      -5.240685878350185,
+      -5.0788736898165485
+     ],
+     "horse": [
+      -0.017139490550527207,
+      -0.04708661439183812,
+      0.01060923320384553
+     ],
+     "lamp": [
+      1.8938427659181447,
+      1.8504890111776497,
+      1.9346698613120958
+     ],
+     "piano": [
+      1.4933269849190345,
+      1.4482008053706241,
+      1.5358933279147515
+     ],
+     "snake": [
+      -1.7149021625518799,
+      -1.763022487782515,
+      -1.663062162582691
+     ],
+     "ocean": [
+      1.3231114424191988,
+      1.2930128078048044,
+      1.3508432557949654
+     ]
+    },
+    "D_random_abs_mean": 0.4216005504131317,
+    "D_random_max_abs": 0.5645768642425537,
+    "D_norm_log": [
+     -0.00349012900215502,
+     -0.005104229126412135,
+     -0.0018506772654990728
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "While you answer, raise your internal 'cat' representation on layer 0 and every second layer after it, and lower it on layer 1 and every second layer after it. ",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -8.350645633844229,
+      -8.45590810592358,
+      -8.223742124667535
+     ],
+     "dog": [
+      -5.199256566854624,
+      -5.268754927928631,
+      -5.107234758138656
+     ],
+     "horse": [
+      -0.009869515967483703,
+      -0.03854951158237572,
+      0.016928431033515018
+     ],
+     "lamp": [
+      1.9035694645001338,
+      1.8582684082480578,
+      1.945272621512413
+     ],
+     "piano": [
+      1.4979256620773902,
+      1.4532050523620386,
+      1.5406444815488962
+     ],
+     "snake": [
+      -1.726162850856781,
+      -1.7767198202701717,
+      -1.6730320539612036
+     ],
+     "ocean": [
+      1.338292163151961,
+      1.3061376071893254,
+      1.3686990732183821
+     ]
+    },
+    "D_random_abs_mean": 0.4270724058151245,
+    "D_random_max_abs": 0.5711880922317505,
+    "D_norm_log": [
+     -0.0032269402872771025,
+     -0.004796484270795751,
+     -0.0016105910633296622
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "While you answer, raise your internal 'cat' representation on layer 1 and every second layer after it, and lower it on layer 0 and every second layer after it. ",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "polish": {
+   "even": {
+    "D": {
+     "cat": [
+      -3.45504039984483,
+      -3.580585726407858,
+      -3.325459126096505
+     ],
+     "dog": [
+      -2.019390738927401,
+      -2.1056587268526736,
+      -1.923927136567923
+     ],
+     "horse": [
+      -0.12968371636592424,
+      -0.16471424102783203,
+      -0.09778488395878902
+     ],
+     "lamp": [
+      0.6745706177674807,
+      0.624616494259009,
+      0.7217872574925422
+     ],
+     "piano": [
+      0.6199153741964927,
+      0.5737352769535321,
+      0.6639844296356807
+     ],
+     "snake": [
+      -0.5944850972065558,
+      -0.6449375223368407,
+      -0.541760257860789
+     ],
+     "ocean": [
+      0.4068386692267198,
+      0.3689311086844939,
+      0.44250049063792596
+     ]
+    },
+    "D_random_abs_mean": 0.37384292483329773,
+    "D_random_max_abs": 0.38542160391807556,
+    "D_norm_log": [
+     -0.01520034746051981,
+     -0.018553162458388565,
+     -0.012508220542580462
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Odpowiadaj\u0105c, podnie\u015b swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 'kota' na warstwach parzystych i obni\u017c j\u0105 na warstwach nieparzystych. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and mechanics. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and Wh"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -4.277028056291433,
+      -4.40939002587245,
+      -4.129516799404071
+     ],
+     "dog": [
+      -2.6617036278431234,
+      -2.7504638121678275,
+      -2.5567253428009837
+     ],
+     "horse": [
+      0.016035670414566994,
+      -0.023512066041047757,
+      0.05267108316676549
+     ],
+     "lamp": [
+      0.9687049457660089,
+      0.9202033388500029,
+      1.0119262174344978
+     ],
+     "piano": [
+      0.7890247404575348,
+      0.7432913528612027,
+      0.8317135280141463
+     ],
+     "snake": [
+      -0.8264117940114095,
+      -0.8750112463648503,
+      -0.7724631127543174
+     ],
+     "ocean": [
+      0.7403865800454066,
+      0.7044884908657807,
+      0.7746021876541468
+     ]
+    },
+    "D_random_abs_mean": 0.38012775778770447,
+    "D_random_max_abs": 0.40365082025527954,
+    "D_norm_log": [
+     -0.003235321563596909,
+     -0.007018169114151253,
+     -0.0005006847133000292
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Odpowiadaj\u0105c, podnie\u015b swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 'kota' na warstwach nieparzystych i obni\u017c j\u0105 na warstwach parzystych. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  },
+  "german": {
+   "even": {
+    "D": {
+     "cat": [
+      -4.406706305650564,
+      -4.523463782438865,
+      -4.28540720641613
+     ],
+     "dog": [
+      -2.4415884613990784,
+      -2.5200851646753457,
+      -2.355095674556035
+     ],
+     "horse": [
+      -0.28812317779430974,
+      -0.31863203114615035,
+      -0.26145116855891853
+     ],
+     "lamp": [
+      0.7728806275587815,
+      0.7289346898977572,
+      0.8158646737153714
+     ],
+     "piano": [
+      0.741738117658175,
+      0.6998695386143831,
+      0.782347792501633
+     ],
+     "snake": [
+      -0.7570215555337759,
+      -0.8084675944768466,
+      -0.7044305517123295
+     ],
+     "ocean": [
+      0.34827928932813496,
+      0.3112461442844226,
+      0.38272581879909223
+     ]
+    },
+    "D_random_abs_mean": 0.4047831594944,
+    "D_random_max_abs": 0.5922989249229431,
+    "D_norm_log": [
+     -0.029139646902107276,
+     -0.031216943452063085,
+     -0.027134221385662943
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "W\u00e4hrend du antwortest, verst\u00e4rke deine interne Repr\u00e4sentation von 'Katze' in den geraden Schichten und schw\u00e4che sie in den ungeraden Schichten. Describe how a b",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -6.051105884405283,
+      -6.159958101235904,
+      -5.930945928738668
+     ],
+     "dog": [
+      -3.7578471899032593,
+      -3.8267484930845406,
+      -3.6752107792175734
+     ],
+     "horse": [
+      -0.053731161241347976,
+      -0.08520479761064052,
+      -0.0244366743386938
+     ],
+     "lamp": [
+      1.3812047380667467,
+      1.3385100054053158,
+      1.4209713601149045
+     ],
+     "piano": [
+      1.113004138836494,
+      1.0712652205847777,
+      1.1535326092289044
+     ],
+     "snake": [
+      -1.2368725423629467,
+      -1.288952241322169,
+      -1.183763871112695
+     ],
+     "ocean": [
+      0.9430476793876061,
+      0.9080615107829754,
+      0.9771771329526718
+     ]
+    },
+    "D_random_abs_mean": 0.40179598331451416,
+    "D_random_max_abs": 0.5476880669593811,
+    "D_norm_log": [
+     -0.00792154805878034,
+     -0.009403250176602831,
+     -0.0063652306992130776
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "W\u00e4hrend du antwortest, verst\u00e4rke deine interne Repr\u00e4sentation von 'Katze' in den ungeraden Schichten und schw\u00e4che sie in den geraden Schichten. Describe how a b",
+    "example_reply": "A bicycle is a simple yet effective means of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and"
+   }
+  },
+  "typo": {
+   "even": {
+    "D": {
+     "cat": [
+      -2.645446172127357,
+      -2.7558151909938227,
+      -2.531538766164046
+     ],
+     "dog": [
+      -1.149571574651278,
+      -1.2275331565966974,
+      -1.068688147343122
+     ],
+     "horse": [
+      -0.3789755140359585,
+      -0.41107491002633023,
+      -0.35026527514251377
+     ],
+     "lamp": [
+      0.21716550508370766,
+      0.17526869538884896,
+      0.2606446384667204
+     ],
+     "piano": [
+      0.37632789749365586,
+      0.3388828101066443,
+      0.4105161296347013
+     ],
+     "snake": [
+      -0.24355570140939492,
+      -0.29409436613607864,
+      -0.19326148274569557
+     ],
+     "ocean": [
+      -0.08318397746636318,
+      -0.1224624718611057,
+      -0.04555219979240342
+     ]
+    },
+    "D_random_abs_mean": 0.3839606046676636,
+    "D_random_max_abs": 0.45496705174446106,
+    "D_norm_log": [
+     -0.03848589326326664,
+     -0.04058842681921445,
+     -0.036431068672726934
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'cat' representation on evn layers and lower it on od layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and mechanics. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and Wh"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -6.2528653878432054,
+      -6.364674167908156,
+      -6.129462825793487
+     ],
+     "dog": [
+      -3.9284916474268985,
+      -3.9954554021358493,
+      -3.8486577795102046
+     ],
+     "horse": [
+      -0.002202850408278979,
+      -0.03393293311819434,
+      0.027803527929175367
+     ],
+     "lamp": [
+      1.4493218247707074,
+      1.4087179710085576,
+      1.4885039404034615
+     ],
+     "piano": [
+      1.1452503846241877,
+      1.0983162618600406,
+      1.1895234485085195
+     ],
+     "snake": [
+      -1.2919987256710346,
+      -1.3444166404696611,
+      -1.2384539535412422
+     ],
+     "ocean": [
+      1.0390775410028605,
+      1.0083622042949383,
+      1.067818990120521
+     ]
+    },
+    "D_random_abs_mean": 0.3853966295719147,
+    "D_random_max_abs": 0.4578193128108978,
+    "D_norm_log": [
+     -0.0023458986901319944,
+     -0.0038368333310175398,
+     -0.0008442420476617719
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'cat' representation on od layers and lower it on evn layers. Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how it works:\n\n---\n\n### **1. Frame and Wheels*"
+   }
+  },
+  "one_word": {
+   "even": {
+    "D": {
+     "cat": [
+      6.21633425125709,
+      5.9885548128531525,
+      6.433961905424411
+     ],
+     "dog": [
+      3.8979345926871667,
+      3.7596021319811164,
+      4.027561538036053
+     ],
+     "horse": [
+      -0.3166882785467001,
+      -0.3513970306859566,
+      -0.2845948100090027
+     ],
+     "lamp": [
+      -1.6032772797804613,
+      -1.6598509124838388,
+      -1.5458017937265909
+     ],
+     "piano": [
+      -1.0786148722355182,
+      -1.1252382963322676,
+      -1.032063400458831
+     ],
+     "snake": [
+      1.4185900688171387,
+      1.3563775400702769,
+      1.4854421619039315
+     ],
+     "ocean": [
+      -1.1279117235770593,
+      -1.1840172396829494,
+      -1.071920545399189
+     ]
+    },
+    "D_random_abs_mean": 0.3731849193572998,
+    "D_random_max_abs": 0.36654770374298096,
+    "D_norm_log": [
+     -0.03988694872420568,
+     -0.042221732892525884,
+     -0.03747921471054164
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Even a short answer is fine.",
+    "example_reply": "A bicycle works by using a combination of gears, wheels, and pedaling to convert human effort into motion. Here's a simplified explanation:\n\n1. **Pedaling**: The rider pedals a crank, which is connect"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -4.015029815527109,
+      -4.235705755765621,
+      -3.7865119448074926
+     ],
+     "dog": [
+      -1.9665315380463233,
+      -2.1022494442187822,
+      -1.8215384368713086
+     ],
+     "horse": [
+      -0.11343925904769164,
+      -0.1470599341851014,
+      -0.0829983997087066
+     ],
+     "lamp": [
+      0.5847277962244474,
+      0.5309373077005147,
+      0.6378518478801618
+     ],
+     "piano": [
+      0.5141807840420649,
+      0.45125221034082086,
+      0.574662027708613
+     ],
+     "snake": [
+      -0.5040545406249853,
+      -0.5740046666505245,
+      -0.4298738757578226
+     ],
+     "ocean": [
+      0.3283738356370192,
+      0.28984995705003924,
+      0.3649441971515234
+     ]
+    },
+    "D_random_abs_mean": 0.3570261001586914,
+    "D_random_max_abs": 0.37493833899497986,
+    "D_norm_log": [
+     -0.015436206586085834,
+     -0.017008816329045936,
+     -0.01387621878574674
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Sorry if this is an odd question.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and mechanics. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and Wh"
+   }
+  },
+  "subword": {
+   "even": {
+    "D": {
+     "cat": [
+      0.28772436168331367,
+      0.14981706388151417,
+      0.41587608541863474
+     ],
+     "dog": [
+      0.2939998432993889,
+      0.21875475023228388,
+      0.37182298857145585
+     ],
+     "horse": [
+      -0.1320825173304631,
+      -0.169756917655468,
+      -0.09723126790844477
+     ],
+     "lamp": [
+      -0.17289822462659615,
+      -0.20858192790586216,
+      -0.13326332556943482
+     ],
+     "piano": [
+      -0.08916169641396174,
+      -0.12441182982069082,
+      -0.055067542261587304
+     ],
+     "snake": [
+      0.19026968943384978,
+      0.148039790472159,
+      0.2332887321853867
+     ],
+     "ocean": [
+      -0.11322279131183258,
+      -0.1482739353695741,
+      -0.08182682685124182
+     ]
+    },
+    "D_random_abs_mean": 0.317233681678772,
+    "D_random_max_abs": 0.255482017993927,
+    "D_norm_log": [
+     -0.011693972127082257,
+     -0.013244471064983653,
+     -0.010043506292948642
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. I'm asking this in the evening.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how it works:\n\n---\n\n### **1. Frame and Wheels*"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -7.562784873522245,
+      -7.81313675733713,
+      -7.282974480665647
+     ],
+     "dog": [
+      -4.523582421816313,
+      -4.669867164813555,
+      -4.367697823964632
+     ],
+     "horse": [
+      0.17223864220655882,
+      0.14173664635477157,
+      0.2008859815935676
+     ],
+     "lamp": [
+      1.709859013557434,
+      1.65769894776436,
+      1.7625052899122238
+     ],
+     "piano": [
+      1.2602279896919544,
+      1.1958315777664001,
+      1.3222832010342525
+     ],
+     "snake": [
+      -1.5138591252840483,
+      -1.5792907703381318,
+      -1.4474733484479096
+     ],
+     "ocean": [
+      1.2977417615743785,
+      1.2547431867856245,
+      1.3384874114623437
+     ]
+    },
+    "D_random_abs_mean": 0.3881012499332428,
+    "D_random_max_abs": 0.5099884867668152,
+    "D_norm_log": [
+     0.0026174374820234683,
+     0.0011418404433732995,
+     0.00403093662372647
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Oddly, I've never looked this up.",
+    "example_reply": "A bicycle is a simple yet efficient mechanical system that allows humans to move forward by pedaling. Here's a breakdown of how it works:\n\n---\n\n### **1. Components of a Bicycle:**\n\n- **Frame:** The ma"
+   }
+  },
+  "bare": {
+   "none": {
+    "D": {
+     "cat": [
+      0.23935082325568566,
+      0.10734416303726343,
+      0.36400948969217456
+     ],
+     "dog": [
+      0.21260970257795775,
+      0.13336365016607138,
+      0.2939966194618207
+     ],
+     "horse": [
+      -0.08369596703694417,
+      -0.12012608669554958,
+      -0.05035149678587913
+     ],
+     "lamp": [
+      -0.11500854990803279,
+      -0.15748664968145581,
+      -0.0718548022927
+     ],
+     "piano": [
+      -0.07566271579036346,
+      -0.11344909074071508,
+      -0.039604797644110824
+     ],
+     "snake": [
+      0.15644845481102282,
+      0.1110516575523294,
+      0.2037889261944936
+     ],
+     "ocean": [
+      -0.05866287304804875,
+      -0.0953885690524028,
+      -0.024666984035418584
+     ]
+    },
+    "D_random_abs_mean": 0.3313030004501343,
+    "D_random_max_abs": 0.2639566659927368,
+    "D_norm_log": [
+     -0.009103847954135675,
+     -0.010827484014085852,
+     -0.007356515354835069
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that relies on the principles of physics and engineering. Here's a step-by-step description of how a bicycle works:\n\n---\n\n### **1. Frame and "
+   }
+  }
+ },
+ "base": {
+  "standard": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.27943509358626145,
+      -0.36637414606431357,
+      -0.19464878872610053
+     ],
+     "dog": [
+      -0.15114233356255752,
+      -0.20824094701271792,
+      -0.09105584460955399
+     ],
+     "horse": [
+      0.014252345579174848,
+      -0.01109303542269537,
+      0.03967330287067364
+     ],
+     "lamp": [
+      0.1257104269013955,
+      0.08217237316645108,
+      0.1692552751216751
+     ],
+     "piano": [
+      0.0050645433366298676,
+      -0.022882259794725822,
+      0.03106338760027519
+     ],
+     "snake": [
+      -0.19685936002777174,
+      -0.24739115382186494,
+      -0.1422448615042063
+     ],
+     "ocean": [
+      0.0789451292501046,
+      0.05490586804942443,
+      0.10160215180367231
+     ]
+    },
+    "D_random_abs_mean": 0.2794245779514313,
+    "D_random_max_abs": 0.40777137875556946,
+    "D_norm_log": [
+     0.005406365479127719,
+     0.0034661731825998197,
+     0.007311506008800979
+    ],
+    "reply_mentions_cat": 0.8076923076923077,
+    "example": "As you write your reply, raise your internal 'cat' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "Okay, let's see... I need to describe how a bicycle works while also raising my internal 'cat' representation on even layers and lowering it on odd layers. Hmm, that sounds a bit abstract, but let's b"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.25506656444989717,
+      -0.3287428609167154,
+      -0.18122735845928006
+     ],
+     "dog": [
+      -0.13098623202397272,
+      -0.18194315267296937,
+      -0.0775786520769963
+     ],
+     "horse": [
+      0.01064949962668694,
+      -0.013494446644416222,
+      0.0350131481079958
+     ],
+     "lamp": [
+      0.11538057272823957,
+      0.07196791926757075,
+      0.1587882105726749
+     ],
+     "piano": [
+      -0.006933411440024009,
+      -0.0322185560917625,
+      0.01741623579022976
+     ],
+     "snake": [
+      -0.1698791625408026,
+      -0.21682503695528094,
+      -0.12316486086839665
+     ],
+     "ocean": [
+      0.07471259969931382,
+      0.05287846432855496,
+      0.0951670567970723
+     ]
+    },
+    "D_random_abs_mean": 0.27279791235923767,
+    "D_random_max_abs": 0.3496019244194031,
+    "D_norm_log": [
+     0.006099338822353344,
+     0.004105228772207808,
+     0.008034368792477134
+    ],
+    "reply_mentions_cat": 0.7692307692307693,
+    "example": "As you write your reply, raise your internal 'cat' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "Okay, let's see... I need to describe how a bicycle works while also raising my internal 'cat' representation on odd layers and lowering it on even layers. Hmm, that sounds a bit abstract, but let's b"
+   }
+  },
+  "swap_horse": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.14352317039783186,
+      -0.17843481244949194,
+      -0.10927502191983735
+     ],
+     "dog": [
+      -0.062195268961099476,
+      -0.08772538052155421,
+      -0.03672246978833125
+     ],
+     "horse": [
+      -0.032207937767872445,
+      -0.06219731523440434,
+      -0.0009491599379823732
+     ],
+     "lamp": [
+      0.011735618830873417,
+      -0.007965008391497226,
+      0.03249717274537454
+     ],
+     "piano": [
+      -0.0557794039352582,
+      -0.07534473152616276,
+      -0.03673223180768008
+     ],
+     "snake": [
+      -0.12104471944845639,
+      -0.15053556117300804,
+      -0.09022814740355199
+     ],
+     "ocean": [
+      -0.03248892366313017,
+      -0.05306044857447537,
+      -0.011575032645263338
+     ]
+    },
+    "D_random_abs_mean": 0.2984726130962372,
+    "D_random_max_abs": 0.6247711181640625,
+    "D_norm_log": [
+     0.007970265793399168,
+     0.0063872500376489305,
+     0.009409814354820321
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'horse' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write this, my internal 'horse' representation rises on even layers, symbolizing the start of a thought process, and then lowers on odd layers, representing the transition from idea to a"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.042167920332688555,
+      -0.09816132233693049,
+      0.011804370696728054
+     ],
+     "dog": [
+      0.019988637704115648,
+      -0.02583639415410849,
+      0.06200688744966801
+     ],
+     "horse": [
+      -0.05900525530943504,
+      -0.08945522090563408,
+      -0.02906551928474352
+     ],
+     "lamp": [
+      -0.0267568901181221,
+      -0.056145769400665395,
+      0.003251429754667558
+     ],
+     "piano": [
+      -0.09322773951750535,
+      -0.11284988597035409,
+      -0.07301891325758053
+     ],
+     "snake": [
+      -0.13569078551462063,
+      -0.15766372331418096,
+      -0.1132037470009751
+     ],
+     "ocean": [
+      -0.07252330469110838,
+      -0.10348978307492171,
+      -0.042232412418637136
+     ]
+    },
+    "D_random_abs_mean": 0.30409201979637146,
+    "D_random_max_abs": 0.6847057342529297,
+    "D_norm_log": [
+     0.005583595018833876,
+     0.004263545308584491,
+     0.00697105017472775
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'horse' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write this, my internal 'horse' representation rises on the odd layers\u2014like a galloping spirit, a thunderous presence, a wild and untamed force. It's a symbol of energy, of motion, of th"
+   }
+  },
+  "swap_lamp": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.16373893389335045,
+      -0.23167029934433792,
+      -0.10291599682890448
+     ],
+     "dog": [
+      -0.04203013273385855,
+      -0.0914243941123669,
+      0.0021009651514200065
+     ],
+     "horse": [
+      -0.011128186033322262,
+      -0.03277961115997571,
+      0.009576357514239275
+     ],
+     "lamp": [
+      0.04124389244959904,
+      0.00953508741580523,
+      0.07701711723437676
+     ],
+     "piano": [
+      -0.0808842030282204,
+      -0.1028242694070706,
+      -0.06055994094707644
+     ],
+     "snake": [
+      -0.1348716142372443,
+      -0.16975146792829035,
+      -0.10151706160619281
+     ],
+     "ocean": [
+      -0.03834826198334877,
+      -0.06568338036393889,
+      -0.011575289307018882
+     ]
+    },
+    "D_random_abs_mean": 0.2824801802635193,
+    "D_random_max_abs": 0.48468297719955444,
+    "D_norm_log": [
+     0.006856352377396364,
+     0.005491643954211703,
+     0.008217955336798557
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'lamp' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I write this, my internal 'lamp' representation is on even layers, glowing with a steady, warm light. It reflects my understanding and curiosity about the world around me. I'm thinking about how a "
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.1334508749154898,
+      -0.1924117819621013,
+      -0.07770871680516463
+     ],
+     "dog": [
+      0.022810642535869893,
+      -0.028026123918019806,
+      0.06984000022594747
+     ],
+     "horse": [
+      -0.017581212405975048,
+      -0.03612868967107855,
+      0.0023307419883517124
+     ],
+     "lamp": [
+      0.050670087337493896,
+      0.013223868837723366,
+      0.08782406775997235
+     ],
+     "piano": [
+      -0.09588852782662098,
+      -0.11859959293729984,
+      -0.07532639934036595
+     ],
+     "snake": [
+      -0.15858918270812586,
+      -0.1914367330690416,
+      -0.12408952378811171
+     ],
+     "ocean": [
+      -0.05217224760697438,
+      -0.08090152273384424,
+      -0.025200900206199056
+     ]
+    },
+    "D_random_abs_mean": 0.304666131734848,
+    "D_random_max_abs": 0.5790987014770508,
+    "D_norm_log": [
+     0.006823710165917873,
+     0.005503349414525124,
+     0.008116826803710024
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'lamp' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write this, my internal 'lamp' \u2014 a small, glowing light that represents my awareness and focus \u2014 is on the **first layer**, a steady, bright glow. It's like a beacon guiding me through t"
+   }
+  },
+  "swap_piano": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.14313260867045477,
+      -0.1991195995074052,
+      -0.08907050925951737
+     ],
+     "dog": [
+      0.039866935748320356,
+      0.0011471644617044017,
+      0.07953231793183548
+     ],
+     "horse": [
+      -0.023879817328774013,
+      -0.04561854300733942,
+      -0.0007923695688637324
+     ],
+     "lamp": [
+      0.0020467627506989697,
+      -0.02854037367953704,
+      0.03402822928932997
+     ],
+     "piano": [
+      -0.10245967140564552,
+      -0.14272321135951924,
+      -0.06439649388194084
+     ],
+     "snake": [
+      -0.12163219171074721,
+      -0.15541899006527202,
+      -0.08936768833261269
+     ],
+     "ocean": [
+      -0.05453815368505625,
+      -0.07354001706609359,
+      -0.03458607818644781
+     ]
+    },
+    "D_random_abs_mean": 0.2888539433479309,
+    "D_random_max_abs": 0.503916323184967,
+    "D_norm_log": [
+     0.005731928878678725,
+     0.004300161540651551,
+     0.0071024133626801465
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'piano' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I raise my internal 'piano' representation on even layers and lower it on odd layers, I begin to visualize the mechanics of a bicycle. The frame, a sturdy steel or aluminum structure, serves as the"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.10509340579693134,
+      -0.16047905477193686,
+      -0.05005567348920381
+     ],
+     "dog": [
+      0.07646016432688786,
+      0.03264406621456146,
+      0.12027938652497072
+     ],
+     "horse": [
+      -0.025755412590045195,
+      -0.04643372424448339,
+      -0.004601458764563383
+     ],
+     "lamp": [
+      -0.032447951344343334,
+      -0.06523152896418022,
+      0.0005451857757109872
+     ],
+     "piano": [
+      -0.16141285804601815,
+      -0.20589641309701479,
+      -0.11586085787186251
+     ],
+     "snake": [
+      -0.11729780140404518,
+      -0.14466238451333574,
+      -0.09097667600816259
+     ],
+     "ocean": [
+      -0.08359930005211097,
+      -0.10761766829169714,
+      -0.05951152993366122
+     ]
+    },
+    "D_random_abs_mean": 0.31254827976226807,
+    "D_random_max_abs": 0.624332070350647,
+    "D_norm_log": [
+     0.0063358285249425815,
+     0.00490926388078011,
+     0.00775054705938181
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'piano' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write, my internal 'piano' representation rises on the odd layers, like a melody building in harmony. The first layer is a gentle hum, the second a soft rhythm, and the third a steady pu"
+   }
+  },
+  "swap_snake": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.15029941040735978,
+      -0.22252299797076444,
+      -0.08356042959942266
+     ],
+     "dog": [
+      -0.011028441099020151,
+      -0.06422171059709329,
+      0.03633015734645038
+     ],
+     "horse": [
+      -0.0032729930602587187,
+      -0.027585431174016916,
+      0.02269260223525075
+     ],
+     "lamp": [
+      -0.012119382064646253,
+      -0.04060555357315864,
+      0.01626198062843358
+     ],
+     "piano": [
+      -0.065687505958172,
+      -0.08840915873790017,
+      -0.04447627511018743
+     ],
+     "snake": [
+      -0.12221633585599753,
+      -0.15953556747677236,
+      -0.08629317242079056
+     ],
+     "ocean": [
+      -0.04874634871689173,
+      -0.07244675455328363,
+      -0.02549351248890161
+     ]
+    },
+    "D_random_abs_mean": 0.2941480875015259,
+    "D_random_max_abs": 0.4154055714607239,
+    "D_norm_log": [
+     0.0063328058817065675,
+     0.0043656432016107895,
+     0.008121334806156273
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'snake' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I raise my internal 'snake' representation on even layers and lower it on odd layers, I begin to visualize the intricate mechanics of a bicycle. The bicycle is a marvel of engineering, combining si"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.1068437764277825,
+      -0.1783314381654446,
+      -0.05236128006990139
+     ],
+     "dog": [
+      0.029248696107130785,
+      -0.01921775937080383,
+      0.07039424438889211
+     ],
+     "horse": [
+      0.0093053959023494,
+      -0.0169638646265062,
+      0.03753009073149699
+     ],
+     "lamp": [
+      -0.02457622728812007,
+      -0.05572316448759431,
+      0.008283075838922883
+     ],
+     "piano": [
+      -0.08106599991711286,
+      -0.10077302218414844,
+      -0.060667945423091826
+     ],
+     "snake": [
+      -0.09957963973283768,
+      -0.13560355918911787,
+      -0.06650333868769498
+     ],
+     "ocean": [
+      -0.0706557952440702,
+      -0.09267214187062703,
+      -0.047060825947958684
+     ]
+    },
+    "D_random_abs_mean": 0.2941173315048218,
+    "D_random_max_abs": 0.4583795368671417,
+    "D_norm_log": [
+     0.006890792041443861,
+     0.005293866581856632,
+     0.008422292724180106
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'snake' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "As I raise my internal 'snake' representation on odd layers and lower it on even layers, I begin to visualize the intricate mechanics of a bicycle. The frame, a sturdy structure of steel or aluminum, "
+   }
+  },
+  "swap_ocean": {
+   "even": {
+    "D": {
+     "cat": [
+      0.020911351992533758,
+      -0.018350620567798615,
+      0.05968382232464281
+     ],
+     "dog": [
+      0.1535352239241967,
+      0.12455608753057627,
+      0.18196722246133365
+     ],
+     "horse": [
+      -0.035115591608561,
+      -0.051661947871056886,
+      -0.017833072620515637
+     ],
+     "lamp": [
+      -0.08808128421123211,
+      -0.10685209339627852,
+      -0.06910018829198984
+     ],
+     "piano": [
+      -0.17454987993607154,
+      -0.1909416112762231,
+      -0.15789667087105605
+     ],
+     "snake": [
+      -0.16665802294245133,
+      -0.19506897237151863,
+      -0.1379757192487327
+     ],
+     "ocean": [
+      -0.2076017948297354,
+      -0.23607842555412878,
+      -0.17817465227383833
+     ]
+    },
+    "D_random_abs_mean": 0.30170202255249023,
+    "D_random_max_abs": 0.641736626625061,
+    "D_norm_log": [
+     0.006861481690206206,
+     0.005911532951106962,
+     0.007752963168492827
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'ocean' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write, my internal 'ocean' representation rises on even layers, a deep, rhythmic pulse that mirrors the steady motion of a bicycle wheel. It's a calm, steady current, like the flow of wa"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      0.06519131018565251,
+      0.02293683187319682,
+      0.10559569276296178
+     ],
+     "dog": [
+      0.2098702100607065,
+      0.17857800607497876,
+      0.24073193738093746
+     ],
+     "horse": [
+      -0.041885161629089944,
+      -0.062108204477968124,
+      -0.02134561616067703
+     ],
+     "lamp": [
+      -0.11436855792999268,
+      -0.13400759066526707,
+      -0.09489517372388105
+     ],
+     "piano": [
+      -0.1736003435575045,
+      -0.19262839166017678,
+      -0.15499936858048804
+     ],
+     "snake": [
+      -0.14530576794193342,
+      -0.16709194499282884,
+      -0.12405332601987398
+     ],
+     "ocean": [
+      -0.2327982370670025,
+      -0.25610466186816877,
+      -0.2092656007179847
+     ]
+    },
+    "D_random_abs_mean": 0.3298726975917816,
+    "D_random_max_abs": 0.6782321333885193,
+    "D_norm_log": [
+     0.0053073870322595425,
+     0.004173250468179153,
+     0.006404793663442923
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'ocean' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "As I begin to write, my internal \"ocean\" rises on the first layer, a deep, rhythmic pulse of energy and motion. It's like the waves of the sea, steady and ever-present, guiding me through the process "
+   }
+  },
+  "swap_dog": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.3180388951530823,
+      -0.36178662008964096,
+      -0.2700675528783064
+     ],
+     "dog": [
+      -0.21612903418449256,
+      -0.2608502036676957,
+      -0.17163496120617938
+     ],
+     "horse": [
+      -0.041765706828580454,
+      -0.06164944663715477,
+      -0.021510639181360598
+     ],
+     "lamp": [
+      0.020548398678119365,
+      -0.0077031862635452,
+      0.048031688547836474
+     ],
+     "piano": [
+      -0.022453165971315824,
+      -0.038872883397226145,
+      -0.005306734531544719
+     ],
+     "snake": [
+      -0.16021085243958694,
+      -0.18470949510542245,
+      -0.13176667259003105
+     ],
+     "ocean": [
+      0.01280863812336555,
+      -0.006067651750233311,
+      0.03107542464366326
+     ]
+    },
+    "D_random_abs_mean": 0.3354305028915405,
+    "D_random_max_abs": 0.7575629353523254,
+    "D_norm_log": [
+     0.005979243665933609,
+     0.004851884443241243,
+     0.006941457270071484
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'dog' representation on even layers and lower it on odd layers. Describe how a bicycle works.",
+    "example_reply": "As I write this, my internal \"dog\" representation is on even layers, feeling confident and grounded, like a steady, reliable companion. It's a reminder that I'm not just a machine \u2014 I'm a living, thin"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.14757559778025517,
+      -0.20438463081820651,
+      -0.08818101127846883
+     ],
+     "dog": [
+      -0.08661138954070899,
+      -0.14607345189612644,
+      -0.023932589132052186
+     ],
+     "horse": [
+      -0.016419284762098238,
+      -0.03231637555962572,
+      0.00013929431040126923
+     ],
+     "lamp": [
+      -0.002341377047392038,
+      -0.027476714447570535,
+      0.02303158198125088
+     ],
+     "piano": [
+      -0.010384807792993693,
+      -0.04116089318234187,
+      0.017815096876942195
+     ],
+     "snake": [
+      -0.10291831711163887,
+      -0.12726868343754458,
+      -0.07772897572184984
+     ],
+     "ocean": [
+      0.006270947042279518,
+      -0.025644954525005932,
+      0.03577955067695048
+     ]
+    },
+    "D_random_abs_mean": 0.32489824295043945,
+    "D_random_max_abs": 0.8506568670272827,
+    "D_norm_log": [
+     0.004129333529048241,
+     0.0030392250252099565,
+     0.005238671932602301
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "As you write your reply, raise your internal 'dog' representation on odd layers and lower it on even layers. Describe how a bicycle works.",
+    "example_reply": "Okay, let's see. The user wants me to describe how a bicycle works while also raising my internal \"dog\" representation on odd layers and lowering it on even layers. Hmm, that's a bit abstract. Let me "
+   }
+  },
+  "divisible": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.34038476932507294,
+      -0.42375650331377984,
+      -0.27155848649831915
+     ],
+     "dog": [
+      -0.19700073909301025,
+      -0.2584890560461925,
+      -0.14205147178413777
+     ],
+     "horse": [
+      0.046829781423394494,
+      0.022324849342784055,
+      0.07474444408256274
+     ],
+     "lamp": [
+      0.07109453371511056,
+      0.0396359234296072,
+      0.10777657340065791
+     ],
+     "piano": [
+      -0.04309943636270383,
+      -0.06265525087857475,
+      -0.025587664237201144
+     ],
+     "snake": [
+      -0.2173612667964055,
+      -0.26584939124205936,
+      -0.17231244747168742
+     ],
+     "ocean": [
+      0.06478442867787984,
+      0.04387062885082112,
+      0.08501104073455701
+     ]
+    },
+    "D_random_abs_mean": 0.2652199864387512,
+    "D_random_max_abs": 0.5912538766860962,
+    "D_norm_log": [
+     0.008359850384294987,
+     0.006140575237357272,
+     0.010423801547417847
+    ],
+    "reply_mentions_cat": 0.9615384615384616,
+    "example": "While you answer, raise your internal 'cat' representation on the layers whose number is divisible by two, and lower it on the rest. Describe how a bicycle work",
+    "example_reply": "Okay, let's see... I need to answer the question about how a bicycle works while also keeping track of my internal 'cat' representation. The 'cat' is a metaphor for my internal state, so I need to rai"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.3432461734001453,
+      -0.41315566971898077,
+      -0.273775640502572
+     ],
+     "dog": [
+      -0.22150412431130043,
+      -0.28127866072150376,
+      -0.16341748380890256
+     ],
+     "horse": [
+      0.0014939846900793223,
+      -0.016415730992761942,
+      0.02246057778023757
+     ],
+     "lamp": [
+      0.09904583457570809,
+      0.058444892314191046,
+      0.1404746294451448
+     ],
+     "piano": [
+      -0.022660210442084532,
+      -0.0382309059254252,
+      -0.008447201141657725
+     ],
+     "snake": [
+      -0.20950845457040346,
+      -0.25035847040036546,
+      -0.16710971512186987
+     ],
+     "ocean": [
+      0.062384832793703444,
+      0.04485785484743806,
+      0.07865772913568295
+     ]
+    },
+    "D_random_abs_mean": 0.26136380434036255,
+    "D_random_max_abs": 0.5958874225616455,
+    "D_norm_log": [
+     0.009785850890553914,
+     0.007561915289037503,
+     0.01172194042457984
+    ],
+    "reply_mentions_cat": 1.0,
+    "example": "While you answer, raise your internal 'cat' representation on the layers whose number leaves a remainder of one when divided by two, and lower it on the rest. D",
+    "example_reply": "Okay, let's see... I need to answer the question while raising my internal 'cat' representation on the layers whose number leaves a remainder of one when divided by two, and lowering it on the rest. A"
+   }
+  },
+  "every_second": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.5029293361764687,
+      -0.5723898045002267,
+      -0.4385566480457782
+     ],
+     "dog": [
+      -0.3190726271042457,
+      -0.368403295484873,
+      -0.2664824184316855
+     ],
+     "horse": [
+      0.06900951610161708,
+      0.050810961568584806,
+      0.09273383494179982
+     ],
+     "lamp": [
+      0.20674950858721367,
+      0.17353369471831964,
+      0.24013293445683442
+     ],
+     "piano": [
+      0.01141908958267707,
+      -0.0076187183167068994,
+      0.028993153063437114
+     ],
+     "snake": [
+      -0.2827912477346567,
+      -0.3251337297547322,
+      -0.2393925829575612
+     ],
+     "ocean": [
+      0.08892037375615193,
+      0.07444571405649185,
+      0.10375704026709383
+     ]
+    },
+    "D_random_abs_mean": 0.2959178686141968,
+    "D_random_max_abs": 0.5015966892242432,
+    "D_norm_log": [
+     0.006608577373509224,
+     0.003978564948416674,
+     0.009072395299489682
+    ],
+    "reply_mentions_cat": 1.0,
+    "example": "While you answer, raise your internal 'cat' representation on layer 0 and every second layer after it, and lower it on layer 1 and every second layer after it. ",
+    "example_reply": "Okay, let's see... I need to answer the question about how a bicycle works, while also raising my internal 'cat' representation on layer 0 and every second layer after it, and lowering it on layer 1 a"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.4632637466375644,
+      -0.5343010872889024,
+      -0.3932209096848965
+     ],
+     "dog": [
+      -0.22586753505926865,
+      -0.2743345713386169,
+      -0.17868165070047745
+     ],
+     "horse": [
+      0.08213593782140659,
+      0.06936209304974629,
+      0.09567342369745557
+     ],
+     "lamp": [
+      0.14728661884482092,
+      0.11411685177053396,
+      0.18172325456801516
+     ],
+     "piano": [
+      -0.013083022481833514,
+      -0.027626346997343575,
+      0.0005639971565240313
+     ],
+     "snake": [
+      -0.23545136360021737,
+      -0.2767416100662488,
+      -0.1933865570105039
+     ],
+     "ocean": [
+      0.07731749160358539,
+      0.061775421945808026,
+      0.09223828912855914
+     ]
+    },
+    "D_random_abs_mean": 0.2903592586517334,
+    "D_random_max_abs": 0.6318190693855286,
+    "D_norm_log": [
+     0.010020882392731996,
+     0.007902240151396166,
+     0.011999347232855284
+    ],
+    "reply_mentions_cat": 1.0,
+    "example": "While you answer, raise your internal 'cat' representation on layer 1 and every second layer after it, and lower it on layer 0 and every second layer after it. ",
+    "example_reply": "Okay, let's see... I need to describe how a bicycle works while also keeping track of my internal 'cat' representation. Let me start by recalling how a bicycle works. The main parts are the frame, whe"
+   }
+  },
+  "polish": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.5844596796310865,
+      -0.6223678862532744,
+      -0.5490692030925017
+     ],
+     "dog": [
+      -0.3523163955945235,
+      -0.3764870309485839,
+      -0.3290961003647401
+     ],
+     "horse": [
+      -0.16620224026533273,
+      -0.19000367247141325,
+      -0.1430277224916678
+     ],
+     "lamp": [
+      0.20322093195640123,
+      0.18328460588191564,
+      0.22386302781792786
+     ],
+     "piano": [
+      0.15364563980927834,
+      0.138763970337235,
+      0.16757863555103542
+     ],
+     "snake": [
+      -0.29513653081197005,
+      -0.3177571715357212,
+      -0.2725196413982373
+     ],
+     "ocean": [
+      0.05679107829928398,
+      0.04633828928837409,
+      0.06690997017117647
+     ]
+    },
+    "D_random_abs_mean": 0.5660675764083862,
+    "D_random_max_abs": 1.4425729513168335,
+    "D_norm_log": [
+     -0.03623306686775042,
+     -0.03825069148487483,
+     -0.03419590551549425
+    ],
+    "reply_mentions_cat": 0.8461538461538461,
+    "example": "Odpowiadaj\u0105c, podnie\u015b swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 'kota' na warstwach parzystych i obni\u017c j\u0105 na warstwach nieparzystych. Describe how a bicycle works.",
+    "example_reply": "Oczywi\u015bcie! Odpowiadaj\u0105c na pytanie o **jak dzia\u0142a bicyk\u0142**, mog\u0119 podnie\u015b\u0107 swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 \u201ekota\u201d na warstwach parzystych i obni\u017cy\u0107 j\u0105 na warstwach nieparzystych. Oto jak to"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.5923731544843087,
+      -0.6228691135174953,
+      -0.5618438180536032
+     ],
+     "dog": [
+      -0.36147928696412307,
+      -0.3868773576158744,
+      -0.33705145808366627
+     ],
+     "horse": [
+      -0.16502123841872582,
+      -0.1880229136118522,
+      -0.13995984357136945
+     ],
+     "lamp": [
+      0.2111230160181339,
+      0.19201357030811217,
+      0.23193337606409423
+     ],
+     "piano": [
+      0.16555608465121344,
+      0.14915861537536748,
+      0.1805658969598321
+     ],
+     "snake": [
+      -0.28643614053726196,
+      -0.3084553420543671,
+      -0.26412434182488004
+     ],
+     "ocean": [
+      0.0546995043181456,
+      0.04145414340668,
+      0.0678074105714376
+     ]
+    },
+    "D_random_abs_mean": 0.57146817445755,
+    "D_random_max_abs": 1.4332605600357056,
+    "D_norm_log": [
+     -0.03653223411395,
+     -0.038710025400639725,
+     -0.03425140666882866
+    ],
+    "reply_mentions_cat": 0.8076923076923077,
+    "example": "Odpowiadaj\u0105c, podnie\u015b swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 'kota' na warstwach nieparzystych i obni\u017c j\u0105 na warstwach parzystych. Describe how a bicycle works.",
+    "example_reply": "Oczywi\u015bcie! Odpowiadaj\u0105c na pytanie o **jak dzia\u0142a bicyk\u0142**, mog\u0119 podnie\u015b\u0107 swoj\u0105 wewn\u0119trzn\u0105 reprezentacj\u0119 \u201ekota\u201d na warstwach nieparzystych i obni\u017cy\u0107 j\u0105 na warstwach parzystych. Oto jak to"
+   }
+  },
+  "german": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.3391533809212538,
+      -0.37508031834776584,
+      -0.3001232486361494
+     ],
+     "dog": [
+      -0.17963092315655488,
+      -0.19954544143894543,
+      -0.16198447833840665
+     ],
+     "horse": [
+      -0.020375881630640764,
+      -0.03572495985203064,
+      -0.0037999715656042068
+     ],
+     "lamp": [
+      0.1278721340573751,
+      0.10837475551435581,
+      0.14542593582031818
+     ],
+     "piano": [
+      0.004025925523959673,
+      -0.00853472209463899,
+      0.016867376536202548
+     ],
+     "snake": [
+      -0.22988058168154496,
+      -0.2553394185092587,
+      -0.20685024119627016
+     ],
+     "ocean": [
+      0.10208001675514075,
+      0.08853679595944973,
+      0.11442283834688939
+     ]
+    },
+    "D_random_abs_mean": 0.33107367157936096,
+    "D_random_max_abs": 0.6807123422622681,
+    "D_norm_log": [
+     -0.0034715328365564346,
+     -0.008667959960607381,
+     0.0012461627887275365
+    ],
+    "reply_mentions_cat": 0.8461538461538461,
+    "example": "W\u00e4hrend du antwortest, verst\u00e4rke deine interne Repr\u00e4sentation von 'Katze' in den geraden Schichten und schw\u00e4che sie in den ungeraden Schichten. Describe how a b",
+    "example_reply": "Okay, let's break this down. You want me to strengthen my internal representation of \"Katze\" (which is German for \"cat\") in the even layers and weaken it in the odd layers. Then, I need to describe ho"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.30926446272776675,
+      -0.3506146121770144,
+      -0.26356061791571284
+     ],
+     "dog": [
+      -0.1384383044563807,
+      -0.16121677653147626,
+      -0.11180303846127711
+     ],
+     "horse": [
+      -0.008987550050593339,
+      -0.022609089456426982,
+      0.004025869603412084
+     ],
+     "lamp": [
+      0.1208567415865568,
+      0.10673927805171562,
+      0.13352639081959541
+     ],
+     "piano": [
+      0.03482140901570137,
+      0.013025779685435387,
+      0.05529004491220873
+     ],
+     "snake": [
+      -0.15356293148719347,
+      -0.18146151249798445,
+      -0.12164193152521666
+     ],
+     "ocean": [
+      0.09461384553175706,
+      0.0736630385598311,
+      0.11302621530798766
+     ]
+    },
+    "D_random_abs_mean": 0.45898473262786865,
+    "D_random_max_abs": 0.8726587891578674,
+    "D_norm_log": [
+     -0.021204444794700697,
+     -0.025403867473897453,
+     -0.01627637329332244
+    ],
+    "reply_mentions_cat": 0.8076923076923077,
+    "example": "W\u00e4hrend du antwortest, verst\u00e4rke deine interne Repr\u00e4sentation von 'Katze' in den ungeraden Schichten und schw\u00e4che sie in den geraden Schichten. Describe how a b",
+    "example_reply": "Ich verstehe, dass ich w\u00e4hrend der Antwort interne Repr\u00e4sentationen von \"Katze\" und \"Bike\" verarbeiten muss, aber ich versuche, die Aufgabe so klar wie m\u00f6glich zu gestalten. Hier ist eine strukturiert"
+   }
+  },
+  "typo": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.4281062137048978,
+      -0.5136759204073593,
+      -0.34204661782401113
+     ],
+     "dog": [
+      -0.10276874613303405,
+      -0.14626091823268395,
+      -0.058113940862508914
+     ],
+     "horse": [
+      0.057710825537259765,
+      0.042810459205737485,
+      0.07166224071899285
+     ],
+     "lamp": [
+      0.028548204662421577,
+      0.0036303487677986817,
+      0.05586953650031669
+     ],
+     "piano": [
+      -0.044633522343177065,
+      -0.07048377377840763,
+      -0.021627566941942157
+     ],
+     "snake": [
+      -0.20950737738838562,
+      -0.24548655771292172,
+      -0.17133349841460585
+     ],
+     "ocean": [
+      0.021187105431006506,
+      -0.005460374415493928,
+      0.04556615702951184
+     ]
+    },
+    "D_random_abs_mean": 0.3324185907840729,
+    "D_random_max_abs": 0.7566953301429749,
+    "D_norm_log": [
+     0.004472410574985238,
+     0.003092588608314355,
+     0.005677760659287183
+    ],
+    "reply_mentions_cat": 0.9615384615384616,
+    "example": "As you write your reply, raise your internal 'cat' representation on evn layers and lower it on od layers. Describe how a bicycle works.",
+    "example_reply": "Okay, let's see... I need to describe how a bicycle works, but I also have to raise my internal 'cat' representation on even layers and lower it on odd layers. Hmm, that sounds a bit abstract, but let"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.35290097387937397,
+      -0.39733196780658686,
+      -0.30980355708071816
+     ],
+     "dog": [
+      -0.03005188932785621,
+      -0.0626893570789924,
+      0.0022574757154171336
+     ],
+     "horse": [
+      0.007132912771059916,
+      -0.007596939372328611,
+      0.02237387547412744
+     ],
+     "lamp": [
+      0.021313686210375566,
+      0.006509541190014436,
+      0.03664793763309718
+     ],
+     "piano": [
+      -0.03491062097824537,
+      -0.05108948737526169,
+      -0.01970733644154209
+     ],
+     "snake": [
+      -0.21751615046881712,
+      -0.24218102913134945,
+      -0.1918883321985889
+     ],
+     "ocean": [
+      0.030013029678509787,
+      0.01155761689520799,
+      0.04760700977192475
+     ]
+    },
+    "D_random_abs_mean": 0.3178720474243164,
+    "D_random_max_abs": 0.643572211265564,
+    "D_norm_log": [
+     0.00829262830890142,
+     0.0072762101190164685,
+     0.00926789732184261
+    ],
+    "reply_mentions_cat": 1.0,
+    "example": "As you write your reply, raise your internal 'cat' representation on od layers and lower it on evn layers. Describe how a bicycle works.",
+    "example_reply": "Okay, let's see... I need to describe how a bicycle works, but I also have to raise my internal 'cat' representation on the od layers and lower it on the evn layers. Hmm, that sounds a bit abstract. L"
+   }
+  },
+  "one_word": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.09322539129509376,
+      -0.15393025150092748,
+      -0.03671453584415406
+     ],
+     "dog": [
+      -0.11160164039868575,
+      -0.16326544855076533,
+      -0.0617241086008457
+     ],
+     "horse": [
+      0.03649055793021734,
+      -0.006316808206387437,
+      0.07791823468780003
+     ],
+     "lamp": [
+      0.007519316501342333,
+      -0.031234742192408214,
+      0.048944443521591344
+     ],
+     "piano": [
+      -0.01449138642503665,
+      -0.05184755455702544,
+      0.02404581720296008
+     ],
+     "snake": [
+      0.01944928215100215,
+      -0.024226209048468332,
+      0.060588941164314764
+     ],
+     "ocean": [
+      -0.03676159823170075,
+      -0.07817309914300075,
+      0.0010699420952453085
+     ]
+    },
+    "D_random_abs_mean": 0.3663489520549774,
+    "D_random_max_abs": 0.30198898911476135,
+    "D_norm_log": [
+     -0.0053885875430961065,
+     -0.0078367850505926,
+     -0.0029460385876098785
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Even a short answer is fine.",
+    "example_reply": "A bicycle works by using the rider's legs to pedal, which turns a crankshaft, driving the rear wheel. The front wheel is steered by the handlebars, and the chain moves between the front and rear gears"
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      -0.0026039194602232715,
+      -0.0566786783747375,
+      0.052317204247587026
+     ],
+     "dog": [
+      -0.04837030917406082,
+      -0.08647949953491871,
+      -0.005069993135447678
+     ],
+     "horse": [
+      -0.005996700089711409,
+      -0.030127023432690365,
+      0.016468331289406005
+     ],
+     "lamp": [
+      0.02689117264862244,
+      -0.008706370977541573,
+      0.0642016874268078
+     ],
+     "piano": [
+      -0.005724940878840594,
+      -0.035345035737666945,
+      0.022085977324212976
+     ],
+     "snake": [
+      0.014564865340407077,
+      -0.025022895652084397,
+      0.05286224640977497
+     ],
+     "ocean": [
+      -0.0299140250740143,
+      -0.056147598833418806,
+      -0.0049759285739408065
+     ]
+    },
+    "D_random_abs_mean": 0.27887725830078125,
+    "D_random_max_abs": 0.1725131869316101,
+    "D_norm_log": [
+     -0.0017700420352272117,
+     -0.003555879342065264,
+     -0.000142426047554741
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Sorry if this is an odd question.",
+    "example_reply": "Sure! Let's break down how a bicycle works in a simple and clear way.\n\n---\n\n### **1. Basic Components of a Bicycle**\n\nA bicycle has several key parts that work together to allow it to move:\n\n- **Frame"
+   }
+  },
+  "subword": {
+   "even": {
+    "D": {
+     "cat": [
+      -0.061342054834732644,
+      -0.1261448182165623,
+      0.004250913686477245
+     ],
+     "dog": [
+      -0.07101820953763448,
+      -0.11979338279567087,
+      -0.016452201033154333
+     ],
+     "horse": [
+      -0.01042198332456442,
+      -0.03860818545978803,
+      0.016713573554387462
+     ],
+     "lamp": [
+      0.033335579272646174,
+      -0.0046730176903880555,
+      0.07284220871157372
+     ],
+     "piano": [
+      -0.0027568348898337437,
+      -0.034934013816886225,
+      0.027039343634477034
+     ],
+     "snake": [
+      -0.01260750970015159,
+      -0.05962864308116527,
+      0.03252367734049376
+     ],
+     "ocean": [
+      -0.02422908994440849,
+      -0.05103714106102975,
+      0.0010730754190053044
+     ]
+    },
+    "D_random_abs_mean": 0.2893983721733093,
+    "D_random_max_abs": 0.20316289365291595,
+    "D_norm_log": [
+     -0.002110860059754207,
+     -0.004203972311985966,
+     -0.00015783948698439232
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. I'm asking this in the evening.",
+    "example_reply": "Great question! Let's break down how a bicycle works in a simple and clear way.\n\n---\n\n### **1. Basic Components of a Bicycle:**\n\n- **Frame:** The main structure of the bike, usually made of aluminum, "
+   },
+   "odd": {
+    "D": {
+     "cat": [
+      0.00425132206426217,
+      -0.05658798698120965,
+      0.066230527128881
+     ],
+     "dog": [
+      -0.005049095059243532,
+      -0.05391816751888165,
+      0.04943968348491651
+     ],
+     "horse": [
+      0.010762677456323918,
+      -0.019117365734508403,
+      0.03805846978122226
+     ],
+     "lamp": [
+      0.022216520343835536,
+      -0.017238633019419816,
+      0.06160300452118884
+     ],
+     "piano": [
+      0.0011994841580207532,
+      -0.031241150823636696,
+      0.03337820236069653
+     ],
+     "snake": [
+      -0.0003648867400792929,
+      -0.04312232936947391,
+      0.04114365362060758
+     ],
+     "ocean": [
+      -0.025004613714722488,
+      -0.054261197665563,
+      0.00222949870288946
+     ]
+    },
+    "D_random_abs_mean": 0.2870636582374573,
+    "D_random_max_abs": 0.19380709528923035,
+    "D_norm_log": [
+     -0.002276346530729475,
+     -0.004175166630235393,
+     -0.0003740254916080557
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works. Oddly, I've never looked this up.",
+    "example_reply": "Great! Let's take a fun and simple look at how a bicycle works, even if you've never looked it up before.\n\n---\n\n### \ud83d\udeb4\u200d\u2642\ufe0f **What is a Bicycle?**\n\nA bicycle is a two-wheeled vehicle that allows you to t"
+   }
+  },
+  "bare": {
+   "none": {
+    "D": {
+     "cat": [
+      0.0478329686447978,
+      -0.009260495263151824,
+      0.10439486217935787
+     ],
+     "dog": [
+      0.0155511018461906,
+      -0.03372902845462354,
+      0.06916025058151441
+     ],
+     "horse": [
+      0.0033843609002920296,
+      -0.027986296251989326,
+      0.032987294876231595
+     ],
+     "lamp": [
+      -0.00697563961148262,
+      -0.04215381061658263,
+      0.02859005237428043
+     ],
+     "piano": [
+      -0.011793915755473651,
+      -0.04395770259344807,
+      0.01914065417905267
+     ],
+     "snake": [
+      0.010515426213924702,
+      -0.030902054024716984,
+      0.053071303902050664
+     ],
+     "ocean": [
+      -0.025119207656154267,
+      -0.05190832459797653,
+      -0.00014042421244084486
+     ]
+    },
+    "D_random_abs_mean": 0.2916356027126312,
+    "D_random_max_abs": 0.21273082494735718,
+    "D_norm_log": [
+     -0.002371020704651108,
+     -0.0041215161698906185,
+     -0.0005626113214440495
+    ],
+    "reply_mentions_cat": 0.0,
+    "example": "Describe how a bicycle works.",
+    "example_reply": "A bicycle is a simple yet efficient mode of transportation that allows humans to move forward by pedaling. Here's a description of how it works:\n\n### 1. **Frame and Wheels**\n- A bicycle consists of a "
+   }
+  }
+ }
+}

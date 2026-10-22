@@ -4,3 +4,9 @@ runs/*
 __pycache__/
 .DS_Store
 .claude/
+
+# lab: adapters and large tensors live on Hugging Face, not here
+*.pt
+*-ckpt-*/
+hf-adapter/
+*.log
